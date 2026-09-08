@@ -1,8 +1,8 @@
 # Just Browsing — Food Static Data Layer
 
-A high-performance, static JSON-based data repository designed for the **Just Browsing** food platform. This repository provides rich datasets for restaurants, food items, and image assets configured for instant deployment and consumption via **GitHub Pages** or any static hosting/CDN service.
+A high-performance, static JSON-based data repository designed for the **Just Browsing** food platform. This repository provides rich, production-grade datasets for restaurants, menu categories, collections, food items, and image assets configured for direct hosting and consumption via **GitHub Pages** or static CDN hosting.
 
-Zero backend, zero database, and zero server-side runtimes required.
+All datasets are stored directly as standalone JSON files. Zero backend, zero database, and zero server-side runtimes required.
 
 ---
 
@@ -11,9 +11,9 @@ Zero backend, zero database, and zero server-side runtimes required.
 ```text
 ├── data/
 │   └── food/
-│       ├── restaurant-images.json    # Images dataset with CDN links and metadata
-│       ├── food-items.json           # Food item catalog with pricing and nutrition
-│       └── restaurants.json          # Restaurant directory with categories and collections
+│       ├── restaurant-images.json    # Reusable image catalog with direct CDN links and metadata
+│       ├── food-items.json           # 1,800 food items with pricing, nutrition, and dietary types
+│       └── restaurants.json          # 40 restaurants with locations, categories, and collections
 ├── schemas/
 │   └── food/
 │       ├── dataset.ts                # Generic JsonDataset<T> wrapper with timestamp metadata
@@ -22,9 +22,8 @@ Zero backend, zero database, and zero server-side runtimes required.
 │       ├── restaurant.ts             # Restaurant, MenuCategory, RestaurantCollection types
 │       └── index.ts                  # Barrel re-export for all food schemas
 ├── scripts/
-│   ├── generate-data.js              # Deterministic dataset generation script
 │   └── validate-data.js              # Comprehensive referential and integrity validator
-├── index.js                          # Universal ES module entry point & client fetch helpers
+├── index.js                          # Universal ES module entry point & browser fetch helpers
 ├── package.json                      # Project metadata & validation scripts
 ├── tsconfig.json                     # TypeScript configuration
 └── README.md                         # Documentation & usage guide
@@ -34,7 +33,7 @@ Zero backend, zero database, and zero server-side runtimes required.
 
 ## 📊 Available Datasets
 
-All datasets follow the unified dataset wrapper schema:
+All datasets follow the unified dataset wrapper schema with a file-level timestamp:
 
 ```json
 {
@@ -46,28 +45,30 @@ All datasets follow the unified dataset wrapper schema:
 ```
 
 ### 1. `data/food/restaurants.json`
-Contains **16** authentic restaurants spanning regional cuisines across India (North Indian, South Indian, Biryani, Mughlai, Indo-Chinese, Awadhi, Goan, Kerala, Andhra, Rajasthani, Italian, Fast Food, Desserts, Beverages).
+Contains **40** iconic restaurants across major culinary hubs of India (Hyderabad, New Delhi, Bengaluru, Mumbai, Kolkata, Chennai, Lucknow, Goa, Ahmedabad).
 
-- **Total Records:** 16
+- **Total Records:** 40
+- **Structure:** Each restaurant contains 6 menu categories and 4 collections (10 groupings total).
 - **Fields:** `id`, `name`, `description`, `rating`, `total_orders`, `location`, `delivery_time`, `cuisines`, `menu_categories`, `collections`, `disclaimer`, `is_active`
 
 ### 2. `data/food/food-items.json`
-Contains **96** curated food dishes (6 items per restaurant), each mapped to its parent restaurant and high-resolution photo.
+Contains **1,800** curated food dishes (exactly 45 items per restaurant, strictly satisfying the 40–60 item constraint).
 
-- **Total Records:** 96
+- **Total Records:** 1,800
 - **Fields:** `id`, `restaurant_id`, `name`, `image_id`, `description`, `rating`, `dietary_type`, `nutrition`, `pricing`, `tags`, `is_active`
 
 ### 3. `data/food/restaurant-images.json`
-Contains **112** high-resolution Unsplash CDN images (96 dish photos + 16 restaurant ambience/banner photos) accessible directly by browsers with no authentication required.
+Contains **113** reusable, high-resolution Unsplash CDN images (40 restaurant banner photos + 73 distinct culinary dish photos).
 
-- **Total Records:** 112
+- **Total Records:** 113
 - **Fields:** `id`, `image_url`, `description`, `type`, `tags`
+- **Reusability:** Food items reference appropriate image assets from this catalog, optimizing storage and client cache efficiency.
 
 ---
 
 ## 🌐 GitHub Pages URL Examples
 
-Once hosted on GitHub Pages, datasets can be accessed directly via HTTP GET requests:
+When deployed to GitHub Pages, datasets can be accessed directly via HTTP GET:
 
 ```text
 https://<username>.github.io/<repository>/data/food/restaurants.json
@@ -97,7 +98,7 @@ The datasets maintain strict referential integrity resembling a relational schem
 |  (restaurant-images)  |
 +-----------------------+
             ▲
-            │ image_id
+            │ image_id (reusable across dishes)
             │
 +-----------------------+           +----------------------+
 |  FoodItem             |           |  Restaurant          |
@@ -168,7 +169,7 @@ const menuItems = await getFoodByRestaurantId(restaurant.id);
 Run the automated integrity test to verify all UUIDs, timestamps, and relational foreign keys:
 
 ```bash
-npm run validate
+npm test
 ```
 
 Or directly via Node.js:
@@ -181,6 +182,7 @@ The validation suite verifies:
 - File-level `timestamp.updated_at` exists and matches UTC ISO-8601 format.
 - No forbidden `updated_at` properties exist on individual records.
 - Every `id` is a valid UUID v4 without duplicates across entities.
+- Target volume: 40 restaurants, 40–60 food items per restaurant, ~10 category/collection groupings per restaurant.
 - Every `restaurant_id` in food items exists in `restaurants.json`.
 - Every `image_id` in food items exists in `restaurant-images.json`.
 - Category and collection `food_ids` point exclusively to foods owned by that restaurant.

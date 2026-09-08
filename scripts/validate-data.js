@@ -89,18 +89,15 @@ function runValidation() {
 
   // 4. Validate counts
   console.log(`Summary of records:`);
-  console.log(`- Restaurants: ${restaurants.length} (Target: 15-20)`);
-  console.log(`- Food Items:  ${foodItems.length} (Target: 80-120)`);
-  console.log(`- Images:      ${images.length} (Target: 80-120)\n`);
+  console.log(`- Restaurants: ${restaurants.length} (Target: ~40)`);
+  console.log(`- Food Items:  ${foodItems.length} (Target: 40-60 per restaurant)`);
+  console.log(`- Images:      ${images.length} (Reusable catalog)\n`);
 
-  if (restaurants.length < 15 || restaurants.length > 20) {
-    errors.push(`Restaurant count (${restaurants.length}) outside recommended 15-20 range.`);
+  if (restaurants.length < 35 || restaurants.length > 45) {
+    errors.push(`Restaurant count (${restaurants.length}) outside expected ~40 range.`);
   }
-  if (foodItems.length < 80 || foodItems.length > 120) {
-    errors.push(`Food items count (${foodItems.length}) outside recommended 80-120 range.`);
-  }
-  if (images.length < 80 || images.length > 120) {
-    errors.push(`Images count (${images.length}) outside recommended 80-120 range.`);
+  if (foodItems.length < 1400 || foodItems.length > 2500) {
+    errors.push(`Total food items count (${foodItems.length}) outside expected range for 40 restaurants with 40-60 items each.`);
   }
 
   // Set for global UUID uniqueness
@@ -329,11 +326,16 @@ function runValidation() {
     }
   });
 
-  // 8. Referential integrity: Every restaurant must have food items
+  // 8. Referential integrity: Every restaurant must have minimum 40 and maximum 60 food records
   restaurants.forEach(r => {
     const count = restaurantFoodCounts.get(r.id) || 0;
-    if (count === 0) {
-      errors.push(`[Referential Integrity] Restaurant "${r.name}" (${r.id}) has NO food items assigned to it.`);
+    if (count < 40 || count > 60) {
+      errors.push(`[Food Count] Restaurant "${r.name}" (${r.id}) has ${count} food items (Required: between 40 and 60).`);
+    }
+
+    const totalGroupings = (r.menu_categories ? r.menu_categories.length : 0) + (r.collections ? r.collections.length : 0);
+    if (totalGroupings < 8 || totalGroupings > 12) {
+      warnings.push(`[Groupings] Restaurant "${r.name}" has ${totalGroupings} total categoryNames/collectionNames (Target: around 10).`);
     }
   });
 
