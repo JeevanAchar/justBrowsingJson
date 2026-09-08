@@ -1,0 +1,2503 @@
+{
+  "timestamp": {
+    "updated_at": "2026-09-08T03:15:42.000Z"
+  },
+  "data": [
+    {
+      "id": "a427f9b9-4744-4c4e-a378-b937130c8b96",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Hyderabadi Chicken Dum Biryani",
+      "image_id": "de843ade-dd0c-4181-a8f6-63cccecec3cd",
+      "description": "Authentic kacchi dum biryani layered with marinated chicken, saffron rice, caramelized onions, and pot-sealed aromatics.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 720
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 320,
+          "selling_price": 269
+        }
+      ],
+      "tags": [
+        "bestseller",
+        "biryani",
+        "chicken",
+        "hyderabadi"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "9ab715c9-eb2e-45d4-b977-4f669f927ce0",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Nizami Mutton Biryani",
+      "image_id": "9ffddf42-c8cf-4ff2-a6b7-a7b55478184e",
+      "description": "Succulent baby goat meat tenderly cooked with aged basmati rice, royal spices, and infused with saffron and desi ghee.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 850
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 440,
+          "selling_price": 389
+        }
+      ],
+      "tags": [
+        "mutton",
+        "royal",
+        "biryani",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "dcb4b752-c119-476d-b0a5-6f372356e47c",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Hyderabadi Mirchi Ka Salan",
+      "image_id": "8396aa4c-a5e1-4dc1-a686-6a94112095ff",
+      "description": "Traditional peanut, sesame, and coconut gravy simmered with lightly charred bhavnagri chillies.",
+      "rating": 4.4,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 240
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 160,
+          "selling_price": 139
+        }
+      ],
+      "tags": [
+        "curry",
+        "side-dish",
+        "spicy",
+        "traditional"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "9dd2672c-df7a-4835-ad15-64674cd11e02",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Andhra Chicken 65",
+      "image_id": "5e73ce34-bbe9-466d-931b-24eb5698428d",
+      "description": "Crispy deep-fried chicken cubes tossed with curry leaves, crushed green chillies, garlic, and freshly ground pepper.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 410
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 280,
+          "selling_price": 239
+        }
+      ],
+      "tags": [
+        "starter",
+        "chicken",
+        "crispy",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "0af312e6-50c6-44de-bb4c-cb3bba276967",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Double Ka Meetha",
+      "image_id": "cb298989-5ecb-4c38-90f8-0d39b7686886",
+      "description": "Crispy fried bread slices soaked in thickened saffron cardamom milk, topped with sliced pistachios and almonds.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 150,
+          "selling_price": 129
+        }
+      ],
+      "tags": [
+        "dessert",
+        "sweet",
+        "shahi",
+        "hyderabadi"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "6f71b911-f92b-46ad-b510-d82668205c5c",
+      "restaurant_id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Kadak Irani Chai",
+      "image_id": "1b2a6628-7ecd-4aab-8768-6ec56de475e2",
+      "description": "Rich, thick, slow-boiled milk tea brewed with crushed cardamom, cinnamon, and special Assam tea leaves.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 120
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 60,
+          "selling_price": 49
+        }
+      ],
+      "tags": [
+        "beverage",
+        "tea",
+        "hot",
+        "irani"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "8c6fcea8-c78a-46ac-b282-d769c7618759",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Murgh Makhani Butter Chicken",
+      "image_id": "80466aac-4dff-4f4a-8fcf-47ae6d9c232f",
+      "description": "Charcoal-grilled chicken pieces simmered in silky tomato gravy rich with white butter, cream, and dried fenugreek leaves.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 680
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 380,
+          "selling_price": 329
+        }
+      ],
+      "tags": [
+        "butter-chicken",
+        "curry",
+        "bestseller",
+        "creamy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "5874eb9d-d36c-499e-a226-5d7ef25e767c",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Dal Makhani Bukhara Style",
+      "image_id": "9b5b45c1-da9b-41ea-9b1b-d77c9618deb8",
+      "description": "Whole black lentils and kidney beans slow-simmered overnight over charcoal embers with butter and cream.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 460
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 290,
+          "selling_price": 249
+        }
+      ],
+      "tags": [
+        "dal-makhani",
+        "lentils",
+        "vegetarian",
+        "classic"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bdbd3a1d-8288-4547-aa00-c348d0665d23",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Tandoori Paneer Tikka",
+      "image_id": "a04bd9c6-a19d-40ea-925b-46a2f89d1af8",
+      "description": "Fresh malai paneer cubes marinated in hung curd, Kashmiri chilli, mustard oil, and char-grilled on clay skewers.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 390
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 290,
+          "selling_price": 259
+        }
+      ],
+      "tags": [
+        "paneer",
+        "tikka",
+        "tandoor",
+        "starter"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "d7c3825f-9445-45cf-bf1a-d4287dd5025c",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Garlic Butter Naan",
+      "image_id": "4b0aae7a-585c-4406-9fff-2bdecbcdb440",
+      "description": "Leavened soft wheat bread baked in clay tandoor, brushed generously with melted butter and roasted garlic flakes.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 210
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 75,
+          "selling_price": 65
+        }
+      ],
+      "tags": [
+        "bread",
+        "naan",
+        "garlic",
+        "tandoor"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "c4d7294d-4aa4-45de-992b-8f71966749b9",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Amritsari Aloo Kulcha",
+      "image_id": "3e77cae3-3207-4ecb-b602-b782ea61e29d",
+      "description": "Flaky layered bread stuffed with spiced mashed potatoes, crushed coriander seeds, and pomegranate powder.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 280
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 110,
+          "selling_price": 95
+        }
+      ],
+      "tags": [
+        "kulcha",
+        "amritsari",
+        "potato",
+        "bread"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e2f3adcb-5f0e-414a-a992-6302d107ee86",
+      "restaurant_id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Gulab Jamun with Rabri",
+      "image_id": "90319487-7bca-4fd7-b9e5-f44b3d18224b",
+      "description": "Warm soft milk khoya dumplings soaked in rose water syrup, served over chilled saffron rabri.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 350
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 120
+        }
+      ],
+      "tags": [
+        "gulab-jamun",
+        "dessert",
+        "sweet",
+        "rabri"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "54201d8a-6df3-45f7-a657-3e8f072b4c60",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Ghee Masala Dosa",
+      "image_id": "6acacc87-3aa7-4969-b355-0bcd8048d437",
+      "description": "Crisp golden crepe roasted with pure desi ghee, filled with spiced potato onion mash, served with three chutneys and hot sambar.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "dosa",
+        "masala-dosa",
+        "ghee",
+        "breakfast"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "915916ca-69c6-45dd-88d2-0c34b5e4ab45",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Medu Vada Platter",
+      "image_id": "9d4166d6-4e16-4ad1-b020-c187a6a29349",
+      "description": "Two crispy golden black gram donuts crunchy on the outside and fluffy inside, served with freshly grated coconut chutney and drumstick sambar.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 260
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 95,
+          "selling_price": 80
+        }
+      ],
+      "tags": [
+        "vada",
+        "tiffin",
+        "crispy",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "21beb468-bca1-4dd4-94b8-3435be84df3e",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Chettinad Pepper Chicken",
+      "image_id": "efa441ee-1997-4631-b4c7-66b816ba719c",
+      "description": "Country chicken simmered in stone-ground roasted spices, fiery black peppercorns, shallots, and fragrant curry leaves.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 520
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 340,
+          "selling_price": 295
+        }
+      ],
+      "tags": [
+        "chettinad",
+        "spicy",
+        "chicken",
+        "curry"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "32964558-f48a-4c96-9710-694d2937143b",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Appam with Vegetable Stew",
+      "image_id": "8ad000fc-e7a8-47cb-b95e-dddc6c57bf8d",
+      "description": "Soft lacy fermented rice pancakes with pillowy spongy center, paired with mild coconut milk and garden veggie stew.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 310
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 190,
+          "selling_price": 165
+        }
+      ],
+      "tags": [
+        "appam",
+        "kerala",
+        "stew",
+        "coconut"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "d18eb118-9d46-4c2f-8984-90d4b8c83a2b",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Kerala Parotta with Egg Roast",
+      "image_id": "6876efda-b77e-4b22-8fb3-d5743c153f55",
+      "description": "Layered flaky Kerala parottas served with two hard-boiled eggs coated in thick spicy caramelized onion tomato masala.",
+      "rating": 4.5,
+      "dietary_type": "egg",
+      "nutrition": {
+        "calories": 480
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 220,
+          "selling_price": 189
+        }
+      ],
+      "tags": [
+        "egg",
+        "parotta",
+        "kerala",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e0678fbb-b1cd-4d76-a6ba-bf53914641cd",
+      "restaurant_id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Madras Filter Coffee",
+      "image_id": "e3063c89-3834-4d32-8454-db56f28e68e7",
+      "description": "Brewed using traditional brass chicory drip filter, frothed high with creamy hot milk and cane sugar.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 110
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 55,
+          "selling_price": 45
+        }
+      ],
+      "tags": [
+        "filter-coffee",
+        "kaapi",
+        "beverage",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "5578fb26-925f-40db-9437-8f31c5539480",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Veg Hakka Noodles",
+      "image_id": "08880458-4d35-4bbd-a21f-852433a06f51",
+      "description": "Wok-tossed thin wheat noodles with crisp cabbage, bell peppers, carrots, spring onions, and light soy seasoning.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 390
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 210,
+          "selling_price": 179
+        }
+      ],
+      "tags": [
+        "noodles",
+        "hakka",
+        "chinese",
+        "vegetarian"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "de1ad91d-f1a2-4721-8dfe-56d22e8b581f",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Chilli Chicken Kolkata Style",
+      "image_id": "1994ff5f-eb9d-4ccd-ac76-122fa987b844",
+      "description": "Tender chicken cubes battered and wok-tossed in pungent dark soya sauce, spicy green chillies, and crunchy capsicum.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 430
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 290,
+          "selling_price": 249
+        }
+      ],
+      "tags": [
+        "chilli-chicken",
+        "indo-chinese",
+        "bestseller",
+        "chicken"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "84d3e599-a999-4064-b785-a9010352feb2",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Schezwan Chicken Fried Rice",
+      "image_id": "c539d48e-3c77-44d2-b913-29042eee4a9f",
+      "description": "Long grain rice tossed over high flame with diced chicken, eggs, fiery house Schezwan pepper paste, and spring onion greens.",
+      "rating": 4.5,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 560
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 270,
+          "selling_price": 229
+        }
+      ],
+      "tags": [
+        "fried-rice",
+        "schezwan",
+        "spicy",
+        "chinese"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bfdc0e11-0a6e-40ef-a3fe-8d4586276bc3",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Steamed Chicken Dim Sum",
+      "image_id": "ab133904-0c02-4e81-9455-f417f6317419",
+      "description": "Six delicate translucent dumplings packed with minced chicken, ginger, and scallions, served with spicy chilli dip.",
+      "rating": 4.4,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 240,
+          "selling_price": 199
+        }
+      ],
+      "tags": [
+        "dim-sum",
+        "dumplings",
+        "steamed",
+        "appetizer"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bdc62197-d799-49c8-9246-fa91fdc03202",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Crispy Veg Spring Rolls",
+      "image_id": "c1492b0f-3114-430e-86ff-2f7d20d124d5",
+      "description": "Crisp golden rolls packed with shredded stir-fried vegetables and glass noodles, served with sweet chilli garlic sauce.",
+      "rating": 4.3,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 310
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 180,
+          "selling_price": 149
+        }
+      ],
+      "tags": [
+        "spring-rolls",
+        "crispy",
+        "starter",
+        "vegetarian"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "dd811b63-4102-41bb-9acf-a116a6f9de1a",
+      "restaurant_id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "Sweet Corn Chicken Soup",
+      "image_id": "363a9a87-06a4-4b71-b065-e9070f978fe3",
+      "description": "Classic velvety warm soup prepared with crushed cream corn kernels, tender shredded chicken, and beaten egg ribbons.",
+      "rating": 4.4,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 180
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 160,
+          "selling_price": 135
+        }
+      ],
+      "tags": [
+        "soup",
+        "sweet-corn",
+        "warm",
+        "comfort-food"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7e20fc85-46a2-4692-bfc5-24f897014049",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Steamed Idli with Sambar",
+      "image_id": "d2f8fed6-c671-4d9c-82d1-302ce5f91e62",
+      "description": "Two cloud-soft fermented rice-lentil steamed cakes served submerged in piping hot lentil vegetable sambar and spicy coconut chutney.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 180
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 70,
+          "selling_price": 59
+        }
+      ],
+      "tags": [
+        "idli",
+        "sambar",
+        "healthy",
+        "breakfast"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "d1ed1de4-7b3b-45ea-b783-76df0f370b55",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Ghee Mysore Masala Dosa",
+      "image_id": "a9e561e4-a934-4270-afd1-2bddf4bfcc67",
+      "description": "Thick crisp dosa smeared inside with fiery red garlic chutney, filled with potato bhaji, and roasted in rich clarified butter.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 420
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "mysore-masala-dosa",
+        "ghee",
+        "bestseller",
+        "dosa"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "5d49e33d-051d-4d35-b1a4-a0a83e8f716e",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Karnataka Bisi Bele Bath",
+      "image_id": "6c3d76d1-e350-4972-94f1-2c17fc9e5cd1",
+      "description": "Classic Mysore rice and toor dal mash cooked with seasonal vegetables, tamarind pulp, house spice mix, and cashew nuts in ghee.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "bisi-bele-bath",
+        "rice",
+        "karnataka",
+        "comfort-food"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "a712a901-deab-4a8e-8c3a-3c5b5c8f6c85",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Rava Kesari Bath",
+      "image_id": "cd8b359f-83b8-4a64-9264-58a2c66cdb47",
+      "description": "Golden semolina pudding simmered with pure ghee, saffron threads, cardamom, plump raisins, and golden fried cashew nuts.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 310
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 80,
+          "selling_price": 69
+        }
+      ],
+      "tags": [
+        "kesari",
+        "sweet",
+        "ghee",
+        "dessert"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "9d15d374-5bed-4071-8f84-cfe1802b697a",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Classic Curd Rice",
+      "image_id": "84496c4f-8594-4ede-a99c-8be12c1b6c22",
+      "description": "Cooling seasoned yogurt rice tempered with mustard seeds, curry leaves, ginger, pomegranate arils, and green chillies.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 250
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 90,
+          "selling_price": 75
+        }
+      ],
+      "tags": [
+        "curd-rice",
+        "comfort-food",
+        "soothing",
+        "rice"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "a4aa4333-a8bc-4163-be0a-063e31faccbf",
+      "restaurant_id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Kesar Badam Milk",
+      "image_id": "17d07a89-6ed7-47da-81b1-c1c053b4eb09",
+      "description": "Creamy reduced milk beverage infused with crushed almonds, real saffron strands, and fragrant green cardamom.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 210
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 75,
+          "selling_price": 65
+        }
+      ],
+      "tags": [
+        "badam-milk",
+        "kesar",
+        "drink",
+        "milk"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "20c95f15-a209-4525-9b84-a14e9b027ef5",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Kashmiri Rogan Josh",
+      "image_id": "2d66557f-045e-48c0-9dbd-51cf9426c84b",
+      "description": "Tender mutton shanks slow-braised in yogurt, Kashmiri red chillies, dry ginger powder, and crushed fennel seeds without onions.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 640
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 440,
+          "selling_price": 389
+        }
+      ],
+      "tags": [
+        "rogan-josh",
+        "mutton",
+        "kashmiri",
+        "wazwan"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "452d0dec-4d20-482b-ad15-c841e408ca4f",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Kashmiri Dum Aloo",
+      "image_id": "31122cb0-b169-429c-a985-fc5e80249533",
+      "description": "Baby potatoes deep-fried until blistered, then simmered in a velvet yogurt sauce scented with mawal petals and hing.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 390
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 280,
+          "selling_price": 239
+        }
+      ],
+      "tags": [
+        "dum-aloo",
+        "vegetarian",
+        "kashmiri",
+        "curry"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "110ec1da-d4a7-4593-a857-fe992ddb4927",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Gushtaba in Yakhni Gravy",
+      "image_id": "db1e9d4d-b634-4907-9caa-9e5274a4e2ce",
+      "description": "Hand-pounded mutton meatballs with fragrant spices, slow-poached in silky yogurt and wild saffron broth.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 590
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 470,
+          "selling_price": 419
+        }
+      ],
+      "tags": [
+        "gushtaba",
+        "mutton",
+        "wazwan",
+        "heritage"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "15b9e5c0-9727-495c-9af0-dfaf4ae39cb6",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Kashmiri Zafrani Pulao",
+      "image_id": "85eee8e1-10e9-487b-885d-566ced293590",
+      "description": "Long-grain basmati rice infused with pure Pampore saffron, topped with dried figs, apricots, walnuts, and caramelized onions.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 410
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 260,
+          "selling_price": 225
+        }
+      ],
+      "tags": [
+        "pulao",
+        "saffron",
+        "dry-fruits",
+        "rice"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "9150bf72-229b-43b5-a4ed-362e5fa9fe5c",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Kashmiri Phirni",
+      "image_id": "093e7a74-d23d-477d-91ba-eb6ef1d9323d",
+      "description": "Ground rice pudding slow-set in traditional earthen sakoras, perfumed with saffron and slivered green pistachios.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 130,
+          "selling_price": 110
+        }
+      ],
+      "tags": [
+        "phirni",
+        "dessert",
+        "sakora",
+        "pudding"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7a173c39-b617-471a-afe0-cb7f18cf814c",
+      "restaurant_id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Pampore Saffron Kehwa",
+      "image_id": "a68b2240-71c0-4c18-b873-063e02e13ea1",
+      "description": "Traditional Kashmiri green tea brewed with whole cinnamon sticks, green cardamom pods, saffron strands, and crushed almonds.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 70
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 90,
+          "selling_price": 79
+        }
+      ],
+      "tags": [
+        "kehwa",
+        "tea",
+        "saffron",
+        "beverage"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e3e64a7f-233a-4486-844c-6becf16739e7",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Goan Kingfish Curry",
+      "image_id": "cd4c8e5e-592d-4e03-9c60-a8dda9ea7501",
+      "description": "Fresh Surmai steaks simmered in fresh coconut milk, sour triphala, fiery dried Kashmiri chillies, and ginger.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 490
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 420,
+          "selling_price": 369
+        }
+      ],
+      "tags": [
+        "kingfish",
+        "curry",
+        "seafood",
+        "goan"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7694c270-2fbd-4520-95f4-74aed261ae87",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Goan Prawn Balchao",
+      "image_id": "99d4bc32-8977-4ace-8336-2c88da12cd14",
+      "description": "Plump ocean prawns pickled and cooked in a spicy, fiery, sweet-and-sour vinegar red masala with caramelized onions.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 440,
+          "selling_price": 389
+        }
+      ],
+      "tags": [
+        "prawns",
+        "balchao",
+        "spicy",
+        "tangy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "4baca219-8d65-40e0-ba71-80d9324c69cf",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Rava Fried Surmai",
+      "image_id": "8cd0e94c-f89b-486f-9f8e-ad0e70572483",
+      "description": "Marinated kingfish steaks rolled in spiced semolina crumb and shallow-fried till crispy on cast iron skillet.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 360
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 390,
+          "selling_price": 349
+        }
+      ],
+      "tags": [
+        "rava-fry",
+        "fish-fry",
+        "crispy",
+        "starter"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "3da2080d-4484-4d7e-bdca-ae8abdd2f722",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Goan Chicken Xacuti",
+      "image_id": "7f8a8d61-a89c-4bc4-a40f-84307951aeef",
+      "description": "Tender chicken pieces cooked with roasted whole spices, white poppy seeds, and fresh grated desiccated coconut.",
+      "rating": 4.5,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 510
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 340,
+          "selling_price": 299
+        }
+      ],
+      "tags": [
+        "chicken-xacuti",
+        "curry",
+        "roasted-spices",
+        "goan"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "a078cc6d-c444-42a5-9712-01a393e7f4bd",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Traditional Goan Bebinca",
+      "image_id": "504b42ed-fcfb-43c3-bb03-d163aca69f8c",
+      "description": "Classic seven-layered Indo-Portuguese pudding made from coconut milk, egg yolks, flour, sugar, and pure ghee.",
+      "rating": 4.6,
+      "dietary_type": "egg",
+      "nutrition": {
+        "calories": 360
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 160,
+          "selling_price": 139
+        }
+      ],
+      "tags": [
+        "bebinca",
+        "dessert",
+        "pudding",
+        "layered"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e57b47d6-58f3-4735-85ab-676c3b8cddac",
+      "restaurant_id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Kokum Sol Kadhi",
+      "image_id": "6a37272f-93b8-4494-9a30-e24ddd431480",
+      "description": "Chilled tangy refreshing drink made from fresh coconut milk, dried kokum rinds, garlic cloves, and green chillies.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 90
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 80,
+          "selling_price": 69
+        }
+      ],
+      "tags": [
+        "sol-kadhi",
+        "kokum",
+        "digestive",
+        "refreshing"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "f560de94-7026-4831-87c6-ab422c7a3fb7",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Galouti Kebab with Paratha",
+      "image_id": "41798d9a-4c3e-46a0-85ba-30417e7599de",
+      "description": "Finely minced lamb patties infused with raw papaya and 160 secret spices, paired with melt-in-mouth Mughlai paratha.",
+      "rating": 4.9,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 540
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 380,
+          "selling_price": 329
+        }
+      ],
+      "tags": [
+        "galouti",
+        "kebab",
+        "lamb",
+        "signature"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "408c40e7-d660-4200-8b66-7c9bdc7785f3",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Kakori Mutton Seekh Kebab",
+      "image_id": "63996efa-2fc2-4bb3-b004-eb0388d43711",
+      "description": "Tender mutton seekh kebabs ground with saffron, rose petals, and marrow butter, chargrilled gently over sal wood charcoal.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 460
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 390,
+          "selling_price": 349
+        }
+      ],
+      "tags": [
+        "kakori",
+        "seekh-kebab",
+        "charcoal",
+        "starter"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "8ca56dce-361f-46e0-b454-b06720bda61a",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Lucknowi Dum Gosht Biryani",
+      "image_id": "bcd2945d-5162-44b8-b199-c0abfc8f0b0f",
+      "description": "Pakki biryani delicately prepared with mutton pieces simmered in yakhni stock, sealed in clay handi with kewra and meetha ittr.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 790
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 430,
+          "selling_price": 379
+        }
+      ],
+      "tags": [
+        "biryani",
+        "lucknowi",
+        "mutton",
+        "dum"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "298d50a9-d520-4144-902d-66364b76b8ff",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Mutton Nihari Kulcha",
+      "image_id": "9f9ab6fa-8f42-489a-8ab5-be051c9f16e3",
+      "description": "Shank meat slow-cooked overnight with bone marrow in fragrant flour-thickened stock, served with hot yeast kulcha.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 720
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 450,
+          "selling_price": 399
+        }
+      ],
+      "tags": [
+        "nihari",
+        "mutton",
+        "slow-cooked",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "654ec6d7-9027-45e6-9dce-2bb17b72fc78",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Mughlai Sheermal",
+      "image_id": "b1c664c7-de1a-4721-a432-ecced1e5aba4",
+      "description": "Traditional saffron-flavored sweet flatbread baked in clay oven, kneaded with milk and pure desi ghee.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 90,
+          "selling_price": 79
+        }
+      ],
+      "tags": [
+        "sheermal",
+        "bread",
+        "saffron",
+        "sweet"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "eefb0661-4e9f-4ea0-ab73-8783510ef57e",
+      "restaurant_id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Zafrani Shahi Kheer",
+      "image_id": "d4c07fef-f05e-4e84-bf4b-1edf650ee19e",
+      "description": "Slow-simmered basmati rice pudding enriched with condensed milk, saffron strands, and roasted cashew halves.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 320
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "kheer",
+        "dessert",
+        "zafrani",
+        "sweet"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "33cd4904-5f8f-4494-b85d-21b76287dc18",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Margherita Pizza Basilico",
+      "image_id": "2482ae2d-8e85-4bb5-b708-c1a6b55ec727",
+      "description": "Fermented sourdough crust, San Marzano tomato sauce, fresh buffalo mozzarella, virgin olive oil, and fresh basil leaves.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 750
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 390,
+          "selling_price": 349
+        }
+      ],
+      "tags": [
+        "pizza",
+        "margherita",
+        "sourdough",
+        "italian"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "b8b1bff6-193d-41d8-adbb-111867e11e5d",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Truffle Wild Mushroom Risotto",
+      "image_id": "c3605e00-fee2-4a47-bbed-fab4eaffb60c",
+      "description": "Arborio rice slow-cooked with wild porcini mushrooms, parmesan reggiano shavings, and white truffle oil drizzle.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 580
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 460,
+          "selling_price": 399
+        }
+      ],
+      "tags": [
+        "risotto",
+        "truffle",
+        "mushrooms",
+        "creamy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "8e5bfbb3-aa24-4fee-ac11-f8ef69271fab",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Penne all'Arrabbiata",
+      "image_id": "0d60694f-6cbc-444f-ac33-edcc187c23fe",
+      "description": "Al dente bronze-cut penne pasta tossed in fiery garlic, ripe cherry tomatoes, red pepper flakes, and fresh basil.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 460
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 320,
+          "selling_price": 279
+        }
+      ],
+      "tags": [
+        "pasta",
+        "penne",
+        "arrabbiata",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "05acb3af-08c6-4f9b-873a-7511e1375037",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Cheesy Garlic Herb Bread",
+      "image_id": "57e675d2-0232-46d5-b143-448c560b34a1",
+      "description": "Warm ciabatta baguette toasted with garlic herb butter, bubbling mozzarella cheese, and Italian oregano.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 340
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 180,
+          "selling_price": 149
+        }
+      ],
+      "tags": [
+        "garlic-bread",
+        "cheese",
+        "starter",
+        "crispy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "3e87645c-edb3-43ff-98e1-060ad6e05b55",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Classic Espresso Tiramisu",
+      "image_id": "3fdaed27-e850-449d-8bf8-bdc7f841c8a3",
+      "description": "Layers of Italian Savoiardi ladyfinger biscuits dipped in fresh espresso, velvety mascarpone cream, and dark cocoa powder.",
+      "rating": 4.9,
+      "dietary_type": "egg",
+      "nutrition": {
+        "calories": 420
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 260,
+          "selling_price": 229
+        }
+      ],
+      "tags": [
+        "tiramisu",
+        "dessert",
+        "coffee",
+        "sweet"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bb5f5563-fb31-42bf-ab34-02482f277c61",
+      "restaurant_id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Sicilian Mint Lemonade",
+      "image_id": "0d2a94a2-7b07-458d-93c1-f385f6ade802",
+      "description": "Sparkling lemonade crafted with freshly squeezed Amalfi lemons, crushed mint leaves, and a dash of rock salt.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 120
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 110,
+          "selling_price": 95
+        }
+      ],
+      "tags": [
+        "lemonade",
+        "mocktail",
+        "beverage",
+        "sparkling"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e37cd1c3-6d1f-4577-8130-ab55c6eae713",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Mumbai Vada Pav (2 pcs)",
+      "image_id": "79bd2b60-c744-4211-8b7b-9be0f78befaa",
+      "description": "Two spiced batter-fried potato batata vadas stuffed in fresh pav rolls with dry garlic red chutney and fried salted chillies.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 70,
+          "selling_price": 59
+        }
+      ],
+      "tags": [
+        "vada-pav",
+        "mumbai",
+        "street-food",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "a80c56e1-66d8-44b8-a275-b9a702c76c48",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Samosa Chaat with Chole",
+      "image_id": "ce53ef99-15a5-4291-a375-b4bebe005f00",
+      "description": "Two crushed crisp potato samosas smothered under tangy tamarind chutney, spicy green chutney, and boiled chickpea curry.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 430
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "samosa-chaat",
+        "chaat",
+        "street-food",
+        "chole"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "feb09889-02ca-4f15-830f-9fa7d3c5f5c8",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Butter Pav Bhaji",
+      "image_id": "3566c836-f372-4128-8247-e47660181f5c",
+      "description": "Mashed spicy mixed vegetable curry cooked on flat iron tawa with Amul butter, served with two toasted pav buns and onions.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 520
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 170,
+          "selling_price": 145
+        }
+      ],
+      "tags": [
+        "pav-bhaji",
+        "butter",
+        "mumbai",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "ac1dfbce-06af-40b4-b210-3b0a42fab746",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Bun Maska with Irani Chai",
+      "image_id": "4c61f8c5-fa98-4a64-b8a1-a8de29d5f56d",
+      "description": "Soft sweet bakery bun stuffed with generous slabs of salted butter, paired with sweet and creamy cardamom tea.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 320
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 90,
+          "selling_price": 79
+        }
+      ],
+      "tags": [
+        "bun-maska",
+        "tea",
+        "mumbai",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "000e3ca4-51eb-4e54-8782-daa682d2ab9a",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Adrak Elaichi Masala Chai",
+      "image_id": "71bc333b-ba10-4540-b059-4fc2948722fc",
+      "description": "Potent cutting chai brewed with freshly crushed ginger, green cardamom, whole spices, and thick sweetened milk.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 95
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 45,
+          "selling_price": 39
+        }
+      ],
+      "tags": [
+        "chai",
+        "masala-chai",
+        "ginger",
+        "hot-drink"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "4699774d-47a1-4ef2-bd0e-eb40c8f06621",
+      "restaurant_id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Kanda Bhajji (Crispy Onion Pakoda)",
+      "image_id": "374cf4cf-bd31-41e1-b8ad-2d53e8c55139",
+      "description": "Thinly sliced onions coated in spiced gram flour batter and fried into crunchy fritters, served with sweet-tangy dip.",
+      "rating": 4.4,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 85,
+          "selling_price": 69
+        }
+      ],
+      "tags": [
+        "bhajji",
+        "pakoda",
+        "onion",
+        "crispy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "b7fef416-40fe-4f27-83cc-4b674a77995f",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Spongy Kolkata Rasgulla (4 pcs)",
+      "image_id": "2101e865-4386-41f5-a6c7-585701bbe7c1",
+      "description": "Fresh homemade chhena dumplings cooked in boiling light sugar syrup until cloud-like spongy and juicy.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 340
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "rasgulla",
+        "chhena",
+        "bengali",
+        "sweet"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "125ba852-9cc4-4fdc-99ac-fdf589731b97",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Nolen Gur Sandesh",
+      "image_id": "79ea1384-af1a-4f87-bce1-7345e09f9676",
+      "description": "Seasonal artisanal confection made from fresh cow milk chhena blended with organic winter date palm jaggery.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 270
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 160,
+          "selling_price": 139
+        }
+      ],
+      "tags": [
+        "sandesh",
+        "nolen-gur",
+        "bengali",
+        "jaggery"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "86cfe743-005b-4fd1-8c3e-8cdfd32e953c",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Kolkata Clay Pot Mishti Doi",
+      "image_id": "88bd8b38-8377-4932-b168-acdab53b3857",
+      "description": "Caramelized sweetened thick curd fermented traditionally in porous unglazed earthenware pots for earthen aroma.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "mishti-doi",
+        "curd",
+        "pot",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "43482202-b7dd-4258-92a9-95af332c2644",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Kaju Katli Diamond Box (250g)",
+      "image_id": "fbe8fcf4-0161-4b08-8625-432b61b0df2b",
+      "description": "Thin diamond-cut fudge sweets prepared from finest cashew nut paste and organic sugar, covered in silver vark.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 620
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 320,
+          "selling_price": 289
+        }
+      ],
+      "tags": [
+        "kaju-katli",
+        "cashew",
+        "festive",
+        "luxury"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bcfbbd82-f167-433c-a3a2-5b66d0fc9350",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Malai Cham Cham",
+      "image_id": "0e529e1d-b5b0-4cff-83fb-c97a2bcbf4c2",
+      "description": "Oval chhena sweets steeped in saffron rose syrup, slit open and filled with thick mawa malai cream and pistachio dust.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 360
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 150,
+          "selling_price": 129
+        }
+      ],
+      "tags": [
+        "cham-cham",
+        "malai",
+        "sweet",
+        "bengali"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "3c7393ec-dd3b-47d4-bed9-8568b44610f3",
+      "restaurant_id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Kesari Rabri with Dry Fruits",
+      "image_id": "2f300720-481f-4985-9f4d-85b55f88113a",
+      "description": "Slowly thickened condensed buffalo milk layered with malai flakes, scented with saffron, cardamom, and almond slivers.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 410
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 170,
+          "selling_price": 149
+        }
+      ],
+      "tags": [
+        "rabri",
+        "malai",
+        "saffron",
+        "dry-fruits"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "d53e25b7-5114-4d0e-8e8d-663cc6996423",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Andhra Gongura Chicken Curry",
+      "image_id": "28ab3c90-3d61-471d-b332-b43503c803e7",
+      "description": "Tender country chicken simmered in tangy red sorrel (gongura) leaves, Guntur chillies, and garlic cloves.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 560
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 340,
+          "selling_price": 299
+        }
+      ],
+      "tags": [
+        "gongura",
+        "chicken",
+        "andhra",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "2d9864bd-bab0-4b8f-8e98-1a429b7212c3",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Andhra Style Kodi Vepudu",
+      "image_id": "5a3140d4-ae37-4121-a36c-5efe93dec3d3",
+      "description": "Chicken bone-in pieces dry-roasted on iron skillet with crushed peppercorns, roasted coriander seeds, and fried curry leaves.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 490
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 320,
+          "selling_price": 279
+        }
+      ],
+      "tags": [
+        "kodi-vepudu",
+        "chicken-fry",
+        "spicy",
+        "starter"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7f7411c1-ff8b-4970-b8e7-b334adca754f",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Royyala Iguru (Prawn Fry)",
+      "image_id": "f1f14d21-a653-4082-8226-c4985a956d23",
+      "description": "Juicy coastal prawns slow-cooked in thick caramelized onion-tomato paste, crushed black pepper, and ginger garlic paste.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 430
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 390,
+          "selling_price": 349
+        }
+      ],
+      "tags": [
+        "prawns",
+        "iguru",
+        "seafood",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7ab4720d-7265-46b1-80c6-a153108d2308",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Andhra Chilli Paneer",
+      "image_id": "e6d4407c-64ba-4752-9233-00584ce5af3c",
+      "description": "Soft cottage cheese cubes tossed in pungent green chilli paste, curry leaf tadka, cumin, and cracked coriander seeds.",
+      "rating": 4.4,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 370
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 260,
+          "selling_price": 229
+        }
+      ],
+      "tags": [
+        "paneer",
+        "chilli-paneer",
+        "vegetarian",
+        "spicy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "24d3ddcf-d217-409a-92b7-54c4ba03fb47",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Tomato Pappu with Steamed Rice & Ghee",
+      "image_id": "67e35142-3446-4027-90e7-dbbaa6de5d03",
+      "description": "Homestyle Andhra toor dal cooked with ripe country tomatoes, tamarind, and garlic, served with hot rice and melting desi ghee.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 480
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 180,
+          "selling_price": 149
+        }
+      ],
+      "tags": [
+        "pappu",
+        "dal",
+        "comfort-food",
+        "rice-combo"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "c8217028-7d94-4567-b588-599c83e2f0e7",
+      "restaurant_id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Spiced Masala Majjiga (Buttermilk)",
+      "image_id": "82056eb1-6d16-4855-8a53-bca0bccabaec",
+      "description": "Churned thin buttermilk blended with grated ginger, crushed green chillies, fresh coriander, asafoetida, and rock salt.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 85
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 50,
+          "selling_price": 39
+        }
+      ],
+      "tags": [
+        "buttermilk",
+        "majjiga",
+        "cooling",
+        "beverage"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "42a15089-2378-486b-8817-d7d4c7a9ff33",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Crispy Peri Peri Chicken Burger",
+      "image_id": "b7087073-10f6-4586-9771-0c42298dc64e",
+      "description": "Double-breaded golden chicken breast patty dusted in spicy Peri Peri rub, melted cheddar cheese, shredded lettuce, and chipotle mayo.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 620
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 270,
+          "selling_price": 229
+        }
+      ],
+      "tags": [
+        "burger",
+        "chicken-burger",
+        "peri-peri",
+        "crispy"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "c9ea57bf-4f8d-415c-a238-e853f26669e5",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Double Smash Cheeseburger",
+      "image_id": "f48f6f83-419d-472b-8847-af108e5b9120",
+      "description": "Two smashed beef-style mutton patties seared on cast iron flat top with caramelized onions, American cheddar slices, and house burger sauce.",
+      "rating": 4.6,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 740
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 340,
+          "selling_price": 299
+        }
+      ],
+      "tags": [
+        "burger",
+        "cheeseburger",
+        "smash-patty",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bbf57ea0-7696-49cf-ab09-1ebdd09c3329",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Smoky BBQ Paneer Burger",
+      "image_id": "a2fac2d9-3d99-4fc2-b29d-c363cfea60fc",
+      "description": "Grilled cottage cheese steak glazed in hickory barbecue sauce, layered with crispy onion rings, dill pickles, and garlic aioli.",
+      "rating": 4.4,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 530
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 230,
+          "selling_price": 199
+        }
+      ],
+      "tags": [
+        "burger",
+        "paneer-burger",
+        "bbq",
+        "vegetarian"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "6d30a8a2-f514-4c02-aeeb-b0afc26febe1",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Peri Peri French Fries",
+      "image_id": "5cb79383-93ba-46de-9da5-3d9f3d9738f1",
+      "description": "Skin-on golden potato fries tossed in zesty African bird's eye chilli spice blend, served with garlic herb mayo.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 330
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "fries",
+        "peri-peri",
+        "potato",
+        "side"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "533d4cb4-2fdd-4895-a710-08876d4a09ca",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Golden Fried Onion Rings",
+      "image_id": "b93cf006-6700-4792-8271-5a8cb46382ac",
+      "description": "Thick white onion rings dipped in seasoned beer batter and panko breadcrumbs, fried till crunchy, served with cocktail dip.",
+      "rating": 4.3,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 280
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 150,
+          "selling_price": 129
+        }
+      ],
+      "tags": [
+        "onion-rings",
+        "sides",
+        "crispy",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "774ae75a-f54b-49d1-8fe9-b7d5460294a0",
+      "restaurant_id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "Belgian Dark Chocolate Shake",
+      "image_id": "1d364e8a-92c3-4248-808a-748af1851706",
+      "description": "Thick rich milkshake blended with Belgian 54% dark chocolate ganache, vanilla ice cream, and chocolate curls.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 480
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 190,
+          "selling_price": 169
+        }
+      ],
+      "tags": [
+        "milkshake",
+        "chocolate",
+        "shake",
+        "dessert"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "5ef73b1b-0d4e-4673-b69a-f3b7d7ea46a5",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Thalassery Chicken Dum Biryani",
+      "image_id": "1d10c99d-cddd-48b4-ac45-9145ec180f75",
+      "description": "Fragrant short-grain Kaima rice cooked with tender chicken, ghee, fried shallots, cashews, and golden sultanas in dum style.",
+      "rating": 4.8,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 730
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 310,
+          "selling_price": 269
+        }
+      ],
+      "tags": [
+        "thalassery",
+        "biryani",
+        "malabar",
+        "chicken"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "1cc77134-db16-41cd-8ba2-41f70c2a193b",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Kerala Parotta with Chicken Roast",
+      "image_id": "86b7218d-4853-4031-82b8-cace0e64fbed",
+      "description": "Two flaky layered spiral parottas served with semi-dry country chicken roasted with caramelized shallots and crushed pepper.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 610
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 270,
+          "selling_price": 235
+        }
+      ],
+      "tags": [
+        "parotta",
+        "chicken-roast",
+        "malabar",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "2547aa88-ae05-4bfb-93a9-eb25479aa444",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Kerala Fish Moilee",
+      "image_id": "703ba427-2c4c-464d-b17b-500538028058",
+      "description": "Kingfish steak poached gently in rich coconut milk broth flavored with green chillies, curry leaves, ginger, and turmeric.",
+      "rating": 4.7,
+      "dietary_type": "non_veg",
+      "nutrition": {
+        "calories": 460
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 390,
+          "selling_price": 349
+        }
+      ],
+      "tags": [
+        "fish-moilee",
+        "seafood",
+        "coconut-milk",
+        "mild"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "75fc55a8-99b3-477f-a489-fb78c9580eec",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Kerala Vegetable Stew with Appam",
+      "image_id": "2d5437aa-4a67-4554-bdea-eb102670db6d",
+      "description": "Gentle medley of potatoes, carrots, and green peas simmered in spiced coconut milk, paired with two soft lacy appams.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 320
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 210,
+          "selling_price": 179
+        }
+      ],
+      "tags": [
+        "stew",
+        "appam",
+        "coconut-milk",
+        "vegetarian"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "d7d249e5-884e-453e-af7d-ffd1c98c66c0",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Pazham Pori (Banana Fritters)",
+      "image_id": "ede5b4c2-9029-4327-8a4d-7c0607dbc688",
+      "description": "Ripe sweet Nendran banana slices dipped in turmeric cardamom flour batter and deep fried to golden perfection.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 240
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 80,
+          "selling_price": 69
+        }
+      ],
+      "tags": [
+        "pazham-pori",
+        "banana",
+        "fritters",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "a3099509-b202-41a2-a01c-f73f94e46be2",
+      "restaurant_id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Elaneer Tender Coconut Shake",
+      "image_id": "f4167e72-4f74-4575-b8b6-d198760d81bc",
+      "description": "Blended fresh tender coconut water and soft coconut malai pulp with chilled milk and a hint of vanilla.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 190
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "tender-coconut",
+        "shake",
+        "refreshing",
+        "beverage"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "7530949c-977e-4621-9c45-23243feb0de1",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Traditional Dal Baati Churma",
+      "image_id": "1267bd10-1baf-41f2-b147-1778e071d77b",
+      "description": "Hard baked wheat baatis soaked in pure desi ghee, served with five-lentil spicy panchmel dal and sweet powdered jaggery churma.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 720
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 340,
+          "selling_price": 299
+        }
+      ],
+      "tags": [
+        "dal-baati",
+        "rajasthani",
+        "ghee",
+        "signature"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "c8dd6ea1-eae9-4145-a2ec-cc2a2debdac0",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Rajasthani Gatte Ki Sabzi",
+      "image_id": "9c6cef94-db4e-4866-be9b-f13489f10348",
+      "description": "Steamed gram flour dumplings simmered in a spiced tangy yogurt and asafoetida gravy tempered with mustard seeds.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 390
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 240,
+          "selling_price": 209
+        }
+      ],
+      "tags": [
+        "gatte-ki-sabzi",
+        "besan",
+        "curry",
+        "rajasthani"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "e6696463-3cfe-4fb1-95da-d487d6abaa58",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Paneer Butter Masala Mewari Style",
+      "image_id": "db3aa752-9347-4508-9670-9455f841859d",
+      "description": "Fresh paneer cubes cooked in a royal Mewari gravy of cashew nuts, melon seeds, tomatoes, and aromatic whole spices.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 510
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 290,
+          "selling_price": 249
+        }
+      ],
+      "tags": [
+        "paneer",
+        "paneer-butter-masala",
+        "curry",
+        "royal"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "5ec2ed44-08eb-403c-a622-c9b448ecba85",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Gujarati Nylon Khaman Dhokla (4 pcs)",
+      "image_id": "ce5e1788-f7df-493d-8c3a-cee1e0413b2f",
+      "description": "Steamed fermented chickpea flour cakes, light, spongy, tempered with mustard seeds, green chillies, and fresh grated coconut.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 210
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 110,
+          "selling_price": 89
+        }
+      ],
+      "tags": [
+        "dhokla",
+        "khaman",
+        "gujarati",
+        "snack"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "710f708e-699d-4056-ab09-fc2601542efe",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Ker Sangri Marwadi Delicacy",
+      "image_id": "472e48a6-960a-417c-a963-4a064374f51d",
+      "description": "Exotic desert berry and dried wild bean preparation cooked with dry mango powder, raisins, and aromatic Marwadi spices.",
+      "rating": 4.5,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 340
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 280,
+          "selling_price": 239
+        }
+      ],
+      "tags": [
+        "ker-sangri",
+        "marwadi",
+        "traditional",
+        "desert-dish"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "677d4ea6-e2b2-4619-9230-744d9b4b3887",
+      "restaurant_id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Kesar Mango Lassi",
+      "image_id": "0ba9ac03-90be-4ea2-a387-6df4c0398b36",
+      "description": "Thick churned sweet yogurt drink blended with Gujarat Kesar mango pulp and garnished with saffron and cardamom powder.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 260
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 110,
+          "selling_price": 95
+        }
+      ],
+      "tags": [
+        "mango-lassi",
+        "lassi",
+        "mango",
+        "beverage"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "eff493b5-d013-4714-a49f-b687fc914c79",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Ghee Podi Button Idli (14 mini pcs)",
+      "image_id": "908aae9d-e494-4405-ba11-e245e5cbef3c",
+      "description": "Fourteen bite-sized steamed mini idlis tossed generously in fiery gun-powder podi and hot melted desi ghee.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 290
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "podi-idli",
+        "ghee",
+        "breakfast",
+        "tiffin"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "f391d812-607a-40e8-8818-469533c1b473",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Crispy Onion Rava Dosa",
+      "image_id": "9b29ce29-67e3-44e3-bc6b-c453eb5b5e64",
+      "description": "Lacy, crackling semolina crepe studded with chopped red onions, green chillies, cracked black pepper, and fresh cumin.",
+      "rating": 4.7,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 380
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 140,
+          "selling_price": 119
+        }
+      ],
+      "tags": [
+        "rava-dosa",
+        "dosa",
+        "crispy",
+        "breakfast"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "b8895f5a-9c73-4539-9d87-0be516919e04",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Onion Tomato Uttapam",
+      "image_id": "cabeaa76-4e27-4fa2-8354-9da3eca9b594",
+      "description": "Thick fluffy fermented rice-lentil pancake griddled with finely chopped red onions, ripe tomatoes, curry leaves, and green chillies.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 330
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 130,
+          "selling_price": 109
+        }
+      ],
+      "tags": [
+        "uttapam",
+        "tiffin",
+        "vegetarian",
+        "onion-tomato"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "952d976d-26bc-41a2-8964-f2386f4fa51f",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Poori Masala (3 pcs)",
+      "image_id": "84d7b51c-ebb2-4af4-81bf-aa2b73b54cc7",
+      "description": "Puffy deep-fried golden wheat pooris served with South Indian spiced potato onion sagu masala and coconut chutney.",
+      "rating": 4.6,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 420
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 120,
+          "selling_price": 99
+        }
+      ],
+      "tags": [
+        "poori",
+        "poori-masala",
+        "breakfast",
+        "comfort-food"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "bffe9106-df82-4ca6-bb09-eba911df741d",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Kumbakonam Degree Coffee",
+      "image_id": "de8f499c-88e1-47cf-a575-f4085227e78e",
+      "description": "Authentic pure cow milk degree coffee brewed from freshly roasted chicory beans, served piping hot and frothy in bronze davarah.",
+      "rating": 4.9,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 95
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 50,
+          "selling_price": 40
+        }
+      ],
+      "tags": [
+        "degree-coffee",
+        "kaapi",
+        "coffee",
+        "bestseller"
+      ],
+      "is_active": true
+    },
+    {
+      "id": "cbd9c3c3-a987-4ba2-b07b-5022492599db",
+      "restaurant_id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Ghee Sakkarai Pongal",
+      "image_id": "28d161b9-c596-4540-8e0b-dbe461778a3e",
+      "description": "Sweet jaggery rice pudding prepared with new harvest rice, yellow moong dal, roasted cashews, and generous melted cow ghee.",
+      "rating": 4.8,
+      "dietary_type": "veg",
+      "nutrition": {
+        "calories": 340
+      },
+      "pricing": [
+        {
+          "currency": "INR",
+          "base_price": 90,
+          "selling_price": 75
+        }
+      ],
+      "tags": [
+        "pongal",
+        "sakkarai-pongal",
+        "sweet",
+        "ghee"
+      ],
+      "is_active": true
+    }
+  ]
+}

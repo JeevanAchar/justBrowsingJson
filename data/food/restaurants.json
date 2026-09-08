@@ -1,0 +1,1221 @@
+{
+  "timestamp": {
+    "updated_at": "2026-09-08T03:15:42.000Z"
+  },
+  "data": [
+    {
+      "id": "b482a011-e39d-467e-902c-39c27c878539",
+      "name": "Bawarchi Biryani Mahal",
+      "description": "Legendary Nizami biryani house in Hyderabad, slow-cooking tender meat and fragranced long-grain basmati with heritage spices.",
+      "rating": 4.6,
+      "total_orders": 34200,
+      "location": {
+        "address": "Plot 44, RTC X Roads, Chikkadpally",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "pincode": "500020",
+        "latitude": 17.4042,
+        "longitude": 78.4975
+      },
+      "delivery_time": {
+        "min": 25,
+        "max": 40
+      },
+      "cuisines": [
+        "Biryani",
+        "Hyderabadi",
+        "Mughlai"
+      ],
+      "menu_categories": [
+        {
+          "id": "d38f08c0-9ee3-45a1-8c4c-b104f9d80780",
+          "name": "Biryani Delicacies",
+          "food_ids": [
+            "a427f9b9-4744-4c4e-a378-b937130c8b96",
+            "9ab715c9-eb2e-45d4-b977-4f669f927ce0"
+          ]
+        },
+        {
+          "id": "643c9795-d7ca-4abb-8e17-a7cf26c9f1ab",
+          "name": "Starters & Sides",
+          "food_ids": [
+            "dcb4b752-c119-476d-b0a5-6f372356e47c",
+            "9dd2672c-df7a-4835-ad15-64674cd11e02"
+          ]
+        },
+        {
+          "id": "0cc5dbf5-1acf-42bf-bd21-f3816f9bcf37",
+          "name": "Desserts & Beverages",
+          "food_ids": [
+            "0af312e6-50c6-44de-bb4c-cb3bba276967",
+            "6f71b911-f92b-46ad-b510-d82668205c5c"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "e3d999d7-5838-49af-ba15-9f4dde4d6e61",
+          "name": "Royal Bestsellers",
+          "food_ids": [
+            "a427f9b9-4744-4c4e-a378-b937130c8b96",
+            "9ab715c9-eb2e-45d4-b977-4f669f927ce0",
+            "9dd2672c-df7a-4835-ad15-64674cd11e02"
+          ]
+        },
+        {
+          "id": "2dfffa45-5f8d-4aaf-beb1-b5e4ed30859a",
+          "name": "Biryani Feast",
+          "food_ids": [
+            "a427f9b9-4744-4c4e-a378-b937130c8b96",
+            "9ab715c9-eb2e-45d4-b977-4f669f927ce0"
+          ]
+        },
+        {
+          "id": "3156c120-e06a-4154-9661-76ae17b87cf7",
+          "name": "Under ₹250",
+          "food_ids": [
+            "dcb4b752-c119-476d-b0a5-6f372356e47c",
+            "9dd2672c-df7a-4835-ad15-64674cd11e02",
+            "0af312e6-50c6-44de-bb4c-cb3bba276967",
+            "6f71b911-f92b-46ad-b510-d82668205c5c"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "832d9585-0d48-4c82-b645-4bdc8f8fa2ad",
+      "name": "Punjab Grill & Spice",
+      "description": "Authentic highway dhaba and fine Punjabi culinary destination renowned for buttery curries and charcoal tandoor delights.",
+      "rating": 4.7,
+      "total_orders": 28900,
+      "location": {
+        "address": "Scindia House, Outer Circle, Connaught Place",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "pincode": "110001",
+        "latitude": 28.6315,
+        "longitude": 77.2167
+      },
+      "delivery_time": {
+        "min": 30,
+        "max": 45
+      },
+      "cuisines": [
+        "North Indian",
+        "Punjabi",
+        "Mughlai"
+      ],
+      "menu_categories": [
+        {
+          "id": "24a7bdb8-fe62-4ccb-b59d-de09ba1e61d3",
+          "name": "Tandoori Starters",
+          "food_ids": [
+            "bdbd3a1d-8288-4547-aa00-c348d0665d23"
+          ]
+        },
+        {
+          "id": "0fb9ba25-ea0c-43a3-b495-a256572252c6",
+          "name": "Main Course Curries",
+          "food_ids": [
+            "8c6fcea8-c78a-46ac-b282-d769c7618759",
+            "5874eb9d-d36c-499e-a226-5d7ef25e767c"
+          ]
+        },
+        {
+          "id": "f744acb4-b37a-46b6-8367-556506d30b95",
+          "name": "Breads & Sweets",
+          "food_ids": [
+            "d7c3825f-9445-45cf-bf1a-d4287dd5025c",
+            "c4d7294d-4aa4-45de-992b-8f71966749b9",
+            "e2f3adcb-5f0e-414a-a992-6302d107ee86"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "df85f2df-a466-4a3c-bca4-08278b98c8c1",
+          "name": "Chef Recommendations",
+          "food_ids": [
+            "8c6fcea8-c78a-46ac-b282-d769c7618759",
+            "5874eb9d-d36c-499e-a226-5d7ef25e767c",
+            "bdbd3a1d-8288-4547-aa00-c348d0665d23",
+            "e2f3adcb-5f0e-414a-a992-6302d107ee86"
+          ]
+        },
+        {
+          "id": "3e833d68-04a3-4919-9861-7ebd2873ca4c",
+          "name": "Punjabi Classics",
+          "food_ids": [
+            "8c6fcea8-c78a-46ac-b282-d769c7618759",
+            "5874eb9d-d36c-499e-a226-5d7ef25e767c",
+            "bdbd3a1d-8288-4547-aa00-c348d0665d23",
+            "d7c3825f-9445-45cf-bf1a-d4287dd5025c",
+            "c4d7294d-4aa4-45de-992b-8f71966749b9"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "17e9b2e5-8fb4-4b49-bf9d-f67c3296f36f",
+      "name": "Dakshin Flavours",
+      "description": "Celebrating the coastal, temple, and heritage culinary arts of Tamil Nadu, Kerala, and Chettinad.",
+      "rating": 4.5,
+      "total_orders": 21500,
+      "location": {
+        "address": "32 Burkit Road, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "pincode": "600017",
+        "latitude": 13.0418,
+        "longitude": 80.2341
+      },
+      "delivery_time": {
+        "min": 20,
+        "max": 35
+      },
+      "cuisines": [
+        "South Indian",
+        "Chettinad",
+        "Kerala"
+      ],
+      "menu_categories": [
+        {
+          "id": "31f3aa7d-fb23-460d-9449-a194ac7b2e2c",
+          "name": "Tiffin & Breakfast",
+          "food_ids": [
+            "54201d8a-6df3-45f7-a657-3e8f072b4c60",
+            "915916ca-69c6-45dd-88d2-0c34b5e4ab45",
+            "32964558-f48a-4c96-9710-694d2937143b"
+          ]
+        },
+        {
+          "id": "01dd8b68-e62c-4815-99df-3a088469d3ee",
+          "name": "Chettinad Curries",
+          "food_ids": [
+            "21beb468-bca1-4dd4-94b8-3435be84df3e",
+            "d18eb118-9d46-4c2f-8984-90d4b8c83a2b"
+          ]
+        },
+        {
+          "id": "66a86579-1091-4c84-9a59-f41e09098f5e",
+          "name": "Beverages",
+          "food_ids": [
+            "e0678fbb-b1cd-4d76-a6ba-bf53914641cd"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "d36ee396-45d6-48de-92bd-028ca645de2c",
+          "name": "South Indian Special",
+          "food_ids": [
+            "54201d8a-6df3-45f7-a657-3e8f072b4c60",
+            "21beb468-bca1-4dd4-94b8-3435be84df3e",
+            "32964558-f48a-4c96-9710-694d2937143b",
+            "d18eb118-9d46-4c2f-8984-90d4b8c83a2b"
+          ]
+        },
+        {
+          "id": "48d1b624-9517-4134-8c6a-701cf978a22c",
+          "name": "Traditional Breakfast",
+          "food_ids": [
+            "54201d8a-6df3-45f7-a657-3e8f072b4c60",
+            "915916ca-69c6-45dd-88d2-0c34b5e4ab45",
+            "32964558-f48a-4c96-9710-694d2937143b",
+            "e0678fbb-b1cd-4d76-a6ba-bf53914641cd"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "5c984610-0e3b-4bd9-a039-b123f4d25b97",
+      "name": "The Golden Dragon",
+      "description": "Iconic Chinatown legacy restaurant serving sizzling woks, Indo-Chinese noodles, and delicate handmade dim sums.",
+      "rating": 4.4,
+      "total_orders": 18300,
+      "location": {
+        "address": "14 Park Street, Near Mocambo",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "pincode": "700016",
+        "latitude": 22.5532,
+        "longitude": 88.3524
+      },
+      "delivery_time": {
+        "min": 25,
+        "max": 40
+      },
+      "cuisines": [
+        "Indo-Chinese",
+        "Chinese",
+        "Asian"
+      ],
+      "menu_categories": [
+        {
+          "id": "b91cc38b-b370-4f93-a70c-59e3b462dfbc",
+          "name": "Dim Sum & Appetizers",
+          "food_ids": [
+            "bfdc0e11-0a6e-40ef-a3fe-8d4586276bc3",
+            "bdc62197-d799-49c8-9246-fa91fdc03202",
+            "dd811b63-4102-41bb-9acf-a116a6f9de1a"
+          ]
+        },
+        {
+          "id": "a13e3079-4404-495b-a1fe-3c199f326435",
+          "name": "Noodles & Rice",
+          "food_ids": [
+            "5578fb26-925f-40db-9437-8f31c5539480",
+            "84d3e599-a999-4064-b785-a9010352feb2"
+          ]
+        },
+        {
+          "id": "49b4805c-b827-44cc-be9f-ad15d3112969",
+          "name": "Wok Specials",
+          "food_ids": [
+            "de1ad91d-f1a2-4721-8dfe-56d22e8b581f"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "9798ec0c-f3f9-48f0-ac81-49093f1db75c",
+          "name": "Dragon Bestsellers",
+          "food_ids": [
+            "5578fb26-925f-40db-9437-8f31c5539480",
+            "de1ad91d-f1a2-4721-8dfe-56d22e8b581f",
+            "84d3e599-a999-4064-b785-a9010352feb2",
+            "bfdc0e11-0a6e-40ef-a3fe-8d4586276bc3"
+          ]
+        },
+        {
+          "id": "4a47c036-aa9d-49bf-948d-414e7384073c",
+          "name": "Pocket Meals",
+          "food_ids": [
+            "5578fb26-925f-40db-9437-8f31c5539480",
+            "bfdc0e11-0a6e-40ef-a3fe-8d4586276bc3",
+            "bdc62197-d799-49c8-9246-fa91fdc03202",
+            "dd811b63-4102-41bb-9acf-a116a6f9de1a"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "43b60893-dd98-44ce-b6b8-80e1a3edead7",
+      "name": "Udupi Sri Krishna Bhavan",
+      "description": "Heritage Karnataka pure vegetarian eatery serving time-tested breakfast tiffins, fragrant filter coffee, and hearty thalis.",
+      "rating": 4.8,
+      "total_orders": 42100,
+      "location": {
+        "address": "Sampige Road, Malleswaram 8th Cross",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "pincode": "560003",
+        "latitude": 13.0033,
+        "longitude": 77.5713
+      },
+      "delivery_time": {
+        "min": 15,
+        "max": 30
+      },
+      "cuisines": [
+        "South Indian",
+        "Fast Food",
+        "Pure Veg"
+      ],
+      "menu_categories": [
+        {
+          "id": "3ff2f368-c23f-43e1-8a23-178020c54b9a",
+          "name": "Morning Tiffin",
+          "food_ids": [
+            "7e20fc85-46a2-4692-bfc5-24f897014049",
+            "d1ed1de4-7b3b-45ea-b783-76df0f370b55"
+          ]
+        },
+        {
+          "id": "2175ce35-860c-47de-9b09-bc15ed43ba7d",
+          "name": "Rice Specialties",
+          "food_ids": [
+            "5d49e33d-051d-4d35-b1a4-a0a83e8f716e",
+            "9d15d374-5bed-4071-8f84-cfe1802b697a"
+          ]
+        },
+        {
+          "id": "3ebd3c76-7898-4912-b696-37706fc9aaf6",
+          "name": "Sweets & Shakes",
+          "food_ids": [
+            "a712a901-deab-4a8e-8c3a-3c5b5c8f6c85",
+            "a4aa4333-a8bc-4163-be0a-063e31faccbf"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "b606d002-faf6-4d26-a31f-cd9f4f8c0881",
+          "name": "Daily Staples",
+          "food_ids": [
+            "7e20fc85-46a2-4692-bfc5-24f897014049",
+            "d1ed1de4-7b3b-45ea-b783-76df0f370b55",
+            "5d49e33d-051d-4d35-b1a4-a0a83e8f716e",
+            "9d15d374-5bed-4071-8f84-cfe1802b697a"
+          ]
+        },
+        {
+          "id": "74765185-d70b-4dea-81d3-a28dfea66e10",
+          "name": "Under ₹100",
+          "food_ids": [
+            "7e20fc85-46a2-4692-bfc5-24f897014049",
+            "5d49e33d-051d-4d35-b1a4-a0a83e8f716e",
+            "a712a901-deab-4a8e-8c3a-3c5b5c8f6c85",
+            "9d15d374-5bed-4071-8f84-cfe1802b697a",
+            "a4aa4333-a8bc-4163-be0a-063e31faccbf"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "5a5c2b79-ceef-424d-b7fb-7b6db1cd51ce",
+      "name": "Kashmir Wazwan Treats",
+      "description": "Master Ustads preparing exquisite 36-course Kashmiri Wazwan feast items infused with wild mountain herbs and saffron.",
+      "rating": 4.6,
+      "total_orders": 12400,
+      "location": {
+        "address": "22 Hauz Khas Village",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "pincode": "110016",
+        "latitude": 28.5494,
+        "longitude": 77.1932
+      },
+      "delivery_time": {
+        "min": 35,
+        "max": 50
+      },
+      "cuisines": [
+        "North Indian",
+        "Kashmiri",
+        "Mughlai"
+      ],
+      "menu_categories": [
+        {
+          "id": "89c172d3-181c-4f1f-8c6b-cb53d221192f",
+          "name": "Wazwan Curries",
+          "food_ids": [
+            "20c95f15-a209-4525-9b84-a14e9b027ef5",
+            "452d0dec-4d20-482b-ad15-c841e408ca4f",
+            "110ec1da-d4a7-4593-a857-fe992ddb4927"
+          ]
+        },
+        {
+          "id": "2ede4ef1-428c-4ff7-9e50-2d627c78e48c",
+          "name": "Pulao & Breads",
+          "food_ids": [
+            "15b9e5c0-9727-495c-9af0-dfaf4ae39cb6",
+            "9150bf72-229b-43b5-a4ed-362e5fa9fe5c"
+          ]
+        },
+        {
+          "id": "d95105e9-2b2e-4824-9a32-81fefe7ecfce",
+          "name": "Traditional Drinks",
+          "food_ids": [
+            "7a173c39-b617-471a-afe0-cb7f18cf814c"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "10151c04-c833-4974-8fd4-e7de3dce8459",
+          "name": "Kashmiri Royal Feast",
+          "food_ids": [
+            "20c95f15-a209-4525-9b84-a14e9b027ef5",
+            "452d0dec-4d20-482b-ad15-c841e408ca4f",
+            "110ec1da-d4a7-4593-a857-fe992ddb4927",
+            "15b9e5c0-9727-495c-9af0-dfaf4ae39cb6",
+            "7a173c39-b617-471a-afe0-cb7f18cf814c"
+          ]
+        },
+        {
+          "id": "8b8e9d26-1c66-4336-8a83-23b8ef7c46f3",
+          "name": "Chef Curated",
+          "food_ids": [
+            "20c95f15-a209-4525-9b84-a14e9b027ef5",
+            "110ec1da-d4a7-4593-a857-fe992ddb4927",
+            "9150bf72-229b-43b5-a4ed-362e5fa9fe5c",
+            "7a173c39-b617-471a-afe0-cb7f18cf814c"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "89a8754d-b66d-4f34-9ebd-d226dce1d45b",
+      "name": "Goan Coastal Shack",
+      "description": "Breezy Konkan and Portuguese inspired beachfront dining serving fresh ocean catches, kokum coolers, and coconut curries.",
+      "rating": 4.5,
+      "total_orders": 16800,
+      "location": {
+        "address": "Miramar Beach Promenade, Near Circle",
+        "city": "Panaji",
+        "state": "Goa",
+        "country": "India",
+        "pincode": "403001",
+        "latitude": 15.4868,
+        "longitude": 73.8078
+      },
+      "delivery_time": {
+        "min": 30,
+        "max": 45
+      },
+      "cuisines": [
+        "Coastal",
+        "Seafood",
+        "Goan"
+      ],
+      "menu_categories": [
+        {
+          "id": "2844e7a0-3401-4a38-a8ba-1005587dc530",
+          "name": "Seafood Curries",
+          "food_ids": [
+            "e3e64a7f-233a-4486-844c-6becf16739e7",
+            "3da2080d-4484-4d7e-bdca-ae8abdd2f722"
+          ]
+        },
+        {
+          "id": "c1934174-71f8-4bc2-a825-14dd567a828b",
+          "name": "Coastal Starters",
+          "food_ids": [
+            "7694c270-2fbd-4520-95f4-74aed261ae87",
+            "4baca219-8d65-40e0-ba71-80d9324c69cf"
+          ]
+        },
+        {
+          "id": "eba1c522-3703-4fa0-b300-080191f97d8f",
+          "name": "Desserts & Drinks",
+          "food_ids": [
+            "a078cc6d-c444-42a5-9712-01a393e7f4bd",
+            "e57b47d6-58f3-4735-85ab-676c3b8cddac"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "4dd539ad-f40b-4ecf-ad2e-64409905a9c5",
+          "name": "Catch of the Day",
+          "food_ids": [
+            "e3e64a7f-233a-4486-844c-6becf16739e7",
+            "7694c270-2fbd-4520-95f4-74aed261ae87",
+            "4baca219-8d65-40e0-ba71-80d9324c69cf",
+            "e57b47d6-58f3-4735-85ab-676c3b8cddac"
+          ]
+        },
+        {
+          "id": "a3f15d57-380c-46a8-9ef6-6ca1a26298b5",
+          "name": "Goan Favorites",
+          "food_ids": [
+            "e3e64a7f-233a-4486-844c-6becf16739e7",
+            "7694c270-2fbd-4520-95f4-74aed261ae87",
+            "3da2080d-4484-4d7e-bdca-ae8abdd2f722",
+            "a078cc6d-c444-42a5-9712-01a393e7f4bd"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "be8d07e0-76ed-4079-b99b-67ab28503ec1",
+      "name": "Nawab's Awadhi Dastarkhwan",
+      "description": "Preserving the centuries-old royal culinary heritage of Lucknow Nawabs with slow dum cooking and fragrant essences.",
+      "rating": 4.7,
+      "total_orders": 26400,
+      "location": {
+        "address": "18 Tulsi Theatre Road, Hazratganj",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "226001",
+        "latitude": 26.8467,
+        "longitude": 80.9462
+      },
+      "delivery_time": {
+        "min": 30,
+        "max": 45
+      },
+      "cuisines": [
+        "Awadhi",
+        "Mughlai",
+        "Kebabs"
+      ],
+      "menu_categories": [
+        {
+          "id": "70a2a7e7-1ff9-4226-a263-397e69a768c6",
+          "name": "Melt-in-Mouth Kebabs",
+          "food_ids": [
+            "f560de94-7026-4831-87c6-ab422c7a3fb7",
+            "408c40e7-d660-4200-8b66-7c9bdc7785f3"
+          ]
+        },
+        {
+          "id": "8f95a595-fbe2-4254-91ee-f398d1aecb2c",
+          "name": "Awadhi Gravies",
+          "food_ids": [
+            "8ca56dce-361f-46e0-b454-b06720bda61a",
+            "298d50a9-d520-4144-902d-66364b76b8ff"
+          ]
+        },
+        {
+          "id": "971e2689-7720-4d91-b9ae-ae25e440b174",
+          "name": "Mughlai Breads & Kheer",
+          "food_ids": [
+            "654ec6d7-9027-45e6-9dce-2bb17b72fc78",
+            "eefb0661-4e9f-4ea0-ab73-8783510ef57e"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "540f3b44-73bc-43e1-afec-09497271294c",
+          "name": "Nawabi Heritage",
+          "food_ids": [
+            "f560de94-7026-4831-87c6-ab422c7a3fb7",
+            "8ca56dce-361f-46e0-b454-b06720bda61a",
+            "298d50a9-d520-4144-902d-66364b76b8ff",
+            "654ec6d7-9027-45e6-9dce-2bb17b72fc78",
+            "eefb0661-4e9f-4ea0-ab73-8783510ef57e"
+          ]
+        },
+        {
+          "id": "1003377d-6938-48c2-b751-5f76d4f6db89",
+          "name": "Signature Kebabs",
+          "food_ids": [
+            "f560de94-7026-4831-87c6-ab422c7a3fb7",
+            "408c40e7-d660-4200-8b66-7c9bdc7785f3"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "c8f6be06-9704-49f3-85e8-49bcdc629c41",
+      "name": "Trattoria Bella Napoli",
+      "description": "Neapolitan style pizzeria and trattoria serving hand-stretched sourdough pizzas, fresh pasta, and decadent dolci.",
+      "rating": 4.6,
+      "total_orders": 19700,
+      "location": {
+        "address": "100 Feet Road, HAL 2nd Stage, Indiranagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "pincode": "560038",
+        "latitude": 12.9719,
+        "longitude": 77.6412
+      },
+      "delivery_time": {
+        "min": 25,
+        "max": 40
+      },
+      "cuisines": [
+        "Italian",
+        "Pizza",
+        "Pasta"
+      ],
+      "menu_categories": [
+        {
+          "id": "3c040b8a-4642-449a-afa3-eab270f7ac5d",
+          "name": "Woodfired Pizza",
+          "food_ids": [
+            "33cd4904-5f8f-4494-b85d-21b76287dc18"
+          ]
+        },
+        {
+          "id": "13ff66a1-bb2d-46fd-95f4-287532c5bd51",
+          "name": "Artisan Pasta",
+          "food_ids": [
+            "b8b1bff6-193d-41d8-adbb-111867e11e5d",
+            "8e5bfbb3-aa24-4fee-ac11-f8ef69271fab"
+          ]
+        },
+        {
+          "id": "63d42929-2da0-4e43-9331-9693256feb9c",
+          "name": "Antipasti & Dolci",
+          "food_ids": [
+            "05acb3af-08c6-4f9b-873a-7511e1375037",
+            "3e87645c-edb3-43ff-98e1-060ad6e05b55",
+            "bb5f5563-fb31-42bf-ab34-02482f277c61"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "132cefae-3e69-4b19-bd56-f8246fdb912e",
+          "name": "Chef Italian Table",
+          "food_ids": [
+            "33cd4904-5f8f-4494-b85d-21b76287dc18",
+            "b8b1bff6-193d-41d8-adbb-111867e11e5d",
+            "8e5bfbb3-aa24-4fee-ac11-f8ef69271fab",
+            "3e87645c-edb3-43ff-98e1-060ad6e05b55",
+            "bb5f5563-fb31-42bf-ab34-02482f277c61"
+          ]
+        },
+        {
+          "id": "74c7c2ca-8ed2-4410-bcfe-0ca143d36d5f",
+          "name": "Pizza Lovers",
+          "food_ids": [
+            "33cd4904-5f8f-4494-b85d-21b76287dc18",
+            "05acb3af-08c6-4f9b-873a-7511e1375037"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "8772d370-2d57-4426-b115-a42bc8b8a04f",
+      "name": "Chai & Samosa Junction",
+      "description": "Iconic bustling Mumbai street snack hub serving hot golden samosas, spicy vada pav, buttery pav bhaji, and kadak cutting chai.",
+      "rating": 4.4,
+      "total_orders": 39500,
+      "location": {
+        "address": "Near Dadar Western Railway Station, Senapati Bapat Marg",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "400028",
+        "latitude": 19.0178,
+        "longitude": 72.8478
+      },
+      "delivery_time": {
+        "min": 15,
+        "max": 25
+      },
+      "cuisines": [
+        "Fast Food",
+        "Snacks",
+        "Beverages"
+      ],
+      "menu_categories": [
+        {
+          "id": "690b37f5-f131-4b99-8fe0-4db7293506bd",
+          "name": "Mumbai Street Food",
+          "food_ids": [
+            "e37cd1c3-6d1f-4577-8130-ab55c6eae713",
+            "feb09889-02ca-4f15-830f-9fa7d3c5f5c8"
+          ]
+        },
+        {
+          "id": "00706163-0b9a-4c3e-ac21-fb160837094e",
+          "name": "Hot Snacks",
+          "food_ids": [
+            "a80c56e1-66d8-44b8-a275-b9a702c76c48",
+            "4699774d-47a1-4ef2-bd0e-eb40c8f06621"
+          ]
+        },
+        {
+          "id": "42c11703-2a0d-40a0-ad55-2b01710a8502",
+          "name": "Chai Specials",
+          "food_ids": [
+            "ac1dfbce-06af-40b4-b210-3b0a42fab746",
+            "000e3ca4-51eb-4e54-8782-daa682d2ab9a"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "4b82c99a-dc21-4344-8f3d-399deb41e96c",
+          "name": "Evening Snacks",
+          "food_ids": [
+            "e37cd1c3-6d1f-4577-8130-ab55c6eae713",
+            "a80c56e1-66d8-44b8-a275-b9a702c76c48",
+            "feb09889-02ca-4f15-830f-9fa7d3c5f5c8",
+            "000e3ca4-51eb-4e54-8782-daa682d2ab9a",
+            "4699774d-47a1-4ef2-bd0e-eb40c8f06621"
+          ]
+        },
+        {
+          "id": "3d10a59b-be38-4373-b6e4-7f133ba348cd",
+          "name": "Budget Bites",
+          "food_ids": [
+            "e37cd1c3-6d1f-4577-8130-ab55c6eae713",
+            "a80c56e1-66d8-44b8-a275-b9a702c76c48",
+            "ac1dfbce-06af-40b4-b210-3b0a42fab746",
+            "000e3ca4-51eb-4e54-8782-daa682d2ab9a",
+            "4699774d-47a1-4ef2-bd0e-eb40c8f06621"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "f3aaace5-d9ce-48d7-8279-3955b0b086b4",
+      "name": "Sweet Bengal Confectionery",
+      "description": "Master confectioners crafting hand-rolled Kolkata rasgullas, nolen gur sandesh, and velvety clay-pot mishti doi.",
+      "rating": 4.7,
+      "total_orders": 31800,
+      "location": {
+        "address": "78 College Street, Near Coffee House",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "pincode": "700073",
+        "latitude": 22.5739,
+        "longitude": 88.3639
+      },
+      "delivery_time": {
+        "min": 20,
+        "max": 35
+      },
+      "cuisines": [
+        "Desserts",
+        "Bengali",
+        "Sweets"
+      ],
+      "menu_categories": [
+        {
+          "id": "38f86f20-8907-4321-b107-3b26ab35611b",
+          "name": "Traditional Sweets",
+          "food_ids": [
+            "b7fef416-40fe-4f27-83cc-4b674a77995f",
+            "43482202-b7dd-4258-92a9-95af332c2644"
+          ]
+        },
+        {
+          "id": "480b24f1-394b-4e46-b2b2-1cc7d14c2d91",
+          "name": "Chhena Delicacies",
+          "food_ids": [
+            "125ba852-9cc4-4fdc-99ac-fdf589731b97",
+            "bcfbbd82-f167-433c-a3a2-5b66d0fc9350"
+          ]
+        },
+        {
+          "id": "ce2b6e39-a747-454d-b4f8-7babef5753c7",
+          "name": "Pudding & Yogurt",
+          "food_ids": [
+            "86cfe743-005b-4fd1-8c3e-8cdfd32e953c",
+            "3c7393ec-dd3b-47d4-bed9-8568b44610f3"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "b2d26b8f-474e-4c02-a129-b4e169177d79",
+          "name": "Festive Favorites",
+          "food_ids": [
+            "b7fef416-40fe-4f27-83cc-4b674a77995f",
+            "125ba852-9cc4-4fdc-99ac-fdf589731b97",
+            "86cfe743-005b-4fd1-8c3e-8cdfd32e953c",
+            "43482202-b7dd-4258-92a9-95af332c2644",
+            "3c7393ec-dd3b-47d4-bed9-8568b44610f3"
+          ]
+        },
+        {
+          "id": "9a30c184-9fad-4d53-85e4-b60a500ea3d3",
+          "name": "Bengal Specials",
+          "food_ids": [
+            "b7fef416-40fe-4f27-83cc-4b674a77995f",
+            "125ba852-9cc4-4fdc-99ac-fdf589731b97",
+            "86cfe743-005b-4fd1-8c3e-8cdfd32e953c",
+            "bcfbbd82-f167-433c-a3a2-5b66d0fc9350"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "d9507f63-e03f-4333-94da-9060a1e7ca08",
+      "name": "Andhra Spice Kitchen",
+      "description": "Fiery and flavorful Andhra culinary feast featuring fiery gun-powder podis, tangy gongura gravies, and coastal roasts.",
+      "rating": 4.5,
+      "total_orders": 22900,
+      "location": {
+        "address": "Shop 12, Besant Road, Governorpet",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "country": "India",
+        "pincode": "520002",
+        "latitude": 16.5131,
+        "longitude": 80.6325
+      },
+      "delivery_time": {
+        "min": 25,
+        "max": 40
+      },
+      "cuisines": [
+        "Andhra",
+        "South Indian",
+        "Spicy"
+      ],
+      "menu_categories": [
+        {
+          "id": "4214a3c9-d427-4612-a1de-16852ea1eb7f",
+          "name": "Spicy Starters",
+          "food_ids": [
+            "2d9864bd-bab0-4b8f-8e98-1a429b7212c3",
+            "7ab4720d-7265-46b1-80c6-a153108d2308"
+          ]
+        },
+        {
+          "id": "62b0f4fd-878c-42bf-81c4-4600dc0b8b0b",
+          "name": "Traditional Curries",
+          "food_ids": [
+            "d53e25b7-5114-4d0e-8e8d-663cc6996423",
+            "7f7411c1-ff8b-4970-b8e7-b334adca754f"
+          ]
+        },
+        {
+          "id": "e6ac8b08-4c96-456d-8cc1-37859bca4fda",
+          "name": "Rice Combos & Drinks",
+          "food_ids": [
+            "24d3ddcf-d217-409a-92b7-54c4ba03fb47",
+            "c8217028-7d94-4567-b588-599c83e2f0e7"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "0fc90cb2-9b4b-43a0-b095-2c966cb4148c",
+          "name": "Fiery Andhra Treats",
+          "food_ids": [
+            "d53e25b7-5114-4d0e-8e8d-663cc6996423",
+            "2d9864bd-bab0-4b8f-8e98-1a429b7212c3",
+            "7f7411c1-ff8b-4970-b8e7-b334adca754f",
+            "7ab4720d-7265-46b1-80c6-a153108d2308",
+            "c8217028-7d94-4567-b588-599c83e2f0e7"
+          ]
+        },
+        {
+          "id": "a9b85900-43ff-4f29-a85b-44176752970c",
+          "name": "Lunch Specials",
+          "food_ids": [
+            "d53e25b7-5114-4d0e-8e8d-663cc6996423",
+            "7f7411c1-ff8b-4970-b8e7-b334adca754f",
+            "24d3ddcf-d217-409a-92b7-54c4ba03fb47",
+            "c8217028-7d94-4567-b588-599c83e2f0e7"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "37d04f03-58e4-43a5-af4c-c7b7119f6b5d",
+      "name": "The Burger Garage",
+      "description": "American style gourmet diner handcrafting smashed patty burgers, crispy tenders, seasoned fries, and malt shakes.",
+      "rating": 4.4,
+      "total_orders": 27600,
+      "location": {
+        "address": "80 Feet Road, 4th Block, Koramangala",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "pincode": "560034",
+        "latitude": 12.9352,
+        "longitude": 77.6245
+      },
+      "delivery_time": {
+        "min": 20,
+        "max": 35
+      },
+      "cuisines": [
+        "Fast Food",
+        "Burgers",
+        "American"
+      ],
+      "menu_categories": [
+        {
+          "id": "644226d0-1789-4f3e-9915-088ce73659b9",
+          "name": "Gourmet Burgers",
+          "food_ids": [
+            "42a15089-2378-486b-8817-d7d4c7a9ff33",
+            "c9ea57bf-4f8d-415c-a238-e853f26669e5",
+            "bbf57ea0-7696-49cf-ab09-1ebdd09c3329"
+          ]
+        },
+        {
+          "id": "aefa20d3-21e7-442a-a7c4-a95443441445",
+          "name": "Sides & Munchies",
+          "food_ids": [
+            "6d30a8a2-f514-4c02-aeeb-b0afc26febe1",
+            "533d4cb4-2fdd-4895-a710-08876d4a09ca"
+          ]
+        },
+        {
+          "id": "c4a986bc-2668-4eb4-b8b7-43f78dd6c64d",
+          "name": "Thick Shakes",
+          "food_ids": [
+            "774ae75a-f54b-49d1-8fe9-b7d5460294a0"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "565a6d28-4c91-445c-a917-c2db039cb40d",
+          "name": "Top Buns",
+          "food_ids": [
+            "42a15089-2378-486b-8817-d7d4c7a9ff33",
+            "c9ea57bf-4f8d-415c-a238-e853f26669e5",
+            "bbf57ea0-7696-49cf-ab09-1ebdd09c3329",
+            "774ae75a-f54b-49d1-8fe9-b7d5460294a0"
+          ]
+        },
+        {
+          "id": "229cddb1-633a-4e64-a17e-aa843f495bfc",
+          "name": "Combo Meals",
+          "food_ids": [
+            "42a15089-2378-486b-8817-d7d4c7a9ff33",
+            "bbf57ea0-7696-49cf-ab09-1ebdd09c3329",
+            "6d30a8a2-f514-4c02-aeeb-b0afc26febe1",
+            "533d4cb4-2fdd-4895-a710-08876d4a09ca"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "b2e6282b-7a2d-4c01-8481-e7a29aca6c8c",
+      "name": "Kerala Malabar Delights",
+      "description": "Traditional Mappila and coastal culinary legacy featuring fragrant kaima rice biryanis, coconut milk fish stews, and flaky parottas.",
+      "rating": 4.6,
+      "total_orders": 17900,
+      "location": {
+        "address": "Tower Road, Near Chinese Fishing Nets, Fort Kochi",
+        "city": "Kochi",
+        "state": "Kerala",
+        "country": "India",
+        "pincode": "682001",
+        "latitude": 9.9656,
+        "longitude": 76.2421
+      },
+      "delivery_time": {
+        "min": 25,
+        "max": 40
+      },
+      "cuisines": [
+        "Kerala",
+        "Malabar",
+        "South Indian"
+      ],
+      "menu_categories": [
+        {
+          "id": "d6e3bfdf-2b69-4809-bc8e-bf50d741b7e1",
+          "name": "Malabar Curries & Biryani",
+          "food_ids": [
+            "5ef73b1b-0d4e-4673-b69a-f3b7d7ea46a5",
+            "2547aa88-ae05-4bfb-93a9-eb25479aa444"
+          ]
+        },
+        {
+          "id": "2da1d324-b883-4867-9ba1-62d92382145c",
+          "name": "Tiffin & Bread",
+          "food_ids": [
+            "1cc77134-db16-41cd-8ba2-41f70c2a193b",
+            "75fc55a8-99b3-477f-a489-fb78c9580eec"
+          ]
+        },
+        {
+          "id": "418362cb-963e-4de6-bf0a-792a7e2c134f",
+          "name": "Beverages & Treats",
+          "food_ids": [
+            "d7d249e5-884e-453e-af7d-ffd1c98c66c0",
+            "a3099509-b202-41a2-a01c-f73f94e46be2"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "27a01036-c1b5-4079-8522-3957fa846a66",
+          "name": "Malabar Heritage",
+          "food_ids": [
+            "5ef73b1b-0d4e-4673-b69a-f3b7d7ea46a5",
+            "1cc77134-db16-41cd-8ba2-41f70c2a193b",
+            "2547aa88-ae05-4bfb-93a9-eb25479aa444",
+            "75fc55a8-99b3-477f-a489-fb78c9580eec",
+            "d7d249e5-884e-453e-af7d-ffd1c98c66c0",
+            "a3099509-b202-41a2-a01c-f73f94e46be2"
+          ]
+        },
+        {
+          "id": "a468ffab-9e1c-498b-9396-2869f5331aa3",
+          "name": "Kerala Seafood",
+          "food_ids": [
+            "2547aa88-ae05-4bfb-93a9-eb25479aa444",
+            "a3099509-b202-41a2-a01c-f73f94e46be2"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "714f1125-ace7-49ce-9253-6bd987a248b3",
+      "name": "Rajdhani Thali Samrat",
+      "description": "Lavish royal vegetarian culinary journey through Rajasthan and Gujarat featuring traditional thali specialties and artisanal ghee sweets.",
+      "rating": 4.5,
+      "total_orders": 19200,
+      "location": {
+        "address": "Opposite Town Hall, Ashram Road",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India",
+        "pincode": "380006",
+        "latitude": 23.0225,
+        "longitude": 72.5714
+      },
+      "delivery_time": {
+        "min": 30,
+        "max": 45
+      },
+      "cuisines": [
+        "Rajasthani",
+        "Gujarati",
+        "North Indian"
+      ],
+      "menu_categories": [
+        {
+          "id": "2e01567c-93c7-4120-9df3-57f11544b656",
+          "name": "Royal Thali Items",
+          "food_ids": [
+            "7530949c-977e-4621-9c45-23243feb0de1"
+          ]
+        },
+        {
+          "id": "fe1a648a-4c24-4501-963d-39a5ad6c8dba",
+          "name": "Regional Specialties",
+          "food_ids": [
+            "c8dd6ea1-eae9-4145-a2ec-cc2a2debdac0",
+            "e6696463-3cfe-4fb1-95da-d487d6abaa58",
+            "710f708e-699d-4056-ab09-fc2601542efe"
+          ]
+        },
+        {
+          "id": "f0c7f10b-094d-4421-8b73-6edf2be6a8e0",
+          "name": "Snacks & Sweets",
+          "food_ids": [
+            "5ec2ed44-08eb-403c-a622-c9b448ecba85",
+            "677d4ea6-e2b2-4619-9230-744d9b4b3887"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "57e1ca47-bfee-461f-ac08-450e047aa5df",
+          "name": "Thali Delights",
+          "food_ids": [
+            "7530949c-977e-4621-9c45-23243feb0de1",
+            "c8dd6ea1-eae9-4145-a2ec-cc2a2debdac0",
+            "e6696463-3cfe-4fb1-95da-d487d6abaa58",
+            "5ec2ed44-08eb-403c-a622-c9b448ecba85",
+            "677d4ea6-e2b2-4619-9230-744d9b4b3887"
+          ]
+        },
+        {
+          "id": "eb1894cb-1de9-4931-b941-65944dfbd310",
+          "name": "Royal Rajasthani",
+          "food_ids": [
+            "7530949c-977e-4621-9c45-23243feb0de1",
+            "c8dd6ea1-eae9-4145-a2ec-cc2a2debdac0",
+            "710f708e-699d-4056-ab09-fc2601542efe",
+            "677d4ea6-e2b2-4619-9230-744d9b4b3887"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    },
+    {
+      "id": "8848d58d-48ec-4b4b-8ad0-13ee4bc9fe62",
+      "name": "Madras Filter Kaapi & Tiffin",
+      "description": "Iconic Mylapore breakfast joint celebrated for piping hot button idlis, crispy rava dosas, and invigorating degree coffee.",
+      "rating": 4.7,
+      "total_orders": 33100,
+      "location": {
+        "address": "45 North Mada Street, Near Kapaleeshwarar Temple, Mylapore",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "pincode": "600004",
+        "latitude": 13.0334,
+        "longitude": 80.2694
+      },
+      "delivery_time": {
+        "min": 15,
+        "max": 30
+      },
+      "cuisines": [
+        "South Indian",
+        "Beverages",
+        "Fast Food"
+      ],
+      "menu_categories": [
+        {
+          "id": "a8257e94-12bd-4e0b-b206-6dcd7abd5769",
+          "name": "Breakfast Specials",
+          "food_ids": [
+            "eff493b5-d013-4714-a49f-b687fc914c79",
+            "952d976d-26bc-41a2-8964-f2386f4fa51f"
+          ]
+        },
+        {
+          "id": "eec1ed6a-5b68-44d5-ba43-6ebbad3d4929",
+          "name": "Dosa Corner",
+          "food_ids": [
+            "f391d812-607a-40e8-8818-469533c1b473",
+            "b8895f5a-9c73-4539-9d87-0be516919e04"
+          ]
+        },
+        {
+          "id": "4f52113b-4b88-44ae-a403-710eac14c956",
+          "name": "Traditional Drinks & Sweets",
+          "food_ids": [
+            "bffe9106-df82-4ca6-bb09-eba911df741d",
+            "cbd9c3c3-a987-4ba2-b07b-5022492599db"
+          ]
+        }
+      ],
+      "collections": [
+        {
+          "id": "b034a86e-906b-415b-823c-ce121d6f8a78",
+          "name": "Mylapore Mornings",
+          "food_ids": [
+            "eff493b5-d013-4714-a49f-b687fc914c79",
+            "f391d812-607a-40e8-8818-469533c1b473",
+            "952d976d-26bc-41a2-8964-f2386f4fa51f",
+            "bffe9106-df82-4ca6-bb09-eba911df741d",
+            "cbd9c3c3-a987-4ba2-b07b-5022492599db"
+          ]
+        },
+        {
+          "id": "5a05b429-fdcd-404d-8848-2b466d5d78c1",
+          "name": "Quick Breakfast",
+          "food_ids": [
+            "eff493b5-d013-4714-a49f-b687fc914c79",
+            "f391d812-607a-40e8-8818-469533c1b473",
+            "b8895f5a-9c73-4539-9d87-0be516919e04",
+            "bffe9106-df82-4ca6-bb09-eba911df741d"
+          ]
+        }
+      ],
+      "disclaimer": "Images are for representation purposes only.",
+      "is_active": true
+    }
+  ]
+}

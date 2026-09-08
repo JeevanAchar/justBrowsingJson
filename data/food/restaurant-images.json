@@ -1,0 +1,1351 @@
+{
+  "timestamp": {
+    "updated_at": "2026-09-08T03:15:42.000Z"
+  },
+  "data": [
+    {
+      "id": "c0bc60b8-6418-4bf9-a07a-2f05f4cb9ae6",
+      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
+      "description": "Spacious royal dining hall with traditional lighting at Bawarchi Biryani Mahal",
+      "type": "banner",
+      "tags": [
+        "hyderabad",
+        "biryani-house",
+        "ambience",
+        "dining-hall"
+      ]
+    },
+    {
+      "id": "de843ade-dd0c-4181-a8f6-63cccecec3cd",
+      "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+      "description": "Hyderabadi chicken dum biryani served with salan and boiled egg",
+      "type": "food",
+      "tags": [
+        "biryani",
+        "chicken",
+        "rice",
+        "hyderabadi"
+      ]
+    },
+    {
+      "id": "9ffddf42-c8cf-4ff2-a6b7-a7b55478184e",
+      "image_url": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=800&q=80",
+      "description": "Gourmet Hyderabadi mutton dum biryani garnished with fried onions",
+      "type": "food",
+      "tags": [
+        "biryani",
+        "mutton",
+        "mughlai",
+        "spicy"
+      ]
+    },
+    {
+      "id": "8396aa4c-a5e1-4dc1-a686-6a94112095ff",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Hot tangy chili gravy served as accompaniment for biryani",
+      "type": "food",
+      "tags": [
+        "salan",
+        "curry",
+        "hyderabadi",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "5e73ce34-bbe9-466d-931b-24eb5698428d",
+      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Red crispy spiced chicken 65 starter served on a platter",
+      "type": "food",
+      "tags": [
+        "starter",
+        "chicken-65",
+        "andhra",
+        "spicy"
+      ]
+    },
+    {
+      "id": "cb298989-5ecb-4c38-90f8-0d39b7686886",
+      "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden soaked dessert garnished with crushed dry fruits and saffron",
+      "type": "food",
+      "tags": [
+        "dessert",
+        "sweet",
+        "hyderabadi",
+        "pudding"
+      ]
+    },
+    {
+      "id": "1b2a6628-7ecd-4aab-8768-6ec56de475e2",
+      "image_url": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+      "description": "Steaming glass cup of aromatic Irani chai tea",
+      "type": "food",
+      "tags": [
+        "tea",
+        "chai",
+        "beverage",
+        "hot"
+      ]
+    },
+    {
+      "id": "d546a342-b7d8-44af-925b-304492e1cef4",
+      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+      "description": "Warm and vibrant North Indian dining interior at Punjab Grill & Spice",
+      "type": "banner",
+      "tags": [
+        "delhi",
+        "punjabi",
+        "interior",
+        "restaurant"
+      ]
+    },
+    {
+      "id": "80466aac-4dff-4f4a-8fcf-47ae6d9c232f",
+      "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+      "description": "Rich velvety butter chicken curry served in a copper handi",
+      "type": "food",
+      "tags": [
+        "butter-chicken",
+        "curry",
+        "punjabi",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "9b5b45c1-da9b-41ea-9b1b-d77c9618deb8",
+      "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy slow-cooked dal makhani garnished with fresh cream swirl",
+      "type": "food",
+      "tags": [
+        "dal",
+        "dal-makhani",
+        "north-indian",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "a04bd9c6-a19d-40ea-925b-46a2f89d1af8",
+      "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+      "description": "Char-grilled spicy paneer tikka with capsicum and onion rings",
+      "type": "food",
+      "tags": [
+        "paneer-tikka",
+        "tandoor",
+        "starter",
+        "paneer"
+      ]
+    },
+    {
+      "id": "4b0aae7a-585c-4406-9fff-2bdecbcdb440",
+      "image_url": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+      "description": "Freshly baked garlic butter naan bread hot from the tandoor",
+      "type": "food",
+      "tags": [
+        "naan",
+        "bread",
+        "garlic-bread",
+        "indian-bread"
+      ]
+    },
+    {
+      "id": "3e77cae3-3207-4ecb-b602-b782ea61e29d",
+      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "description": "Crusty golden Amritsari stuffed kulcha bread with butter",
+      "type": "food",
+      "tags": [
+        "kulcha",
+        "amritsari",
+        "bread",
+        "punjabi"
+      ]
+    },
+    {
+      "id": "90319487-7bca-4fd7-b9e5-f44b3d18224b",
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "description": "Warm golden brown gulab jamun in floral sugar syrup",
+      "type": "food",
+      "tags": [
+        "dessert",
+        "gulab-jamun",
+        "sweet",
+        "indian"
+      ]
+    },
+    {
+      "id": "fcedfd12-d117-44c7-909b-a21421e82aee",
+      "image_url": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1200&q=80",
+      "description": "Serene South Indian ethnic ambience at Dakshin Flavours",
+      "type": "banner",
+      "tags": [
+        "chennai",
+        "south-indian",
+        "ambience",
+        "traditional"
+      ]
+    },
+    {
+      "id": "6acacc87-3aa7-4969-b355-0bcd8048d437",
+      "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+      "description": "Crisp rolled masala dosa with spiced potato filling and fresh chutneys",
+      "type": "food",
+      "tags": [
+        "dosa",
+        "south-indian",
+        "breakfast",
+        "ghee"
+      ]
+    },
+    {
+      "id": "9d4166d6-4e16-4ad1-b020-c187a6a29349",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden crispy medu vada served with steaming hot lentil sambar",
+      "type": "food",
+      "tags": [
+        "vada",
+        "tiffin",
+        "south-indian",
+        "chutney"
+      ]
+    },
+    {
+      "id": "efa441ee-1997-4631-b4c7-66b816ba719c",
+      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "description": "Dark spiced Chettinad pepper chicken curry in a traditional bowl",
+      "type": "food",
+      "tags": [
+        "chettinad",
+        "curry",
+        "chicken",
+        "pepper"
+      ]
+    },
+    {
+      "id": "8ad000fc-e7a8-47cb-b95e-dddc6c57bf8d",
+      "image_url": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80",
+      "description": "Lacy rimmed appam pancake served with aromatic vegetable coconut stew",
+      "type": "food",
+      "tags": [
+        "appam",
+        "kerala",
+        "breakfast",
+        "stew"
+      ]
+    },
+    {
+      "id": "6876efda-b77e-4b22-8fb3-d5743c153f55",
+      "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+      "description": "Flaky layered bread with caramelized egg roast curry",
+      "type": "food",
+      "tags": [
+        "parotta",
+        "egg",
+        "kerala",
+        "roast"
+      ]
+    },
+    {
+      "id": "e3063c89-3834-4d32-8454-db56f28e68e7",
+      "image_url": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80",
+      "description": "Foamy South Indian filter coffee in traditional brass davarah tumbler",
+      "type": "food",
+      "tags": [
+        "coffee",
+        "filter-coffee",
+        "hot",
+        "beverage"
+      ]
+    },
+    {
+      "id": "089c2ff0-60f3-4b29-bb6d-18b6680f9e90",
+      "image_url": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=1200&q=80",
+      "description": "Atmospheric oriental dining lounge with lantern glow at The Golden Dragon",
+      "type": "banner",
+      "tags": [
+        "kolkata",
+        "chinese",
+        "asian",
+        "dining"
+      ]
+    },
+    {
+      "id": "08880458-4d35-4bbd-a21f-852433a06f51",
+      "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
+      "description": "Tossed stir-fried veg noodles with colorful julienne vegetables",
+      "type": "food",
+      "tags": [
+        "noodles",
+        "hakka",
+        "chinese",
+        "asian"
+      ]
+    },
+    {
+      "id": "1994ff5f-eb9d-4ccd-ac76-122fa987b844",
+      "image_url": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80",
+      "description": "Glossy wok-tossed Indo-Chinese spicy chili chicken starter",
+      "type": "food",
+      "tags": [
+        "chilli-chicken",
+        "spicy",
+        "chicken",
+        "chinese"
+      ]
+    },
+    {
+      "id": "c539d48e-3c77-44d2-b913-29042eee4a9f",
+      "image_url": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+      "description": "Fiery red Schezwan fried rice wok-tossed with egg and chicken bits",
+      "type": "food",
+      "tags": [
+        "rice",
+        "fried-rice",
+        "schezwan",
+        "asian"
+      ]
+    },
+    {
+      "id": "ab133904-0c02-4e81-9455-f417f6317419",
+      "image_url": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80",
+      "description": "Bamboo basket filled with steamed delicate chicken dim sums",
+      "type": "food",
+      "tags": [
+        "dim-sum",
+        "dumplings",
+        "steamed",
+        "chinese"
+      ]
+    },
+    {
+      "id": "c1492b0f-3114-430e-86ff-2f7d20d124d5",
+      "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden crispy vegetable spring rolls sliced diagonally with dip",
+      "type": "food",
+      "tags": [
+        "spring-rolls",
+        "crispy",
+        "starter",
+        "asian"
+      ]
+    },
+    {
+      "id": "363a9a87-06a4-4b71-b065-e9070f978fe3",
+      "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+      "description": "Warm bowl of comforting sweet corn chicken soup",
+      "type": "food",
+      "tags": [
+        "soup",
+        "sweet-corn",
+        "chicken",
+        "warm"
+      ]
+    },
+    {
+      "id": "ccc4a6fe-8bd3-44d0-a4a0-33e65109fe2b",
+      "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1200&q=80",
+      "description": "Bustling clean vegetarian dining hall at Udupi Sri Krishna Bhavan",
+      "type": "banner",
+      "tags": [
+        "bengaluru",
+        "udupi",
+        "pure-veg",
+        "hall"
+      ]
+    },
+    {
+      "id": "d2f8fed6-c671-4d9c-82d1-302ce5f91e62",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "description": "Steaming white idlis served with vegetable sambar and red coconut chutney",
+      "type": "food",
+      "tags": [
+        "idli",
+        "south-indian",
+        "sambar",
+        "healthy"
+      ]
+    },
+    {
+      "id": "a9e561e4-a934-4270-afd1-2bddf4bfcc67",
+      "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+      "description": "Crispy butter roasted Mysore masala dosa folded with chutney paste",
+      "type": "food",
+      "tags": [
+        "dosa",
+        "mysore-masala",
+        "ghee",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "6c3d76d1-e350-4972-94f1-2c17fc9e5cd1",
+      "image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "description": "Spiced hot lentil vegetable rice bath garnished with boondi and cashews",
+      "type": "food",
+      "tags": [
+        "rice",
+        "bisi-bele-bath",
+        "karnataka",
+        "traditional"
+      ]
+    },
+    {
+      "id": "cd8b359f-83b8-4a64-9264-58a2c66cdb47",
+      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "description": "Glossy golden rava kesari bath studded with cashews in a cup",
+      "type": "food",
+      "tags": [
+        "kesari",
+        "sweet",
+        "dessert",
+        "rava"
+      ]
+    },
+    {
+      "id": "84496c4f-8594-4ede-a99c-8be12c1b6c22",
+      "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+      "description": "Tempered curd rice with mustard seed tadka and pomegranate pearls",
+      "type": "food",
+      "tags": [
+        "curd-rice",
+        "healthy",
+        "rice",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "17d07a89-6ed7-47da-81b1-c1c053b4eb09",
+      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "description": "Chilled rich almond saffron milk served with crushed pistachio topping",
+      "type": "food",
+      "tags": [
+        "badam-milk",
+        "shake",
+        "beverage",
+        "almond"
+      ]
+    },
+    {
+      "id": "062cf586-b274-4179-be3a-51ffc8ebbf1a",
+      "image_url": "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?auto=format&fit=crop&w=1200&q=80",
+      "description": "Regal carved wooden dining setting at Kashmir Wazwan Treats",
+      "type": "banner",
+      "tags": [
+        "delhi",
+        "kashmiri",
+        "wazwan",
+        "heritage"
+      ]
+    },
+    {
+      "id": "2d66557f-045e-48c0-9dbd-51cf9426c84b",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Deep red Kashmiri Rogan Josh mutton curry in traditional bowl",
+      "type": "food",
+      "tags": [
+        "rogan-josh",
+        "mutton",
+        "kashmiri",
+        "curry"
+      ]
+    },
+    {
+      "id": "31122cb0-b169-429c-a985-fc5e80249533",
+      "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+      "description": "Spiced baby potatoes in rich Kashmiri gravy garnished with coriander",
+      "type": "food",
+      "tags": [
+        "dum-aloo",
+        "potato",
+        "curry",
+        "kashmiri"
+      ]
+    },
+    {
+      "id": "db1e9d4d-b634-4907-9caa-9e5274a4e2ce",
+      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "description": "Plump savory mutton gushtaba spheres simmered in velvety white gravy",
+      "type": "food",
+      "tags": [
+        "gushtaba",
+        "wazwan",
+        "mutton",
+        "gravy"
+      ]
+    },
+    {
+      "id": "85eee8e1-10e9-487b-885d-566ced293590",
+      "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden saffron scented pulao rice garnished with toasted dry fruits",
+      "type": "food",
+      "tags": [
+        "pulao",
+        "saffron",
+        "rice",
+        "kashmiri"
+      ]
+    },
+    {
+      "id": "093e7a74-d23d-477d-91ba-eb6ef1d9323d",
+      "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "description": "Silky smooth chilled phirni rice pudding in terracotta cup",
+      "type": "food",
+      "tags": [
+        "phirni",
+        "dessert",
+        "kashmiri",
+        "sweet"
+      ]
+    },
+    {
+      "id": "a68b2240-71c0-4c18-b873-063e02e13ea1",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden aromatic Kashmiri kehwa tea in a clear glass with almond flakes",
+      "type": "food",
+      "tags": [
+        "kehwa",
+        "tea",
+        "kashmiri",
+        "herbal"
+      ]
+    },
+    {
+      "id": "969f78a2-08e1-426b-9959-f4c30e4b763e",
+      "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1200&q=80",
+      "description": "Sunlit coastal patio dining by the seaside at Goan Coastal Shack",
+      "type": "banner",
+      "tags": [
+        "goa",
+        "coastal",
+        "beach-vibe",
+        "shack"
+      ]
+    },
+    {
+      "id": "cd4c8e5e-592d-4e03-9c60-a8dda9ea7501",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Tangy red coconut Kingfish curry served with steaming white rice",
+      "type": "food",
+      "tags": [
+        "fish-curry",
+        "goan",
+        "coastal",
+        "seafood"
+      ]
+    },
+    {
+      "id": "99d4bc32-8977-4ace-8336-2c88da12cd14",
+      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Fiery sweet and tangy Goan prawn balchao in ceramic dish",
+      "type": "food",
+      "tags": [
+        "prawns",
+        "balchao",
+        "seafood",
+        "goan"
+      ]
+    },
+    {
+      "id": "8cd0e94c-f89b-486f-9f8e-ad0e70572483",
+      "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden pan-fried semolina crusted fish slice with onion salad",
+      "type": "food",
+      "tags": [
+        "fish-fry",
+        "crispy",
+        "seafood",
+        "starter"
+      ]
+    },
+    {
+      "id": "7f8a8d61-a89c-4bc4-a40f-84307951aeef",
+      "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+      "description": "Richly roasted brown coconut chicken Xacuti curry",
+      "type": "food",
+      "tags": [
+        "xacuti",
+        "chicken",
+        "curry",
+        "goan"
+      ]
+    },
+    {
+      "id": "504b42ed-fcfb-43c3-bb03-d163aca69f8c",
+      "image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+      "description": "Slice of authentic multi-layered Goan bebinca dessert cake",
+      "type": "food",
+      "tags": [
+        "bebinca",
+        "dessert",
+        "cake",
+        "goan"
+      ]
+    },
+    {
+      "id": "6a37272f-93b8-4494-9a30-e24ddd431480",
+      "image_url": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80",
+      "description": "Pink chilled coconut kokum sol kadhi in a highball glass",
+      "type": "food",
+      "tags": [
+        "sol-kadhi",
+        "drink",
+        "goan",
+        "beverage"
+      ]
+    },
+    {
+      "id": "729a1c1f-cb42-4076-a791-266da64372a4",
+      "image_url": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=1200&q=80",
+      "description": "Heritage Dastarkhwan velvet dining salon at Nawab's Awadhi Dastarkhwan",
+      "type": "banner",
+      "tags": [
+        "lucknow",
+        "awadhi",
+        "nawabi",
+        "heritage"
+      ]
+    },
+    {
+      "id": "41798d9a-4c3e-46a0-85ba-30417e7599de",
+      "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+      "description": "Tender Awadhi galouti kebab served on an inverted griddle paratha",
+      "type": "food",
+      "tags": [
+        "galouti",
+        "kebab",
+        "lucknow",
+        "meat"
+      ]
+    },
+    {
+      "id": "63996efa-2fc2-4bb3-b004-eb0388d43711",
+      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Skewered grilled mutton seekh kebabs with mint dip and onion rings",
+      "type": "food",
+      "tags": [
+        "seekh-kebab",
+        "kebab",
+        "mutton",
+        "grilled"
+      ]
+    },
+    {
+      "id": "bcd2945d-5162-44b8-b199-c0abfc8f0b0f",
+      "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+      "description": "Fragrant light-colored Lucknowi mutton biryani in a handi",
+      "type": "food",
+      "tags": [
+        "biryani",
+        "lucknowi",
+        "gosht",
+        "rice"
+      ]
+    },
+    {
+      "id": "9f9ab6fa-8f42-489a-8ab5-be051c9f16e3",
+      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "description": "Rich slow-cooked nihari gravy topped with julienned ginger and lemon",
+      "type": "food",
+      "tags": [
+        "nihari",
+        "mutton",
+        "curry",
+        "awadhi"
+      ]
+    },
+    {
+      "id": "b1c664c7-de1a-4721-a432-ecced1e5aba4",
+      "image_url": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden yellow sweet saffron sheermal flatbread freshly baked",
+      "type": "food",
+      "tags": [
+        "sheermal",
+        "bread",
+        "mughlai",
+        "saffron"
+      ]
+    },
+    {
+      "id": "d4c07fef-f05e-4e84-bf4b-1edf650ee19e",
+      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy saffron scented rice kheer served in an earthen bowl",
+      "type": "food",
+      "tags": [
+        "kheer",
+        "dessert",
+        "sweet",
+        "pudding"
+      ]
+    },
+    {
+      "id": "74ce2b18-8cc6-4de3-827d-f7eca795705e",
+      "image_url": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=1200&q=80",
+      "description": "Charming rustic Italian trattoria bistro at Trattoria Bella Napoli",
+      "type": "banner",
+      "tags": [
+        "bengaluru",
+        "italian",
+        "trattoria",
+        "pizzeria"
+      ]
+    },
+    {
+      "id": "2482ae2d-8e85-4bb5-b708-c1a6b55ec727",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+      "description": "Woodfired Neapolitan margherita pizza with melted buffalo mozzarella",
+      "type": "food",
+      "tags": [
+        "pizza",
+        "margherita",
+        "italian",
+        "cheesy"
+      ]
+    },
+    {
+      "id": "c3605e00-fee2-4a47-bbed-fab4eaffb60c",
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3d5d6281861?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy porcini mushroom risotto plated with shaved parmesan",
+      "type": "food",
+      "tags": [
+        "risotto",
+        "pasta",
+        "italian",
+        "truffle"
+      ]
+    },
+    {
+      "id": "0d60694f-6cbc-444f-ac33-edcc187c23fe",
+      "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
+      "description": "Spicy penne arrabbiata pasta in red tomato sauce with basil leaf",
+      "type": "food",
+      "tags": [
+        "pasta",
+        "penne",
+        "arrabbiata",
+        "italian"
+      ]
+    },
+    {
+      "id": "57e675d2-0232-46d5-b143-448c560b34a1",
+      "image_url": "https://images.unsplash.com/photo-1506280754576-f6fa8a873550?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden toasted garlic bread loaded with pull-apart melted mozzarella",
+      "type": "food",
+      "tags": [
+        "garlic-bread",
+        "bread",
+        "cheese",
+        "antipasto"
+      ]
+    },
+    {
+      "id": "3fdaed27-e850-449d-8bf8-bdc7f841c8a3",
+      "image_url": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=800&q=80",
+      "description": "Decadent slice of coffee mascarpone tiramisu dusted with cocoa powder",
+      "type": "food",
+      "tags": [
+        "tiramisu",
+        "dessert",
+        "dolci",
+        "italian"
+      ]
+    },
+    {
+      "id": "0d2a94a2-7b07-458d-93c1-f385f6ade802",
+      "image_url": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80",
+      "description": "Iced sparkling mint lemonade garnished with fresh lemon wheel",
+      "type": "food",
+      "tags": [
+        "lemonade",
+        "cooler",
+        "beverage",
+        "citrus"
+      ]
+    },
+    {
+      "id": "558bd40b-3836-4cb2-94dd-27b0d1a87f73",
+      "image_url": "https://images.unsplash.com/photo-1525610553991-78571db6295a?auto=format&fit=crop&w=1200&q=80",
+      "description": "Lively Mumbai cafe counter serving hot chai and bun maska",
+      "type": "banner",
+      "tags": [
+        "mumbai",
+        "chai-point",
+        "cafe",
+        "fast-food"
+      ]
+    },
+    {
+      "id": "79bd2b60-c744-4211-8b7b-9be0f78befaa",
+      "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "description": "Spicy Mumbai street-style batata vada pav served with red garlic chutney",
+      "type": "food",
+      "tags": [
+        "vada-pav",
+        "mumbai",
+        "street-food",
+        "fast-food"
+      ]
+    },
+    {
+      "id": "ce53ef99-15a5-4291-a375-b4bebe005f00",
+      "image_url": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+      "description": "Crisp crushed samosa chaat topped with sev, pomegranate, and chutneys",
+      "type": "food",
+      "tags": [
+        "samosa-chaat",
+        "chaat",
+        "snack",
+        "indian-street-food"
+      ]
+    },
+    {
+      "id": "3566c836-f372-4128-8247-e47660181f5c",
+      "image_url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "description": "Rich butter pav bhaji platter with lemon wedges and diced red onions",
+      "type": "food",
+      "tags": [
+        "pav-bhaji",
+        "butter",
+        "mumbai",
+        "street-food"
+      ]
+    },
+    {
+      "id": "4c61f8c5-fa98-4a64-b8a1-a8de29d5f56d",
+      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "description": "Warm toasted bun maska bread alongside a piping hot glass of tea",
+      "type": "food",
+      "tags": [
+        "bun-maska",
+        "breakfast",
+        "tea-snack",
+        "bread"
+      ]
+    },
+    {
+      "id": "71bc333b-ba10-4540-b059-4fc2948722fc",
+      "image_url": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+      "description": "Spiced hot Indian masala chai in a cutting glass tumbler",
+      "type": "food",
+      "tags": [
+        "chai",
+        "masala-chai",
+        "tea",
+        "beverage"
+      ]
+    },
+    {
+      "id": "374cf4cf-bd31-41e1-b8ad-2d53e8c55139",
+      "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "description": "Hot crispy onion pakoda fritters stacked on parchment paper",
+      "type": "food",
+      "tags": [
+        "pakoda",
+        "bhaji",
+        "fritters",
+        "snack"
+      ]
+    },
+    {
+      "id": "d33d1b39-e1d4-4662-9b9e-48fd28acd47c",
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
+      "description": "Artisanal sweet showcase counter at Sweet Bengal Confectionery",
+      "type": "banner",
+      "tags": [
+        "kolkata",
+        "dessert-shop",
+        "sweet-store",
+        "bengali"
+      ]
+    },
+    {
+      "id": "2101e865-4386-41f5-a6c7-585701bbe7c1",
+      "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+      "description": "Juicy white spongy rasgullas resting in clear sugar syrup",
+      "type": "food",
+      "tags": [
+        "rasgulla",
+        "sweet",
+        "dessert",
+        "bengali"
+      ]
+    },
+    {
+      "id": "79ea1384-af1a-4f87-bce1-7345e09f9676",
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "description": "Artisanal molded date palm jaggery sandesh sweets",
+      "type": "food",
+      "tags": [
+        "sandesh",
+        "sweet",
+        "mithai",
+        "dessert"
+      ]
+    },
+    {
+      "id": "88bd8b38-8377-4932-b168-acdab53b3857",
+      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy caramel mishti doi in traditional terracotta kulhad bowl",
+      "type": "food",
+      "tags": [
+        "mishti-doi",
+        "dessert",
+        "yogurt",
+        "sweet"
+      ]
+    },
+    {
+      "id": "fbe8fcf4-0161-4b08-8625-432b61b0df2b",
+      "image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+      "description": "Diamond cut silver-coated kaju katli sweets arranged in fan shape",
+      "type": "food",
+      "tags": [
+        "kaju-katli",
+        "sweets",
+        "mithai",
+        "cashew"
+      ]
+    },
+    {
+      "id": "0e529e1d-b5b0-4cff-83fb-c97a2bcbf4c2",
+      "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "description": "Stuffed malai cham cham sweets sprinkled with pistachio powder",
+      "type": "food",
+      "tags": [
+        "cham-cham",
+        "sweets",
+        "mithai",
+        "dessert"
+      ]
+    },
+    {
+      "id": "2f300720-481f-4985-9f4d-85b55f88113a",
+      "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+      "description": "Rich flaky kesari rabri served in clay bowl with pistachio slivers",
+      "type": "food",
+      "tags": [
+        "rabri",
+        "dessert",
+        "sweet",
+        "malai"
+      ]
+    },
+    {
+      "id": "0c508fa0-1bb3-4143-9a2e-7d2d45ca4ec1",
+      "image_url": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=1200&q=80",
+      "description": "Vibrant spice kitchen dining space at Andhra Spice Kitchen",
+      "type": "banner",
+      "tags": [
+        "vijayawada",
+        "andhra",
+        "spicy",
+        "dining"
+      ]
+    },
+    {
+      "id": "28ab3c90-3d61-471d-b332-b43503c803e7",
+      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Deep green and red fiery Andhra Gongura chicken curry bowl",
+      "type": "food",
+      "tags": [
+        "gongura",
+        "chicken",
+        "curry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "5a3140d4-ae37-4121-a36c-5efe93dec3d3",
+      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "description": "Dark spicy dry-roasted Andhra chicken fry with green chillies",
+      "type": "food",
+      "tags": [
+        "chicken-fry",
+        "andhra",
+        "spicy",
+        "starter"
+      ]
+    },
+    {
+      "id": "f1f14d21-a653-4082-8226-c4985a956d23",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Spicy caramelized Andhra prawn fry with fresh cilantro sprigs",
+      "type": "food",
+      "tags": [
+        "prawns",
+        "iguru",
+        "seafood",
+        "andhra"
+      ]
+    },
+    {
+      "id": "e6d4407c-64ba-4752-9233-00584ce5af3c",
+      "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+      "description": "Spicy tossed Andhra style green chili paneer cubes",
+      "type": "food",
+      "tags": [
+        "paneer",
+        "vegetarian",
+        "spicy",
+        "starter"
+      ]
+    },
+    {
+      "id": "67e35142-3446-4027-90e7-dbbaa6de5d03",
+      "image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "description": "Comforting yellow tomato dal served over a bed of warm steamed rice",
+      "type": "food",
+      "tags": [
+        "dal",
+        "rice",
+        "pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "82056eb1-6d16-4855-8a53-bca0bccabaec",
+      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "description": "Refreshing spiced buttermilk served chilled with mint garnish",
+      "type": "food",
+      "tags": [
+        "buttermilk",
+        "majjiga",
+        "drink",
+        "beverage"
+      ]
+    },
+    {
+      "id": "eb7995a0-311b-442a-8f8b-74a732a854a9",
+      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1200&q=80",
+      "description": "Industrial retro burger diner ambience at The Burger Garage",
+      "type": "banner",
+      "tags": [
+        "bengaluru",
+        "burger-joint",
+        "diner",
+        "american"
+      ]
+    },
+    {
+      "id": "b7087073-10f6-4586-9771-0c42298dc64e",
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+      "description": "Towering crispy chicken burger stacked with cheese and lettuce in brioche bun",
+      "type": "food",
+      "tags": [
+        "burger",
+        "chicken-burger",
+        "fast-food",
+        "cheddar"
+      ]
+    },
+    {
+      "id": "f48f6f83-419d-472b-8847-af108e5b9120",
+      "image_url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
+      "description": "Juicy double smash cheeseburger with melted cheddar dripping down",
+      "type": "food",
+      "tags": [
+        "burger",
+        "cheeseburger",
+        "american",
+        "gourmet"
+      ]
+    },
+    {
+      "id": "a2fac2d9-3d99-4fc2-b29d-c363cfea60fc",
+      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+      "description": "Barbecue grilled paneer burger with lettuce in sesame seed bun",
+      "type": "food",
+      "tags": [
+        "burger",
+        "paneer",
+        "veggie-burger",
+        "bbq"
+      ]
+    },
+    {
+      "id": "5cb79383-93ba-46de-9da5-3d9f3d9738f1",
+      "image_url": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+      "description": "Basket of crisp french fries dusted with vibrant peri peri spice",
+      "type": "food",
+      "tags": [
+        "fries",
+        "french-fries",
+        "side",
+        "crispy"
+      ]
+    },
+    {
+      "id": "b93cf006-6700-4792-8271-5a8cb46382ac",
+      "image_url": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=800&q=80",
+      "description": "Stack of crunchy golden fried onion rings with dipping sauce",
+      "type": "food",
+      "tags": [
+        "onion-rings",
+        "appetizer",
+        "crispy",
+        "fast-food"
+      ]
+    },
+    {
+      "id": "1d364e8a-92c3-4248-808a-748af1851706",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=800&q=80",
+      "description": "Decadent dark chocolate milkshake topped with whipped cream and syrup",
+      "type": "food",
+      "tags": [
+        "shake",
+        "chocolate-shake",
+        "dessert",
+        "beverage"
+      ]
+    },
+    {
+      "id": "d15b7350-229e-4ebd-bad7-fbec10d04029",
+      "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=crop&w=1200&q=80",
+      "description": "Verdant tropical Malabar courtyard dining at Kerala Malabar Delights",
+      "type": "banner",
+      "tags": [
+        "kochi",
+        "malabar",
+        "kerala",
+        "courtyard"
+      ]
+    },
+    {
+      "id": "1d10c99d-cddd-48b4-ac45-9145ec180f75",
+      "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+      "description": "Authentic Thalassery chicken biryani garnished with raisins and cashews",
+      "type": "food",
+      "tags": [
+        "biryani",
+        "thalassery",
+        "malabar",
+        "chicken"
+      ]
+    },
+    {
+      "id": "86b7218d-4853-4031-82b8-cace0e64fbed",
+      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "description": "Crispy flaky Kerala parotta paired with dark spicy chicken roast gravy",
+      "type": "food",
+      "tags": [
+        "parotta",
+        "chicken-roast",
+        "kerala",
+        "spicy"
+      ]
+    },
+    {
+      "id": "703ba427-2c4c-464d-b17b-500538028058",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Aromatic yellow coconut milk Fish Moilee curry with tomato wedges",
+      "type": "food",
+      "tags": [
+        "fish-moilee",
+        "seafood",
+        "kerala",
+        "curry"
+      ]
+    },
+    {
+      "id": "2d5437aa-4a67-4554-bdea-eb102670db6d",
+      "image_url": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy vegetable stew in coconut milk served alongside soft appam",
+      "type": "food",
+      "tags": [
+        "vegetable-stew",
+        "appam",
+        "kerala",
+        "mild"
+      ]
+    },
+    {
+      "id": "ede5b4c2-9029-4327-8a4d-7c0607dbc688",
+      "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "description": "Golden brown Kerala banana fritters served hot on banana leaf",
+      "type": "food",
+      "tags": [
+        "pazham-pori",
+        "banana-fritters",
+        "kerala",
+        "snack"
+      ]
+    },
+    {
+      "id": "f4167e72-4f74-4575-b8b6-d198760d81bc",
+      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy cold tender coconut shake in a tall glass with coconut shavings",
+      "type": "food",
+      "tags": [
+        "coconut-shake",
+        "elaneer",
+        "beverage",
+        "tropical"
+      ]
+    },
+    {
+      "id": "ba040fc7-f5ce-432e-b17a-f01822d69b71",
+      "image_url": "https://images.unsplash.com/photo-1579027989536-b7b1f875659b?auto=format&fit=crop&w=1200&q=80",
+      "description": "Grand royal Rajasthani sit-down thali restaurant at Rajdhani Thali Samrat",
+      "type": "banner",
+      "tags": [
+        "ahmedabad",
+        "rajasthani",
+        "thali",
+        "palace-theme"
+      ]
+    },
+    {
+      "id": "1267bd10-1baf-41f2-b147-1778e071d77b",
+      "image_url": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "description": "Traditional Rajasthani thali platter with crushed baati, dal, and churma",
+      "type": "food",
+      "tags": [
+        "dal-baati",
+        "rajasthani",
+        "thali",
+        "ghee"
+      ]
+    },
+    {
+      "id": "9c6cef94-db4e-4866-be9b-f13489f10348",
+      "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+      "description": "Savory besan gatta dumplings in spiced yogurt curry",
+      "type": "food",
+      "tags": [
+        "gatte-ki-sabzi",
+        "curry",
+        "rajasthani",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "db3aa752-9347-4508-9670-9455f841859d",
+      "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy orange paneer butter masala curry with fresh coriander garnish",
+      "type": "food",
+      "tags": [
+        "paneer",
+        "curry",
+        "mewari",
+        "butter-masala"
+      ]
+    },
+    {
+      "id": "ce5e1788-f7df-493d-8c3a-cee1e0413b2f",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "description": "Spongy yellow Gujarati khaman dhokla squares with mustard green chili tadka",
+      "type": "food",
+      "tags": [
+        "dhokla",
+        "gujarati",
+        "khaman",
+        "snack"
+      ]
+    },
+    {
+      "id": "472e48a6-960a-417c-a963-4a064374f51d",
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "description": "Authentic Marwadi Ker Sangri dry preparation in bronze katori",
+      "type": "food",
+      "tags": [
+        "ker-sangri",
+        "rajasthani",
+        "traditional",
+        "delicacy"
+      ]
+    },
+    {
+      "id": "0ba9ac03-90be-4ea2-a387-6df4c0398b36",
+      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "description": "Frothy yellow sweet mango lassi in clay tumbler with saffron strands",
+      "type": "food",
+      "tags": [
+        "mango-lassi",
+        "lassi",
+        "beverage",
+        "yogurt"
+      ]
+    },
+    {
+      "id": "fad079ec-4dc3-491d-8985-0c982bdc7b37",
+      "image_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1200&q=80",
+      "description": "Heritage South Indian breakfast hall with brass tumblers at Madras Filter Kaapi & Tiffin",
+      "type": "banner",
+      "tags": [
+        "chennai",
+        "mylapore",
+        "filter-coffee",
+        "tiffin-house"
+      ]
+    },
+    {
+      "id": "908aae9d-e494-4405-ba11-e245e5cbef3c",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "description": "Mini button idlis drenched in spiced red podi and glistening desi ghee",
+      "type": "food",
+      "tags": [
+        "podi-idli",
+        "idli",
+        "south-indian",
+        "ghee"
+      ]
+    },
+    {
+      "id": "9b29ce29-67e3-44e3-bc6b-c453eb5b5e64",
+      "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+      "description": "Crisp lacy onion rava dosa with coconut and tomato chutneys",
+      "type": "food",
+      "tags": [
+        "rava-dosa",
+        "dosa",
+        "breakfast",
+        "south-indian"
+      ]
+    },
+    {
+      "id": "cabeaa76-4e27-4fa2-8354-9da3eca9b594",
+      "image_url": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80",
+      "description": "Thick golden uttapam topped with charred onions and diced tomatoes",
+      "type": "food",
+      "tags": [
+        "uttapam",
+        "south-indian",
+        "breakfast",
+        "tiffin"
+      ]
+    },
+    {
+      "id": "84d7b51c-ebb2-4af4-81bf-aa2b73b54cc7",
+      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "description": "Three puffed golden pooris served with yellow potato masala curry",
+      "type": "food",
+      "tags": [
+        "poori",
+        "breakfast",
+        "poori-masala",
+        "indian"
+      ]
+    },
+    {
+      "id": "de8f499c-88e1-47cf-a575-f4085227e78e",
+      "image_url": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80",
+      "description": "Frothy hot Kumbakonam degree filter coffee in traditional brass set",
+      "type": "food",
+      "tags": [
+        "coffee",
+        "filter-coffee",
+        "degree-coffee",
+        "kaapi"
+      ]
+    },
+    {
+      "id": "28d161b9-c596-4540-8e0b-dbe461778a3e",
+      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "description": "Glistening sweet Sakkarai Pongal enriched with ghee and cashews",
+      "type": "food",
+      "tags": [
+        "pongal",
+        "sakkarai-pongal",
+        "sweet",
+        "dessert"
+      ]
+    }
+  ]
+}

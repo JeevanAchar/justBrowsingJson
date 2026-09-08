@@ -1,0 +1,21 @@
+{
+  "name": "just-browsing-food-data",
+  "version": "1.0.0",
+  "description": "Static JSON-based data layer for the Just Browsing food platform",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/generate-data.js",
+    "validate": "node scripts/validate-data.js",
+    "test": "node scripts/validate-data.js"
+  },
+  "keywords": [
+    "json",
+    "food",
+    "datasets",
+    "github-pages",
+    "static-api"
+  ],
+  "author": "Just Browsing Team",
+  "license": "MIT"
+}
