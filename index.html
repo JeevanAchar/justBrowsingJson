@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Just Browsing — Food Static Data & Image Verification (List View)</title>
+  <meta name="description" content="Clean, responsive list-view explorer and consumer image verifier for Just Browsing static JSON datasets hosted on GitHub Pages.">
+  <link rel="stylesheet" href="./app.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍽️</text></svg>">
+</head>
+<body>
+
+  <!-- Top App Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand-section">
+        <div class="brand-icon">🍽️</div>
+        <div>
+          <h1 class="brand-title">
+            Just Browsing
+            <span class="badge-tag badge-gh">Static GitHub Host</span>
+          </h1>
+          <p class="brand-subtitle">Food Data Layer • Consumer Image & Schema Verifier (List View)</p>
+        </div>
+      </div>
+
+      <div class="header-stats">
+        <div class="stat-pill" title="Total Restaurants in restaurants.json">
+          <span>🏪</span>
+          <span>Restaurants: <strong id="stat-rests">40</strong></span>
+        </div>
+        <div class="stat-pill" title="Total Food Items in food-items.json">
+          <span>🍛</span>
+          <span>Food Items: <strong id="stat-foods">1,800</strong></span>
+        </div>
+        <div class="stat-pill" title="Total Image Assets in restaurant-images.json">
+          <span>📸</span>
+          <span>Images: <strong id="stat-imgs">113</strong></span>
+        </div>
+        <div class="stat-pill" id="stat-timestamp" title="UTC Dataset Timestamp">
+          <span>🕒</span>
+          <span id="stat-time-val">Loading...</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Block Selector Navigation -->
+  <nav class="app-nav">
+    <div class="nav-inner">
+      <div class="nav-tabs-group">
+        <button class="nav-tab active" data-tab="restaurants">
+          <span>🏪</span> Block 1: Restaurants List <span class="tab-badge" id="tab-badge-rests">40</span>
+        </button>
+        <button class="nav-tab" data-tab="foods">
+          <span>🍛</span> Block 2: Food Items List <span class="tab-badge" id="tab-badge-foods">1,800</span>
+        </button>
+        <button class="nav-tab" data-tab="images">
+          <span>📸</span> Block 3: Image Catalog List <span class="tab-badge" id="tab-badge-imgs">113</span>
+        </button>
+        <button class="nav-tab" data-tab="raw-json">
+          <span>🔍</span> Raw JSON Inspector
+        </button>
+      </div>
+
+      <div style="font-size: 0.8rem; color: var(--text-muted);">
+        Format: <strong>List View</strong> (Full-Width Responsive)
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main class="app-main">
+
+    <!-- Offline / File Protocol Fallback Banner -->
+    <div id="file-protocol-banner" class="callout-box warning" style="display: none;">
+      <div class="callout-icon">⚠️</div>
+      <div style="flex: 1;">
+        <strong>Local file:// protocol detected:</strong>
+        <p style="margin-top: 0.25rem;">
+          Browsers restrict direct <code>fetch()</code> requests when opening HTML files via <code>file:///</code>.
+          Run <code>npm start</code>, deploy to GitHub Pages, or select the 3 JSON files directly:
+        </p>
+        <div style="margin-top: 0.75rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+          <input type="file" id="local-file-picker" multiple accept=".json" style="font-size: 0.85rem;">
+          <span style="font-size: 0.8rem; color: var(--text-muted);">(Select restaurants.json, food-items.json, restaurant-images.json)</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 1: BLOCK 1 - RESTAURANTS LIST -->
+    <section id="panel-restaurants" class="tab-panel active">
+      <div class="action-bar">
+        <div class="filter-group">
+          <input type="text" id="rests-search" class="search-input" placeholder="🔍 Filter 40 restaurants by name, cuisine, city, or address...">
+          <select id="rests-city-filter" class="select-filter">
+            <option value="ALL">All Cities (All 9 Hubs)</option>
+          </select>
+          <select id="rests-cuisine-filter" class="select-filter">
+            <option value="ALL">All Cuisines</option>
+          </select>
+          <select id="rests-sort" class="select-filter">
+            <option value="rating-desc">Sort by Rating (Highest first)</option>
+            <option value="orders-desc">Sort by Orders (Highest first)</option>
+            <option value="name-asc">Sort by Name (A-Z)</option>
+          </select>
+        </div>
+        <div style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-outline" id="btn-inspect-rests-json">
+            <span>📄</span> Inspect restaurants.json
+          </button>
+        </div>
+      </div>
+
+      <!-- Restaurants List Container -->
+      <div class="list-container" id="restaurants-list">
+        <!-- Populated dynamically as list items -->
+      </div>
+    </section>
+
+    <!-- TAB 2: BLOCK 2 - FOOD ITEMS LIST -->
+    <section id="panel-foods" class="tab-panel">
+      <div class="action-bar">
+        <div class="filter-group">
+          <input type="text" id="foods-search" class="search-input" placeholder="🔍 Search 1,800 food items by dish name, ingredients, or tags...">
+          <select id="foods-restaurant-filter" class="select-filter" style="max-width: 250px;">
+            <option value="ALL">All 40 Restaurants</option>
+          </select>
+          <select id="foods-diet-filter" class="select-filter">
+            <option value="ALL">All Dietary Types</option>
+            <option value="veg">🟢 Veg</option>
+            <option value="non_veg">🔴 Non-Veg</option>
+            <option value="egg">🟡 Egg</option>
+          </select>
+          <select id="foods-sort" class="select-filter">
+            <option value="default">Default Order</option>
+            <option value="price-asc">Price: Low to High</option>
+            <option value="price-desc">Price: High to Low</option>
+            <option value="rating-desc">Rating: High to Low</option>
+            <option value="calories-asc">Calories: Low to High</option>
+            <option value="name-asc">Name (A-Z)</option>
+          </select>
+        </div>
+        <div style="display: flex; gap: 0.5rem;">
+          <select id="foods-per-page" class="select-filter">
+            <option value="25">25 per page</option>
+            <option value="50" selected>50 per page</option>
+            <option value="100">100 per page</option>
+          </select>
+          <button class="btn btn-outline" id="btn-inspect-foods-json">
+            <span>📄</span> Inspect food-items.json
+          </button>
+        </div>
+      </div>
+
+      <!-- Food Items List Container -->
+      <div class="list-container" id="foods-list">
+        <!-- Populated dynamically as list items -->
+      </div>
+
+      <!-- Pagination Controls -->
+      <div class="pagination-wrapper" id="foods-pagination">
+        <div style="font-size: 0.85rem; color: var(--text-muted);" id="foods-page-info">
+          Showing 1–50 of 1,800 items
+        </div>
+        <div class="pagination-controls">
+          <button class="btn btn-outline btn-sm" id="food-prev-btn">◀ Previous</button>
+          <span style="font-size: 0.85rem; font-weight: 600; padding: 0 0.5rem;" id="food-curr-page">1 / 36</span>
+          <button class="btn btn-outline btn-sm" id="food-next-btn">Next ▶</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: BLOCK 3 - IMAGE CATALOG LIST -->
+    <section id="panel-images" class="tab-panel">
+      <div class="action-bar">
+        <div class="filter-group">
+          <input type="text" id="imgs-search" class="search-input" placeholder="🔍 Search 113 images by description, tag, or UUID...">
+          <select id="imgs-type-filter" class="select-filter">
+            <option value="ALL">All Image Types (113 Assets)</option>
+            <option value="banner">Banner Images (40)</option>
+            <option value="food">Food Dish Photos (73)</option>
+          </select>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.65rem;">
+          <div class="stat-pill" style="background: var(--bg-subtle); border-color: var(--border); color: var(--text-main);">
+            <span>📸 Verified CDN: <strong id="imgs-health-stat">113 / 113</strong></span>
+          </div>
+          <button class="btn btn-outline" id="btn-inspect-imgs-json">
+            <span>📄</span> Inspect restaurant-images.json
+          </button>
+        </div>
+      </div>
+
+      <!-- Images List Container -->
+      <div class="list-container" id="images-list">
+        <!-- Populated dynamically as list items -->
+      </div>
+    </section>
+
+    <!-- TAB 4: RAW JSON INSPECTOR -->
+    <section id="panel-raw-json" class="tab-panel">
+      <div class="action-bar">
+        <div class="filter-group">
+          <label style="font-weight: 600; font-size: 0.85rem;">Select Block:</label>
+          <select id="raw-dataset-select" class="select-filter">
+            <option value="restaurants">Block 1: data/food/restaurants.json (40 records)</option>
+            <option value="foods">Block 2: data/food/food-items.json (1,800 records)</option>
+            <option value="images">Block 3: data/food/restaurant-images.json (113 records)</option>
+          </select>
+          <input type="text" id="raw-search-filter" class="search-input" placeholder="🔍 Search / filter JSON text...">
+        </div>
+        <div style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-outline" id="btn-copy-raw-json">
+            <span>📋</span> Copy JSON
+          </button>
+          <button class="btn btn-primary" id="btn-download-raw-json">
+            <span>⬇️</span> Download File
+          </button>
+        </div>
+      </div>
+
+      <div style="background: var(--bg-surface); border: 1px solid var(--border); border-radius: var(--radius-md); padding: 0.75rem 1.25rem; margin-bottom: 1rem; display: flex; align-items: center; justify-content: space-between; font-size: 0.85rem; color: var(--text-muted); flex-wrap: wrap; gap: 0.5rem;">
+        <div>
+          <span>File: <code id="raw-meta-path">data/food/restaurants.json</code></span> •
+          <span>Size: <strong id="raw-meta-size">344 KB</strong></span> •
+          <span>Total Records: <strong id="raw-meta-count">40</strong></span>
+        </div>
+        <div>
+          <span>Timestamp: <code id="raw-meta-timestamp">2026-09-08T03:15:42.000Z</code></span>
+        </div>
+      </div>
+
+      <pre class="json-viewer" id="raw-json-display">Loading dataset...</pre>
+    </section>
+
+  </main>
+
+  <!-- Global Image Zoom Lightbox Modal -->
+  <div class="modal-backdrop lightbox-modal" id="image-lightbox-modal">
+    <div class="modal-container">
+      <div class="modal-header">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <span>🔍</span>
+          <h3 class="modal-title" id="lightbox-title">Image Verification Inspector</h3>
+        </div>
+        <button class="modal-close" id="lightbox-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="lightbox-content">
+          <div class="lightbox-img-wrapper">
+            <img id="lightbox-img" src="" alt="Zoom preview">
+          </div>
+          <div class="lightbox-meta">
+            <div>
+              <span style="font-weight: 600; color: #ffffff;" id="lightbox-desc">Description</span>
+              <div style="font-size: 0.75rem; color: #94a3b8; margin-top: 0.2rem;" id="lightbox-id">UUID: ...</div>
+            </div>
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+              <span class="badge-tag" id="lightbox-status" style="background: rgba(16,185,129,0.2); color: #34d399;">Loaded</span>
+              <a id="lightbox-open-url" href="#" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="color: #cbd5e1; border-color: #475569;">
+                Open Full URL ↗
+              </a>
+              <button id="lightbox-copy-url" class="btn btn-outline btn-sm" style="color: #cbd5e1; border-color: #475569;">
+                Copy URL
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JSON Inspection Modal -->
+  <div class="modal-backdrop" id="json-inspect-modal">
+    <div class="modal-container">
+      <div class="modal-header">
+        <h3 class="modal-title" id="json-modal-title">JSON Record Inspector</h3>
+        <button class="modal-close" id="json-modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div style="display: flex; justify-content: flex-end; margin-bottom: 0.75rem;">
+          <button class="btn btn-outline btn-sm" id="btn-copy-modal-json">📋 Copy JSON</button>
+        </div>
+        <pre class="json-viewer" id="json-modal-content"></pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notice -->
+  <div class="toast-notice" id="toast-notice">Copied to clipboard</div>
+
+  <!-- Main JavaScript App -->
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

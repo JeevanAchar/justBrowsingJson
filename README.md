@@ -9,6 +9,9 @@ All datasets are stored directly as standalone JSON files. Zero backend, zero da
 ## 📁 Repository Structure
 
 ```text
+├── index.html                        # GitHub Pages static explorer & consumer verifier UI
+├── app.css                           # Modern, minimal responsive styling
+├── app.js                            # Dataset cross-referencing & interactive consumer preview
 ├── data/
 │   └── food/
 │       ├── restaurant-images.json    # Reusable image catalog with direct CDN links and metadata
@@ -22,12 +25,42 @@ All datasets are stored directly as standalone JSON files. Zero backend, zero da
 │       ├── restaurant.ts             # Restaurant, MenuCategory, RestaurantCollection types
 │       └── index.ts                  # Barrel re-export for all food schemas
 ├── scripts/
-│   └── validate-data.js              # Comprehensive referential and integrity validator
+│   ├── validate-data.js              # Comprehensive referential and integrity validator
+│   └── serve.js                      # Zero-dependency local preview HTTP server
 ├── index.js                          # Universal ES module entry point & browser fetch helpers
 ├── package.json                      # Project metadata & validation scripts
 ├── tsconfig.json                     # TypeScript configuration
 └── README.md                         # Documentation & usage guide
 ```
+
+---
+
+## 🖥️ Interactive List View & Consumer Image Verification Explorer
+
+A zero-build, responsive **List View** UI is included to directly visualize and verify all 3 blocks of JSON and inspect how images, menus, pricing, and dietary badges render from a consumer perspective.
+
+- **GitHub Pages Ready:** Deploys statically with zero server configuration. Just push to GitHub and enable Pages on the repository root.
+- **Local Preview:**
+  ```bash
+  npm start
+  ```
+  Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Key Explorer Features:
+1. 🏪 **Block 1: Restaurants List View (`restaurants.json`):**
+   - Clean horizontal list rows displaying banner image preview, restaurant name, cuisines chips, rating (★), delivery time, total orders, and address.
+   - **Expandable Menu Sublist:** Click `▼ View Menu (45 Dishes)` on any restaurant row to expand its full menu right inside the list, displaying each dish's photo, dietary marker (🟢 Veg / 🔴 Non-Veg / 🟡 Egg), price, discount, calories, and image verification link.
+2. 🍛 **Block 2: Food Items List View (`food-items.json`):**
+   - Full-width list view of all **1,800 curated dishes** with high-resolution food thumbnails resolved from `restaurant-images.json`.
+   - Displays dish name, parent restaurant link, pricing (with discount badges), calories, ratings, tags, and clickable image UUID chips.
+   - Fast pagination (25, 50, or 100 per page) and instant search across name, ingredients, and tags.
+3. 📸 **Block 3: Image Catalog List View (`restaurant-images.json`):**
+   - List view of all **113 curated Unsplash CDN assets** (40 banners + 73 dish photos).
+   - Live resolution and CDN health verifier (`naturalWidth` × `naturalHeight` detection).
+   - Click `🔍 Verify Zoom` to inspect full-resolution assets in a lightbox modal.
+   - Reverse-usage lookup: click `🍲 View Dishes` on any food image to see the list of dishes utilizing that photo.
+4. 🔍 **Raw JSON Inspector:**
+   - In-browser formatted view of any of the 3 datasets with instant line search, 1-click clipboard copy, and file download.
 
 ---
 
