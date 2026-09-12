@@ -358,3 +358,134 @@ https://<username>.github.io/<repository>/data/food/food-items.json
 https://<username>.github.io/<repository>/data/food/restaurant-images.json
 ```
 
+--------------------------------------------------------------------------------
+TURN 3: USER QUERY
+--------------------------------------------------------------------------------
+Create AGENT.md file and Update the below configuration
+
+1: Every query and response needs to recorded in the gemini.txt
+2: Every change you make should be recorded in the gemini.txt
+3: Sandbox to the current file location and you should not go outside of this environment Environment file: JSON GITHUB
+4: You have only access to add new data and file in the current sanbox
+5: Don't take permission to add code and json file in the current sandbox
+6: Do not go out of the current Sandbox environment
+
+--------------------------------------------------------------------------------
+TURN 3: ASSISTANT RESPONSE
+--------------------------------------------------------------------------------
+# Agent Configuration (`AGENT.md`) Created
+
+The repository has been updated with the `AGENT.md` configuration file defining the agent operational rules, sandboxing constraints, autonomous permissions, and mandatory audit logging into `gemini.txt`.
+
+---
+
+## 📁 Changes Made
+
+| File | Change Type | Description |
+| :--- | :---: | :--- |
+| `AGENT.md` | Created | Configured all 6 operational directives, sandboxing boundaries, autonomous execution rules, and logging protocols. |
+| `gemini.txt` | Updated | Appended Turn 3 with the user query, assistant response, and record of changes made. |
+| `gemini.json` | Updated | Synchronized Turn 3 structured entry in JSON log format. |
+
+---
+
+## 🛡️ Configured Directives Summary
+
+1. **Query & Response Logging:** Synchronous recording of all user queries and assistant responses in `gemini.txt`.
+2. **Change Audit Logging:** Explicit record of all file additions, edits, and dataset modifications in `gemini.txt`.
+3. **Strict Sandboxing (`JSON GITHUB`):** Bound strictly to `JSON GITHUB` workspace without external access.
+4. **Scoped File/Data Permissions:** Access restricted to adding/managing files within the sandbox.
+5. **Autonomous Code/JSON Execution:** Adding code, scripts, and JSON data without asking permission.
+6. **No Sandbox Escapes:** Boundary enforcement across all file and command operations.
+
+--------------------------------------------------------------------------------
+TURN 4: USER QUERY
+--------------------------------------------------------------------------------
+### 5. Autonomous Code & JSON Management (No Permission Prompts)
+
+Update the permission do not take permission for test case checking and even the git 
+
+You should never push the code to the git or github 
+You should never leave this project and never push any code or leak anycode anywhere
+
+--------------------------------------------------------------------------------
+TURN 4: ASSISTANT RESPONSE
+--------------------------------------------------------------------------------
+# Agent Operating Rules & Permissions Updated (`AGENT.md`)
+
+Updated `AGENT.md` with explicit permissions for autonomous testing and local git actions, alongside strict prohibitions against remote git pushes, project escapes, and code leakage.
+
+---
+
+## 📁 Changes Made
+
+| File | Change Type | Description |
+| :--- | :---: | :--- |
+| `AGENT.md` | Modified | Updated Section 5 to allow autonomous test case checking (`npm test`) and local git operations without asking permission; added Section 6 with strict prohibitions against pushing to git/GitHub, leaving the project, and leaking code/data. |
+| `gemini.txt` | Updated | Appended Turn 4 containing the user query, assistant response, and record of changes made. |
+| `gemini.json` | Updated | Synchronized Turn 4 structured entry into JSON conversation log. |
+
+---
+
+## 🛡️ Updated Directives Summary
+
+1. **Autonomous Testing & Validation:** Agent autonomously runs test suites (`npm test`, schema validations) without requesting permission.
+2. **Autonomous Local Git Operations:** Agent inspects local git status, diffs, and staging without requesting permission.
+3. **Strict Git Push Prohibition:** The agent will **NEVER** run `git push` or transmit code to remote repositories/GitHub under any circumstances.
+4. **Zero Code/Data Leakage:** Strict containment—no code, schemas, or datasets will ever be leaked, exported, or transferred outside the project.
+5. **Project Containment:** The agent will never leave the `JSON GITHUB` sandbox environment.
+
+--------------------------------------------------------------------------------
+TURN 5: USER QUERY
+--------------------------------------------------------------------------------
+I was going through the image block where we have kept the images in the UI but we don't have a proper images when comes to food section we need to update the tags and even the images 
+
+example idly image is different instead of idly image only 
+idly vade image is not a idly vade image 
+
+So lets add a proper tag for the food images json
+If it is idly just add idly like vise for burger , pizza, idlyvade
+
+--------------------------------------------------------------------------------
+TURN 5: ASSISTANT RESPONSE
+--------------------------------------------------------------------------------
+# Food Images & Canonical Tags Updated in Catalog (`restaurant-images.json`)
+
+All food images in `data/food/restaurant-images.json` have been audited and updated with dedicated, authentic high-resolution photos and clean, canonical tags (e.g. `idly`, `idlyvade`, `vada`, `burger`, `pizza`, etc.), resolving image sharing and tag inaccuracies.
+
+---
+
+## 📁 Changes Made
+
+| File | Change Type | Description |
+| :--- | :---: | :--- |
+| `data/food/restaurant-images.json` | Modified | Updated 74 food images with verified authentic CDN photos; separated `idly` to an exclusive soft steamed idli photo (`photo-1741376509047`), `vada` to a crispy medu vada photo (`photo-1730191843435`), and added dedicated `idlyvade` combo photo (`photo-1787024231387`); simplified all tags to direct canonical food tags (`idly`, `idlyvade`, `burger`, `pizza`, `dosa`, `biryani`, etc.); updated `timestamp.updated_at`. |
+| `index.html` | Modified | Updated image catalog counters from 113 to 114 (74 food dish photos + 40 restaurant banners). |
+| `gemini.txt` | Updated | Appended Turn 5 with user query, assistant response, and record of changes made. |
+| `gemini.json` | Updated | Synchronized Turn 5 structured entry in JSON log. |
+
+---
+
+## 📸 Key Updated Images & Canonical Tags
+
+| Item | Canonical Tag | CDN URL | Description |
+| :--- | :---: | :--- | :--- |
+| **Idly** | `["idly"]` | `photo-1741376509047` | Steaming hot fluffy soft white idlis served with freshly ground coconut chutney and sambar |
+| **Idly Vade Combo** | `["idlyvade"]` | `photo-1787024231387` | Authentic South Indian idli and medu vada combo platter served with coconut chutney and hot sambar |
+| **Vada** | `["vada"]` | `photo-1730191843435` | Crispy golden medu vada fritters served with freshly ground coconut chutney and sambar |
+| **Burger** | `["burger"]` | `photo-1568901346375` | Crispy seasoned chicken patty burger with melted cheddar and chipotle mayo |
+| **Cheeseburger** | `["burger"]` | `photo-1586190848861` | Juicy smashed cheeseburger topped with caramelized onions and house sauce |
+| **Pizza** | `["pizza"]` | `photo-1513104890138` | Sourdough pizza topped with San Marzano tomatoes, mozzarella, and basil |
+| **Dosa** | `["dosa"]` | `photo-1668236543090` | Golden crispy rice crepe stuffed with spiced potato onion masala |
+| **Dhokla** | `["dhokla"]` | `photo-1546833999` | Soft spongy steamed Gujarati nylon dhokla tempered with mustard seeds and chillies |
+
+---
+
+## ✅ Autonomous Verification Suite
+
+Ran `npm test` autonomously:
+- 40 Restaurants validated
+- 1,800 Food Items validated
+- 114 Images validated (40 banners + 74 food dishes)
+- Zero broken foreign keys, all UUIDs v4, referential integrity strictly verified.
+
