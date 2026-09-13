@@ -38,6 +38,8 @@ export interface Restaurant {
   id: string;
   /** Restaurant display name */
   name: string;
+  /** Optional UUID v4 identifier of the restaurant banner image in restaurant-images.json */
+  image_id?: string;
   /** Detailed description of restaurant and specialties */
   description: string;
   /** Overall rating between 0.0 and 5.0 */

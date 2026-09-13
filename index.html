@@ -33,6 +33,10 @@
           <span>🍛</span>
           <span>Food Items: <strong id="stat-foods">1,800</strong></span>
         </div>
+        <div class="stat-pill" title="Total Unique Food Dishes">
+          <span>✨</span>
+          <span>Unique Dishes: <strong id="stat-unique-foods">74</strong></span>
+        </div>
         <div class="stat-pill" title="Total Image Assets in restaurant-images.json">
           <span>📸</span>
           <span>Images: <strong id="stat-imgs">114</strong></span>
@@ -54,6 +58,9 @@
         </button>
         <button class="nav-tab" data-tab="foods">
           <span>🍛</span> Block 2: Food Items List <span class="tab-badge" id="tab-badge-foods">1,800</span>
+        </button>
+        <button class="nav-tab" data-tab="unique-foods">
+          <span>✨</span> Block 2b: Unique Food Catalog <span class="tab-badge" id="tab-badge-unique">74</span>
         </button>
         <button class="nav-tab" data-tab="images">
           <span>📸</span> Block 3: Image Catalog List <span class="tab-badge" id="tab-badge-imgs">114</span>
@@ -171,6 +178,103 @@
       </div>
     </section>
 
+    <!-- TAB 2b: BLOCK 2b - UNIQUE FOOD CATALOG & VERIFICATION AUDITOR -->
+    <section id="panel-unique-foods" class="tab-panel">
+      <!-- KPI Audit Summary Bar -->
+      <div class="kpi-banner">
+        <div class="kpi-banner-header">
+          <div class="kpi-title-row">
+            <span class="kpi-icon">✨</span>
+            <div>
+              <h2 class="kpi-title">Unique Food Catalog &amp; Verification Auditor</h2>
+              <p class="kpi-subtitle">
+                Consolidated view of all <strong>1,800</strong> food records across 40 restaurants grouped into <strong>74 unique dishes</strong> to inspect dietary classifications, photo associations, price ranges, and detect any potential mistakes.
+              </p>
+            </div>
+          </div>
+          <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+            <button class="btn btn-primary" id="btn-run-audit">
+              <span>🛡️</span> Run Full Dataset Audit
+            </button>
+            <button class="btn btn-outline" id="btn-export-unique-json">
+              <span>📄</span> Inspect Catalog JSON
+            </button>
+          </div>
+        </div>
+
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-card-val" id="kpi-unique-count">74</div>
+            <div class="kpi-card-label">Unique Dishes</div>
+            <div class="kpi-card-sub">from 1,800 menu items</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-card-val" style="color: #16a34a;" id="kpi-veg-count">54</div>
+            <div class="kpi-card-label">🟢 Pure Veg</div>
+            <div class="kpi-card-sub">73.0% of catalog</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-card-val" style="color: #dc2626;" id="kpi-nonveg-count">19</div>
+            <div class="kpi-card-label">🔴 Non-Veg</div>
+            <div class="kpi-card-sub">25.7% of catalog</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-card-val" style="color: #d97706;" id="kpi-egg-count">1</div>
+            <div class="kpi-card-label">🟡 Egg</div>
+            <div class="kpi-card-sub">Tiramisu dessert</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-card-val" style="color: #2563eb;" id="kpi-img-count">74 / 74</div>
+            <div class="kpi-card-label">📸 Photo Integrity</div>
+            <div class="kpi-card-sub">100% verified CDN</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-card-val" style="color: #059669;" id="kpi-errors-count">0</div>
+            <div class="kpi-card-label">🛡️ Conflict Audit</div>
+            <div class="kpi-card-sub">Zero mistakes detected</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Action & Filter Bar -->
+      <div class="action-bar">
+        <div class="filter-group">
+          <input type="text" id="unique-search" class="search-input" placeholder="🔍 Search 74 unique dishes by name, ingredients, tags, or image tag...">
+          <select id="unique-diet-filter" class="select-filter">
+            <option value="ALL">All Dietary Types (74)</option>
+            <option value="veg">🟢 Veg Dishes (54)</option>
+            <option value="non_veg">🔴 Non-Veg Dishes (19)</option>
+            <option value="egg">🟡 Egg Dishes (1)</option>
+          </select>
+          <select id="unique-avail-filter" class="select-filter">
+            <option value="ALL">All Availability (5–40 restaurants)</option>
+            <option value="high">High Availability (30+ restaurants)</option>
+            <option value="mid">Moderate Availability (15–29 restaurants)</option>
+            <option value="specialty">Specialty / Regional (&lt;15 restaurants)</option>
+          </select>
+          <select id="unique-sort" class="select-filter">
+            <option value="freq-desc">Most Available (Most restaurants first)</option>
+            <option value="freq-asc">Least Available (Least restaurants first)</option>
+            <option value="name-asc">Dish Name (A–Z)</option>
+            <option value="name-desc">Dish Name (Z–A)</option>
+            <option value="price-asc">Avg Price (Low to High)</option>
+            <option value="price-desc">Avg Price (High to Low)</option>
+            <option value="calories-asc">Calories (Low to High)</option>
+            <option value="calories-desc">Calories (High to Low)</option>
+            <option value="rating-desc">Rating (Highest first)</option>
+          </select>
+        </div>
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+          <span style="font-size: 0.8rem; color: var(--text-muted);" id="unique-foods-count-badge">Showing 74 dishes</span>
+        </div>
+      </div>
+
+      <!-- Unique Food Items List Container -->
+      <div class="list-container" id="unique-foods-list">
+        <!-- Populated dynamically -->
+      </div>
+    </section>
+
     <!-- TAB 3: BLOCK 3 - IMAGE CATALOG LIST -->
     <section id="panel-images" class="tab-panel">
       <div class="action-bar">
@@ -283,6 +387,22 @@
           <button class="btn btn-outline btn-sm" id="btn-copy-modal-json">📋 Copy JSON</button>
         </div>
         <pre class="json-viewer" id="json-modal-content"></pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dataset Audit Inspection Modal -->
+  <div class="modal-backdrop" id="audit-report-modal">
+    <div class="modal-container" style="max-width: 750px;">
+      <div class="modal-header">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <span>🛡️</span>
+          <h3 class="modal-title">Food Dataset Automated Integrity &amp; Consistency Audit</h3>
+        </div>
+        <button class="modal-close" id="audit-modal-close">&times;</button>
+      </div>
+      <div class="modal-body" id="audit-modal-body">
+        <!-- Injected dynamically via app.js -->
       </div>
     </div>
   </div>

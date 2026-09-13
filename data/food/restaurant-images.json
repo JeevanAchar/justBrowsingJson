@@ -1,805 +1,1193 @@
 {
   "timestamp": {
-    "updated_at": "2026-09-09T03:11:14.459Z"
+    "updated_at": "2026-09-13T06:27:41.580Z"
   },
   "data": [
     {
       "id": "e4b9c0d8-a9fc-4775-b003-3adf51fde407",
       "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #1",
+      "description": "Dining ambiance and architectural exterior of Charminar Dum Mahal",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "charminar-dum-mahal"
+      ]
     },
     {
       "id": "22e9b2db-12d9-4cef-a9db-8e36111333b0",
       "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #2",
+      "description": "Dining ambiance and architectural exterior of Nizami Dawat Khana",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "nizami-dawat-khana"
+      ]
     },
     {
       "id": "acf9b0c8-5118-40b8-8e96-93dd3c7c9920",
       "image_url": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #3",
+      "description": "Dining ambiance and architectural exterior of Grand Deccan Bakery & Kitchen",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "grand-deccan-bakery-kitchen"
+      ]
     },
     {
       "id": "3a24e4f7-e74b-4c10-8259-b7e424f498d9",
       "image_url": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #4",
+      "description": "Dining ambiance and architectural exterior of Mirchi Mandi Ruchulu",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "mirchi-mandi-ruchulu"
+      ]
     },
     {
       "id": "4d0b184b-cce7-4641-b1c8-09be5e88f076",
       "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #5",
+      "description": "Dining ambiance and architectural exterior of Sher-e-Punjab Spice Kitchen",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "sher-e-punjab-spice-kitchen"
+      ]
     },
     {
       "id": "3aee4b00-ffb6-418d-97c3-8c69bf14ba1a",
-      "image_url": "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #6",
+      "image_url": "https://images.unsplash.com/photo-1554679665-f5537f187268?auto=format&fit=crop&w=1200&q=80",
+      "description": "Dining ambiance and architectural exterior of Purani Dilli Dastarkhwan",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "purani-dilli-dastarkhwan"
+      ]
     },
     {
       "id": "a36e0d85-f00b-478b-8f66-245a26143490",
-      "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #7",
+      "image_url": "https://images.unsplash.com/photo-1636405189493-181ecf851006?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Dilli Tandoori Mahal",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "dilli-tandoori-mahal"
+      ]
     },
     {
       "id": "30c86572-28ff-426d-9536-fda3870daed9",
-      "image_url": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #8",
+      "image_url": "https://images.unsplash.com/photo-1552960226-639240203497?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Haveli Shahi Rasoi",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "haveli-shahi-rasoi"
+      ]
     },
     {
       "id": "2ba1ae2d-c215-466c-a431-fab947a91c30",
       "image_url": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #9",
+      "description": "Dining ambiance and architectural exterior of Chinar Valley Wazwan",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "chinar-valley-wazwan"
+      ]
     },
     {
       "id": "b8bd6610-c113-4d6b-a900-e4cc77cba456",
-      "image_url": "https://images.unsplash.com/photo-1525610553991-78571db6295a?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #10",
+      "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Amaravati Spice Canteen",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "amaravati-spice-canteen"
+      ]
     },
     {
       "id": "b6cc2fc2-04a0-4901-8213-da3c3e64ddd7",
-      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #11",
+      "image_url": "https://images.unsplash.com/photo-1649001484355-6c6ea7148c66?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Malgudi Kaapi & Cafe",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "malgudi-kaapi-cafe"
+      ]
     },
     {
       "id": "73807f83-b19a-4c0a-b038-d49e38404fe1",
       "image_url": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #12",
+      "description": "Dining ambiance and architectural exterior of Udupi Annapoorna Bhavan",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "udupi-annapoorna-bhavan"
+      ]
     },
     {
       "id": "e22f0cbf-64b0-4032-addb-c5acbd9175cb",
-      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #13",
+      "image_url": "https://images.unsplash.com/photo-1743012886338-6c6dbf6eb411?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Basavanagudi Tiffin Classics",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "basavanagudi-tiffin-classics"
+      ]
     },
     {
       "id": "788158d7-df0c-4710-ab0b-daabca1fbf31",
-      "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #14",
+      "image_url": "https://plus.unsplash.com/premium_photo-1755706181079-f45e7e0177af?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Red Chilli Spice House",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "red-chilli-spice-house"
+      ]
     },
     {
       "id": "170a58e0-3b5e-432e-a02d-6f06d1528782",
       "image_url": "https://images.unsplash.com/photo-1579027989536-b7b1f875659b?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #15",
+      "description": "Dining ambiance and architectural exterior of Godavari Andhra Delicacies",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "godavari-andhra-delicacies"
+      ]
     },
     {
       "id": "6eb78a69-d667-4683-910a-4edc51849a2a",
       "image_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #16",
+      "description": "Dining ambiance and architectural exterior of Midnight Arabian Grill",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "midnight-arabian-grill"
+      ]
     },
     {
       "id": "b497bc49-b40f-432e-9940-82b3c4e543e2",
       "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #17",
+      "description": "Dining ambiance and architectural exterior of Urban Barrel Kitchen & Grill",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "urban-barrel-kitchen-grill"
+      ]
     },
     {
       "id": "9f35beec-7454-42e1-9342-d471e9d8dd34",
       "image_url": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #18",
+      "description": "Dining ambiance and architectural exterior of Trattoria Via Roma",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "trattoria-via-roma"
+      ]
     },
     {
       "id": "bb4b2d1e-def5-428a-8926-8091d1367e1d",
       "image_url": "https://images.unsplash.com/photo-1526234362653-3b75a0c07438?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #19",
+      "description": "Dining ambiance and architectural exterior of The Rustic Patty Co.",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "the-rustic-patty-co"
+      ]
     },
     {
       "id": "c3ee08ba-69d4-4a5e-ba3b-f83aea8ea4d2",
-      "image_url": "https://images.unsplash.com/photo-1579684947550-22e945225d9a?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #20",
+      "image_url": "https://plus.unsplash.com/premium_photo-1670984936487-88e3dd01313c?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Tapri & Samosa Junction",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "tapri-samosa-junction"
+      ]
     },
     {
       "id": "8744c35d-9a62-4409-8c75-9e1b09dadfb7",
       "image_url": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #21",
+      "description": "Dining ambiance and architectural exterior of Rustom & Sons Parsi Cafe",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "rustom-sons-parsi-cafe"
+      ]
     },
     {
       "id": "26bf4f6c-d509-4081-8bf8-9c547fe57a53",
       "image_url": "https://images.unsplash.com/photo-1560624052-449f5ddf0c31?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #22",
+      "description": "Dining ambiance and architectural exterior of Karavali Coastal Seafood",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "karavali-coastal-seafood"
+      ]
     },
     {
       "id": "daa05f0c-18e3-474e-a355-43a706c81bfc",
       "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #23",
+      "description": "Dining ambiance and architectural exterior of Late Night Sigdi Kebab",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "late-night-sigdi-kebab"
+      ]
     },
     {
       "id": "14e88009-6eae-48e8-a75e-9c5ae14e458d",
-      "image_url": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #24",
+      "image_url": "https://images.unsplash.com/photo-1647440079505-0db15be6307a?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Chowpatty Maska Pav Bhaji",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "chowpatty-maska-pav-bhaji"
+      ]
     },
     {
       "id": "97cdc28f-5d0f-412e-9673-cf78bf7eb1cd",
       "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #25",
+      "description": "Dining ambiance and architectural exterior of Metro Vintage Diner",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "metro-vintage-diner"
+      ]
     },
     {
       "id": "0d00af50-183d-433c-9e4f-26d5b828ffcd",
-      "image_url": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #26",
+      "image_url": "https://plus.unsplash.com/premium_photo-1744567294212-ae490224209c?auto=format&fit=crop&w=1200&q=80",
+      "description": "Dining ambiance and architectural exterior of Red Lantern Asian Bistro",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "red-lantern-asian-bistro"
+      ]
     },
     {
       "id": "f0cc1180-ce92-480f-af1c-933077dec74b",
       "image_url": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #27",
+      "description": "Dining ambiance and architectural exterior of Sonar Bangla Sweets",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "sonar-bangla-sweets"
+      ]
     },
     {
       "id": "2cac36a1-2807-478c-9dd6-4edec22e88c6",
       "image_url": "https://images.unsplash.com/photo-1511081692775-05d0f180a065?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #28",
+      "description": "Dining ambiance and architectural exterior of Park Circus Dum Biryani",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "park-circus-dum-biryani"
+      ]
     },
     {
       "id": "b0fc6077-9330-445f-8f49-52a45c90890f",
-      "image_url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #29",
+      "image_url": "https://images.unsplash.com/photo-1715607349483-e90d709d8a52?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Grand Park Chelo Kitchen",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "grand-park-chelo-kitchen"
+      ]
     },
     {
       "id": "be26c268-dff8-4edb-9d71-486b214fdb0b",
-      "image_url": "https://images.unsplash.com/photo-1502301103665-0b95cc738daf?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #30",
+      "image_url": "https://images.unsplash.com/photo-1707334724033-e997675f8c10?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Sholoana Bengali Bhoj",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "sholoana-bengali-bhoj"
+      ]
     },
     {
       "id": "32b9a6df-eb29-49f3-bc2f-e647eff86d82",
-      "image_url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #31",
+      "image_url": "https://images.unsplash.com/photo-1578474846511-04ba529f0b88?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Rosewood Heritage Tearoom",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "rosewood-heritage-tearoom"
+      ]
     },
     {
       "id": "c5a73fde-a1b0-421e-a6cb-0d70c209d5d8",
-      "image_url": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #32",
+      "image_url": "https://images.unsplash.com/photo-1583354608715-177553a4035e?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Southern Spice Flavours",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "southern-spice-flavours"
+      ]
     },
     {
       "id": "b227abc6-008e-4bf2-a204-b96a539f89b1",
-      "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #33",
+      "image_url": "https://images.unsplash.com/photo-1606836576983-8b458e75221d?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Mylapore Kaapi & Tiffin",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "mylapore-kaapi-tiffin"
+      ]
     },
     {
       "id": "26bd8ac7-6cdf-4577-adc7-7c796e7a1cef",
-      "image_url": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #34",
+      "image_url": "https://images.unsplash.com/photo-1521917441209-e886f0404a7b?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Madurai Idli Vilas",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "madurai-idli-vilas"
+      ]
     },
     {
       "id": "16bf823e-0777-4c17-ad58-0c9b3c192599",
       "image_url": "https://images.unsplash.com/photo-1546195643-70f48f9c5b87?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #35",
+      "description": "Dining ambiance and architectural exterior of Karaikudi Chettinad Kitchen",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "karaikudi-chettinad-kitchen"
+      ]
     },
     {
       "id": "0be232f2-9272-48d6-9ca1-e6766d3c81e3",
       "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #36",
+      "description": "Dining ambiance and architectural exterior of Annapoorani South Indian Heritage",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "annapoorani-south-indian-heritage"
+      ]
     },
     {
       "id": "ee4307f9-3c40-4264-a422-77be5e607a02",
-      "image_url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #37",
+      "image_url": "https://plus.unsplash.com/premium_photo-1670984940156-c7f833fe8397?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Shahi Lucknowi Dastarkhwan",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "shahi-lucknowi-dastarkhwan"
+      ]
     },
     {
       "id": "5a7c614a-17d1-4586-b892-1102212508b0",
-      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #38",
+      "image_url": "https://images.unsplash.com/photo-1602232037779-30b01ac3c457?auto=format&fit=crop&w=800&q=80",
+      "description": "Dining ambiance and architectural exterior of Aminabad Kebab Darbar",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "aminabad-kebab-darbar"
+      ]
     },
     {
       "id": "fd7beb7b-6ed3-4631-aafc-db364be8358f",
-      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #39",
+      "image_url": "https://images.unsplash.com/photo-1608816042754-d69cb2271bea?auto=format&fit=crop&w=1200&q=80",
+      "description": "Dining ambiance and architectural exterior of Calangute Coastal Shack",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "calangute-coastal-shack"
+      ]
     },
     {
       "id": "c8b6f9a7-4b0d-4f3d-80a6-e057615da61e",
-      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
-      "description": "Dining ambiance and architectural exterior of restaurant #40",
+      "image_url": "https://images.unsplash.com/photo-1526234362653-3b75a0c07438?auto=format&fit=crop&w=1200&q=80",
+      "description": "Dining ambiance and architectural exterior of Fisherman's Cove Seafood",
       "type": "banner",
-      "tags": ["restaurant", "ambience", "banner", "dining"]
+      "tags": [
+        "restaurant",
+        "ambience",
+        "banner",
+        "dining",
+        "fisherman-s-cove-seafood"
+      ]
     },
     {
       "id": "82bf5202-d8db-492b-ad07-dfb952a645c1",
       "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
       "description": "Aromatic basmati rice cooked with succulent chicken pieces and saffron",
       "type": "food",
-      "tags": ["biryani"]
+      "tags": [
+        "biryani"
+      ]
     },
     {
       "id": "2aeaaab8-c0e4-4b39-8d14-0784e2a025ba",
       "image_url": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=800&q=80",
       "description": "Slow-cooked royal mutton dum biryani garnished with crispy onions",
       "type": "food",
-      "tags": ["biryani"]
+      "tags": [
+        "biryani"
+      ]
     },
     {
       "id": "dcc6bff8-b632-4b19-8c69-deca90b5d15b",
       "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80",
       "description": "Fragrant saffron biryani rice cooked with tender prawns and spices",
       "type": "food",
-      "tags": ["biryani"]
+      "tags": [
+        "biryani"
+      ]
     },
     {
       "id": "4bea99ca-89ec-4f65-866b-58993ad423d5",
       "image_url": "https://images.unsplash.com/photo-1755090154731-6b4f221490c3?auto=format&fit=crop&w=800&q=80",
       "description": "Vegetable dum biryani layered with beans, carrots, paneer, and fried cashews",
       "type": "food",
-      "tags": ["biryani"]
+      "tags": [
+        "biryani"
+      ]
     },
     {
       "id": "c33e0b47-8041-4963-b108-50babfcfe1f8",
       "image_url": "https://images.unsplash.com/photo-1742599361552-4acba86acc22?auto=format&fit=crop&w=800&q=80",
       "description": "Fluffy steamed basmati rice tempered with roasted cumin seeds and fresh coriander",
       "type": "food",
-      "tags": ["rice"]
+      "tags": [
+        "rice"
+      ]
     },
     {
       "id": "a235e60b-a4a9-4ca0-96eb-7766ef0b0dd8",
       "image_url": "https://plus.unsplash.com/premium_photo-1695029502961-f57f307bd0c0?auto=format&fit=crop&w=800&q=80",
       "description": "Rich saffron pulao tossed with dry fruits, pomegranate pearls, and nuts",
       "type": "food",
-      "tags": ["pulao"]
+      "tags": [
+        "pulao"
+      ]
     },
     {
       "id": "029251a5-bb8a-459a-88a8-d7e4605d89bc",
       "image_url": "https://images.unsplash.com/photo-1633383718081-22ac93e3db65?auto=format&fit=crop&w=800&q=80",
       "description": "Creamy soothing curd rice tempered with mustard seeds and curry leaves",
       "type": "food",
-      "tags": ["curd-rice"]
+      "tags": [
+        "curd-rice"
+      ]
     },
     {
       "id": "d54edc34-39e4-40b4-b2bc-2af1fe4068b6",
       "image_url": "https://plus.unsplash.com/premium_photo-1694141252132-2555bae46f50?auto=format&fit=crop&w=800&q=80",
       "description": "Traditional Karnataka hot lentil rice bath cooked with tamarind, spices, and ghee",
       "type": "food",
-      "tags": ["bisi-bele-bath"]
+      "tags": [
+        "bisi-bele-bath"
+      ]
     },
     {
       "id": "f1ac06c8-4c98-4699-bf2c-5a7e71b6e35c",
       "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
       "description": "Rich and velvety butter chicken simmered in creamy spiced tomato gravy",
       "type": "food",
-      "tags": ["butter-chicken"]
+      "tags": [
+        "butter-chicken"
+      ]
     },
     {
       "id": "da0dc101-b383-422a-ab02-2d5f6a87f13a",
       "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
       "description": "Tender roasted chicken chunks in a rich and spiced onion-tomato curry",
       "type": "food",
-      "tags": ["chicken-tikka"]
+      "tags": [
+        "chicken-tikka"
+      ]
     },
     {
       "id": "ab400fac-4cc9-48a0-a50e-19f3e9aa45cb",
       "image_url": "https://images.unsplash.com/photo-1708782344490-9026aaa5eec7?auto=format&fit=crop&w=800&q=80",
       "description": "Homestyle spicy bone-in chicken curry cooked with rustic ground spices",
       "type": "food",
-      "tags": ["chicken-curry"]
+      "tags": [
+        "chicken-curry"
+      ]
     },
     {
       "id": "40ff0e5a-0dac-4e42-bd9b-17d9eb39c7be",
       "image_url": "https://plus.unsplash.com/premium_photo-1723708871094-2c02cf5f5394?auto=format&fit=crop&w=800&q=80",
       "description": "Fiery Chettinad chicken curry with stone-ground black pepper and shallots",
       "type": "food",
-      "tags": ["chettinad-chicken"]
+      "tags": [
+        "chettinad-chicken"
+      ]
     },
     {
       "id": "ecf2b5bc-6353-473b-8f0b-84b7a66a6c5a",
-      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1708782340793-ec5f2159a689?auto=format&fit=crop&w=800&q=80",
       "description": "Tangy and spicy Andhra gongura chicken curry slow-cooked with green chillies",
       "type": "food",
-      "tags": ["gongura-chicken"]
+      "tags": [
+        "gongura-chicken"
+      ]
     },
     {
       "id": "f9647d13-ac6b-4591-9378-6f1e87973d99",
-      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1708782340372-27ca3c98f874?auto=format&fit=crop&w=800&q=80",
       "description": "Traditional Kashmiri Rogan Josh mutton curry infused with rattan jot and mawal",
       "type": "food",
-      "tags": ["rogan-josh"]
+      "tags": [
+        "rogan-josh"
+      ]
     },
     {
       "id": "7e7abdde-20ba-42f1-888c-784763f77340",
-      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1726082788670-c60006875dfd?auto=format&fit=crop&w=800&q=80",
       "description": "Slow-simmered Awadhi mutton shank nihari stewed overnight with marrow",
       "type": "food",
-      "tags": ["nihari"]
+      "tags": [
+        "nihari"
+      ]
     },
     {
       "id": "674ca311-74de-4609-9fb0-eaa58b41d40c",
-      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=800&q=80",
       "description": "Tangy coconut milk kingfish curry simmered with sour kokum and red chillies",
       "type": "food",
-      "tags": ["fish-curry"]
+      "tags": [
+        "fish-curry"
+      ]
     },
     {
       "id": "faf422ca-d6b4-489d-a092-7a52a5254fed",
-      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1781684081404-5c090011b53e?auto=format&fit=crop&w=800&q=80",
       "description": "Spicy tangy Goan prawn balchao pickled in red vinegar chilli masala",
       "type": "food",
-      "tags": ["prawn-balchao"]
+      "tags": [
+        "prawn-balchao"
+      ]
     },
     {
       "id": "65b5d010-3173-46da-aede-4be452e31b21",
-      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1700481932999-4bba65731015?auto=format&fit=crop&w=800&q=80",
       "description": "Gentle Kerala fish moilee cooked in creamy coconut milk and green chillies",
       "type": "food",
-      "tags": ["fish-moilee"]
+      "tags": [
+        "fish-moilee"
+      ]
     },
     {
       "id": "5b5aefba-b0fa-4a80-85b4-89eb0ce8f221",
-      "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1772730064951-89b427965dbc?auto=format&fit=crop&w=800&q=80",
       "description": "Soft cottage cheese cubes immersed in rich tomato cashew butter gravy",
       "type": "food",
-      "tags": ["paneer-butter-masala"]
+      "tags": [
+        "paneer-butter-masala"
+      ]
     },
     {
       "id": "fe884982-215e-4ef9-93dd-89073e6f3a6d",
-      "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1712678665724-7c3faa117a2d?auto=format&fit=crop&w=800&q=80",
       "description": "Slow-simmered black lentils and kidney beans enriched with butter and fresh cream",
       "type": "food",
-      "tags": ["dal-makhani"]
+      "tags": [
+        "dal-makhani"
+      ]
     },
     {
       "id": "2099816d-4b46-43c2-9d83-6dd80d0db691",
       "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
       "description": "Fresh paneer cubes in smooth vibrant spinach puree tempered with garlic",
       "type": "food",
-      "tags": ["palak-paneer"]
+      "tags": [
+        "palak-paneer"
+      ]
     },
     {
       "id": "1e17ed31-51f1-46a7-b741-eba95d6e884d",
-      "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1633959639810-16c90bee95f9?auto=format&fit=crop&w=800&q=80",
       "description": "Spiced baby potatoes simmered in rich Kashmiri yogurt and fennel gravy",
       "type": "food",
-      "tags": ["dum-aloo"]
+      "tags": [
+        "dum-aloo"
+      ]
     },
     {
       "id": "9b7f4032-f0c6-4634-a854-e89953a99307",
-      "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1722634765542-0eb8e8d8c11d?auto=format&fit=crop&w=800&q=80",
       "description": "Steamed gram flour dumplings in tangy spiced yogurt gravy",
       "type": "food",
-      "tags": ["gatte-ki-sabzi"]
+      "tags": [
+        "gatte-ki-sabzi"
+      ]
     },
     {
       "id": "8b6fbb93-aab6-4033-ae8a-8e84d520795e",
-      "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1755090154817-58d9d36ec988?auto=format&fit=crop&w=800&q=80",
       "description": "Yellow toor dal tempered with cumin seeds, garlic, dried red chillies, and ghee",
       "type": "food",
-      "tags": ["dal-tadka"]
+      "tags": [
+        "dal-tadka"
+      ]
     },
     {
       "id": "e8c33e6d-d861-4cc2-9298-a51a44a550f7",
-      "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1605908580297-f3e1c02e64ff?auto=format&fit=crop&w=800&q=80",
       "description": "Charcoal grilled chicken tikka skewers marinated in tandoori yogurt and spices",
       "type": "food",
-      "tags": ["chicken-tikka"]
+      "tags": [
+        "chicken-tikka"
+      ]
     },
     {
       "id": "79cc024e-5944-4bfc-a834-81da57e78738",
-      "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1711790252168-079dad3ca226?auto=format&fit=crop&w=800&q=80",
       "description": "Smoky grilled paneer cubes layered with bell peppers and onions",
       "type": "food",
-      "tags": ["paneer-tikka"]
+      "tags": [
+        "paneer-tikka"
+      ]
     },
     {
       "id": "5fd47425-31c6-4486-9d04-13991f989f67",
-      "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1712352989906-25c33cf6ef51?auto=format&fit=crop&w=800&q=80",
       "description": "Melt-in-mouth Awadhi minced lamb patties infused with aromatic spices",
       "type": "food",
-      "tags": ["galouti-kebab"]
+      "tags": [
+        "galouti-kebab"
+      ]
     },
     {
       "id": "7ab75829-973c-4f26-88b2-ce78780d3ecf",
-      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1669150849084-2b43a9ef23e2?auto=format&fit=crop&w=800&q=80",
       "description": "Minced spiced meat skewers char-grilled over hot coal embers",
       "type": "food",
-      "tags": ["seekh-kebab"]
+      "tags": [
+        "seekh-kebab"
+      ]
     },
     {
       "id": "201a074d-bc42-4bfc-9bc3-0ca018e8a44d",
-      "image_url": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1725210338021-aa5dfff76eae?auto=format&fit=crop&w=800&q=80",
       "description": "Crispy deep-fried chicken cubes tossed with curry leaves, garlic, and chillies",
       "type": "food",
-      "tags": ["chicken-65"]
+      "tags": [
+        "chicken-65"
+      ]
     },
     {
       "id": "7f916847-7a95-4c7d-9b38-47b3322e24d5",
-      "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1585325701956-60dd9c8553bc?auto=format&fit=crop&w=800&q=80",
       "description": "Semolina crusted fish fillets shallow-fried to golden perfection",
       "type": "food",
-      "tags": ["fish-fry"]
+      "tags": [
+        "fish-fry"
+      ]
     },
     {
       "id": "4fccdddb-ba12-4cc7-ad2d-4d29b93c14b7",
-      "image_url": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1694849789325-914b71ab4075?auto=format&fit=crop&w=800&q=80",
       "description": "Golden crispy rice crepe stuffed with spiced potato onion masala",
       "type": "food",
-      "tags": ["dosa"]
+      "tags": [
+        "dosa"
+      ]
     },
     {
       "id": "11997f16-a10c-4bc5-bb97-a8a07216b28e",
       "image_url": "https://images.unsplash.com/photo-1741376509047-66dae5df90f9?auto=format&fit=crop&w=800&q=80",
       "description": "Steaming hot fluffy soft white idlis served with freshly ground coconut chutney and sambar",
       "type": "food",
-      "tags": ["idly"]
+      "tags": [
+        "idly"
+      ]
     },
     {
       "id": "f4be70b3-fa9c-4b3f-8943-f5b1b635b98f",
       "image_url": "https://images.unsplash.com/photo-1730191843435-073792ba22bc?auto=format&fit=crop&w=800&q=80",
       "description": "Crispy golden medu vada fritters served with freshly ground coconut chutney and sambar",
       "type": "food",
-      "tags": ["vada"]
+      "tags": [
+        "vada"
+      ]
     },
     {
       "id": "be7d36da-bd10-4a92-bc99-4d16734b580e",
-      "image_url": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1620108092667-dd0d0d61df2c?auto=format&fit=crop&w=800&q=80",
       "description": "Delicate lacy fermented rice pancakes with soft spongy center",
       "type": "food",
-      "tags": ["appam"]
+      "tags": [
+        "appam"
+      ]
     },
     {
       "id": "64d18efd-e23b-4d28-97e2-e56cbe2440b6",
-      "image_url": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1623010709118-cf3444cc11c7?auto=format&fit=crop&w=800&q=80",
       "description": "Thick fluffy pancake topped with finely chopped onions, tomatoes, and chillies",
       "type": "food",
-      "tags": ["uttapam"]
+      "tags": [
+        "uttapam"
+      ]
     },
     {
       "id": "47e89c89-c2a8-496b-a236-c6315a84d1a3",
-      "image_url": "https://images.unsplash.com/photo-1741376509253-221ac18fac0f?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1741376509187-0b683c764294?auto=format&fit=crop&w=800&q=80",
       "description": "Mini button idlis tossed generously in fiery gun-powder podi and desi ghee",
       "type": "food",
-      "tags": ["podi-idli"]
+      "tags": [
+        "podi-idli"
+      ]
     },
     {
       "id": "d16523ad-1a52-44b6-8e5e-cd08195e34da",
-      "image_url": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1655979284091-eea0e93405ee?auto=format&fit=crop&w=800&q=80",
       "description": "Clay tandoor baked leavened bread brushed with garlic butter and fresh cilantro",
       "type": "food",
-      "tags": ["naan"]
+      "tags": [
+        "naan"
+      ]
     },
     {
       "id": "476c9e0a-2a3d-4f7a-aa39-9d1fc16b41ca",
-      "image_url": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1559561724-4ea348cd867f?auto=format&fit=crop&w=800&q=80",
       "description": "Soft layered tandoori naan brushed generously with melted Amul butter",
       "type": "food",
-      "tags": ["naan"]
+      "tags": [
+        "naan"
+      ]
     },
     {
       "id": "b37bdd82-dbf4-4471-a694-d23045e07d69",
-      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1668357530437-72a12c660f94?auto=format&fit=crop&w=800&q=80",
       "description": "Layered spiral flaky flatbread tossed on cast iron griddle with ghee",
       "type": "food",
-      "tags": ["parotta"]
+      "tags": [
+        "parotta"
+      ]
     },
     {
       "id": "cf4b40a7-35c2-4c92-93ef-f179e8b0b404",
-      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1620108092667-dd0d0d61df2c?auto=format&fit=crop&w=800&q=80",
       "description": "Flaky crust bread stuffed with spiced mashed potatoes and anardana",
       "type": "food",
-      "tags": ["kulcha"]
+      "tags": [
+        "kulcha"
+      ]
     },
     {
       "id": "3dca3cb1-1823-4841-bea0-9f897596e70c",
-      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1718874560784-d4164371eb38?auto=format&fit=crop&w=800&q=80",
       "description": "Whole wheat round flatbread crisped in clay tandoor oven",
       "type": "food",
-      "tags": ["roti"]
+      "tags": [
+        "roti"
+      ]
     },
     {
       "id": "0f27f068-9b12-4293-ad48-c7bc54e1249f",
-      "image_url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1605719161691-5d9771fc144f?auto=format&fit=crop&w=800&q=80",
       "description": "Puffy deep-fried golden whole wheat pooris served with potato masala",
       "type": "food",
-      "tags": ["poori"]
+      "tags": [
+        "poori"
+      ]
     },
     {
       "id": "7023d08a-457f-45d0-9719-c45b2c2634b5",
       "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
       "description": "Wok-tossed noodles with crunchy vegetables, soy sauce, and scallions",
       "type": "food",
-      "tags": ["noodles"]
+      "tags": [
+        "noodles"
+      ]
     },
     {
       "id": "1d8b362f-0d85-457c-8aea-e1b0d0e23f01",
       "image_url": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
       "description": "Stir-fried basmati rice cooked on high flame with vegetables and light soy",
       "type": "food",
-      "tags": ["fried-rice"]
+      "tags": [
+        "fried-rice"
+      ]
     },
     {
       "id": "9dee3288-1929-4d92-875d-3ac4862fd6a3",
-      "image_url": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1675864532625-60efd11cde54?auto=format&fit=crop&w=800&q=80",
       "description": "Crisp chicken bites tossed with capsicum, green chillies, and spicy dark sauce",
       "type": "food",
-      "tags": ["chilli-chicken"]
+      "tags": [
+        "chilli-chicken"
+      ]
     },
     {
       "id": "49e2b483-8ad7-468f-a51e-ee34e3b2f2c6",
-      "image_url": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1674601032178-4730991fb0fc?auto=format&fit=crop&w=800&q=80",
       "description": "Delicate steamed dumplings served in bamboo basket with fiery chilli dip",
       "type": "food",
-      "tags": ["dim-sum"]
+      "tags": [
+        "dim-sum"
+      ]
     },
     {
       "id": "56230c7d-7c07-42dc-94cf-425446ab2868",
-      "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1669340781012-ae89fbac9fc3?auto=format&fit=crop&w=800&q=80",
       "description": "Crispy fried rolls filled with stir-fried cabbage, carrots, and glass noodles",
       "type": "food",
-      "tags": ["spring-rolls"]
+      "tags": [
+        "spring-rolls"
+      ]
     },
     {
       "id": "df4ead65-9bb2-47c3-ae38-7f939ff4b0ea",
       "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
       "description": "Sourdough pizza topped with San Marzano tomatoes, mozzarella, and basil",
       "type": "food",
-      "tags": ["pizza"]
+      "tags": [
+        "pizza"
+      ]
     },
     {
       "id": "85e151ea-c724-438b-a2f1-c4ed3cbb99f5",
-      "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664472693779-c129e03c1a19?auto=format&fit=crop&w=800&q=80",
       "description": "Al dente penne pasta tossed in spicy arrabbiata tomato sauce with herbs",
       "type": "food",
-      "tags": ["pasta"]
+      "tags": [
+        "pasta"
+      ]
     },
     {
       "id": "c14d2202-08f0-4e84-af3d-e34b7c8273fe",
       "image_url": "https://images.unsplash.com/photo-1506280754576-f6fa8a873550?auto=format&fit=crop&w=800&q=80",
       "description": "Toasted baguette with garlic herb butter and bubbling melted mozzarella",
       "type": "food",
-      "tags": ["garlic-bread"]
+      "tags": [
+        "garlic-bread"
+      ]
     },
     {
       "id": "5052770f-c50c-417c-9512-afdfbb745eb4",
       "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
       "description": "Crispy seasoned chicken patty burger with melted cheddar and chipotle mayo",
       "type": "food",
-      "tags": ["burger"]
+      "tags": [
+        "burger"
+      ]
     },
     {
       "id": "0f41348a-78c9-45c4-9275-57cda1b04ade",
       "image_url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
       "description": "Juicy smashed cheeseburger topped with caramelized onions and house sauce",
       "type": "food",
-      "tags": ["burger"]
+      "tags": [
+        "burger"
+      ]
     },
     {
       "id": "e40f8954-d786-4f23-89b3-f00e96adefa1",
-      "image_url": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1714651620426-1ae32ca6b418?auto=format&fit=crop&w=800&q=80",
       "description": "Golden crispy skin-on potato fries dusted with piquant peri peri seasoning",
       "type": "food",
-      "tags": ["fries"]
+      "tags": [
+        "fries"
+      ]
     },
     {
       "id": "e4506a77-7ccc-45df-8e7f-c138b1816bb1",
-      "image_url": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1750680230010-7b2f15ff7a59?auto=format&fit=crop&w=800&q=80",
       "description": "Crispy batter-dipped onion rings fried golden and served with dip",
       "type": "food",
-      "tags": ["onion-rings"]
+      "tags": [
+        "onion-rings"
+      ]
     },
     {
       "id": "c907146d-f5e1-4e70-aae2-fdb15440ad48",
-      "image_url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1769030905851-c0e0a4fe5c51?auto=format&fit=crop&w=800&q=80",
       "description": "Iconic Mumbai street burger with spiced batata vada and dry garlic chutney",
       "type": "food",
-      "tags": ["vada-pav"]
+      "tags": [
+        "vada-pav"
+      ]
     },
     {
       "id": "d2761f5d-fe15-49e4-ab10-1a56e9e1eeb8",
-      "image_url": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
       "description": "Crushed potato samosas topped with chole, curd, tamarind, and mint chutney",
       "type": "food",
-      "tags": ["samosa"]
+      "tags": [
+        "samosa"
+      ]
     },
     {
       "id": "8c79ad5d-023f-496f-bbda-3d7781266938",
-      "image_url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1753357303396-704b5abe8945?auto=format&fit=crop&w=800&q=80",
       "description": "Mashed spicy vegetable bhaji cooked with Amul butter, served with soft pav",
       "type": "food",
-      "tags": ["pav-bhaji"]
+      "tags": [
+        "pav-bhaji"
+      ]
     },
     {
       "id": "8beff8c7-d629-4aa5-96b3-c6e05395f541",
-      "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1680359808507-0dcbd41d4636?auto=format&fit=crop&w=800&q=80",
       "description": "Crunchy golden onion fritters seasoned with ajwain, green chillies, and mint",
       "type": "food",
-      "tags": ["pakoda"]
+      "tags": [
+        "pakoda"
+      ]
     },
     {
       "id": "1db56327-2296-43f1-bbda-d6d51a4ccf63",
-      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1714799263291-272975db795a?auto=format&fit=crop&w=800&q=80",
       "description": "Soft spongy steamed Gujarati nylon dhokla tempered with mustard seeds, chillies, and coriander",
       "type": "food",
-      "tags": ["dhokla"]
+      "tags": [
+        "dhokla"
+      ]
     },
     {
       "id": "aec09f97-aafa-407a-ab53-226cb2ac05f8",
-      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1666190092159-3171cf0fbb12?auto=format&fit=crop&w=800&q=80",
       "description": "Warm milk khoya dumplings soaked in aromatic rose cardamom sugar syrup",
       "type": "food",
-      "tags": ["gulab-jamun"]
+      "tags": [
+        "gulab-jamun"
+      ]
     },
     {
       "id": "71ed6d51-a930-4b04-a28f-e0334c5e69ff",
-      "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1714799263412-2e0c1f875959?auto=format&fit=crop&w=800&q=80",
       "description": "Spongy chhena dumplings poached in light aromatic sugar syrup",
       "type": "food",
-      "tags": ["rasgulla"]
+      "tags": [
+        "rasgulla"
+      ]
     },
     {
       "id": "043bb752-fb44-493c-b94d-d5294a4cee2e",
-      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1755090154741-67861ba1c7b4?auto=format&fit=crop&w=800&q=80",
       "description": "Traditional slow-cooked saffron rice pudding served chilled in clay bowl",
       "type": "food",
-      "tags": ["kheer"]
+      "tags": [
+        "kheer"
+      ]
     },
     {
       "id": "dc1894ab-f797-432e-9954-dece32589b5b",
-      "image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1695568181558-034b7d3e49eb?auto=format&fit=crop&w=800&q=80",
       "description": "Diamond-cut cashew nut fudge decorated with edible silver leaf",
       "type": "food",
-      "tags": ["kaju-katli"]
+      "tags": [
+        "kaju-katli"
+      ]
     },
     {
       "id": "5369435b-d656-4837-af3f-f99ae9a20e8d",
-      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
       "description": "Caramelized sweet curd traditionally set in porous earthenware pot",
       "type": "food",
-      "tags": ["mishti-doi"]
+      "tags": [
+        "mishti-doi"
+      ]
     },
     {
       "id": "910f6514-e45b-4bde-b28c-d3df843bbaa3",
-      "image_url": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1568627175730-73d05bd69ca9?auto=format&fit=crop&w=800&q=80",
       "description": "Espresso dipped ladyfingers layered with mascarpone and cocoa powder",
       "type": "food",
-      "tags": ["tiramisu"]
+      "tags": [
+        "tiramisu"
+      ]
     },
     {
       "id": "c49c66ae-f2f7-4c86-9b99-d1b7e5de5c1a",
-      "image_url": "https://images.unsplash.com/photo-1563729784-fe03868a174a?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
       "description": "Golden semolina halwa cooked in pure cow ghee, saffron, and cashew nuts",
       "type": "food",
-      "tags": ["halwa"]
+      "tags": [
+        "halwa"
+      ]
     },
     {
       "id": "cf87bde1-f4f2-4f73-9f59-11bee390f89b",
-      "image_url": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1625033405953-f20401c7d848?auto=format&fit=crop&w=800&q=80",
       "description": "Steaming cutting tea brewed with crushed ginger, green cardamom, and milk",
       "type": "food",
-      "tags": ["chai"]
+      "tags": [
+        "chai"
+      ]
     },
     {
       "id": "efbbd7a9-d110-4a69-8f0c-85d5f4bb160e",
-      "image_url": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1758387941825-a6ecaec9c14d?auto=format&fit=crop&w=800&q=80",
       "description": "Frothy South Indian degree filter coffee served in traditional brass davarah",
       "type": "food",
-      "tags": ["filter-coffee"]
+      "tags": [
+        "filter-coffee"
+      ]
     },
     {
       "id": "6439a56f-0cf4-49d9-b59c-b124bc8fb097",
-      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://plus.unsplash.com/premium_photo-1663091544172-794c537af00c?auto=format&fit=crop&w=800&q=80",
       "description": "Thick sweet churned yogurt smoothie blended with ripe Alphonso mangoes",
       "type": "food",
-      "tags": ["mango-lassi"]
+      "tags": [
+        "mango-lassi"
+      ]
     },
     {
       "id": "3f585bc3-cad3-4aef-9914-09fe20eea489",
-      "image_url": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1630409346699-79481a79db52?auto=format&fit=crop&w=800&q=80",
       "description": "Spiced salted buttermilk tempered with ginger, green chillies, and curry leaves",
       "type": "food",
-      "tags": ["buttermilk"]
+      "tags": [
+        "buttermilk"
+      ]
     },
     {
       "id": "e52306db-2163-463c-81e0-33624b177392",
       "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=800&q=80",
       "description": "Rich Belgian chocolate milkshake topped with whipped cream and drizzle",
       "type": "food",
-      "tags": ["milkshake"]
+      "tags": [
+        "milkshake"
+      ]
     },
     {
       "id": "86ca4a79-2a42-4ec3-a60d-e4b43f5a0a4b",
-      "image_url": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1776677897686-2af17aaec2ee?auto=format&fit=crop&w=800&q=80",
       "description": "Chilled sparkling lemonade with fresh mint leaves and black rock salt",
       "type": "food",
-      "tags": ["lemonade"]
+      "tags": [
+        "lemonade"
+      ]
     },
     {
       "id": "8dc38f85-0a72-432c-bb50-46f546858ad3",
-      "image_url": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80",
+      "image_url": "https://images.unsplash.com/photo-1753656512676-68af646ce776?auto=format&fit=crop&w=800&q=80",
       "description": "Pink coastal digestive cooler made of fresh coconut milk and tangy kokum",
       "type": "food",
-      "tags": ["sol-kadhi"]
+      "tags": [
+        "sol-kadhi"
+      ]
     },
     {
       "id": "a5e3f1c9-7d24-4f81-b6a3-9c8e1047d95b",
       "image_url": "https://images.unsplash.com/photo-1787024231387-edccb8c44700?auto=format&fit=crop&w=800&q=80",
       "description": "Authentic South Indian idli and medu vada combo platter served with coconut chutney and hot sambar",
       "type": "food",
-      "tags": ["idlyvade"]
+      "tags": [
+        "idlyvade"
+      ]
     }
   ]
 }

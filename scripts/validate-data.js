@@ -169,6 +169,12 @@ function runValidation() {
       errors.push(`[Restaurant] Missing name on ${label}`);
     }
 
+    if (r.image_id !== undefined) {
+      if (typeof r.image_id !== 'string' || !imageIdMap.has(r.image_id)) {
+        errors.push(`[Restaurant] Foreign Key Error: image_id "${r.image_id}" not found in restaurant-images.json for ${label}`);
+      }
+    }
+
     if (!r.description || typeof r.description !== 'string') {
       errors.push(`[Restaurant] Missing description on ${label}`);
     }
@@ -363,6 +369,29 @@ function runValidation() {
       });
     });
   });
+
+  // 10. Validate Unique Dishes Catalog Consistency
+  const uniqueDishMap = new Map();
+  foodItems.forEach(food => {
+    const name = food.name.trim();
+    if (!uniqueDishMap.has(name)) {
+      uniqueDishMap.set(name, {
+        dietary_type: food.dietary_type,
+        image_id: food.image_id,
+        items: []
+      });
+    }
+    const entry = uniqueDishMap.get(name);
+    entry.items.push(food);
+    if (entry.dietary_type !== food.dietary_type) {
+      errors.push(`[Catalog Conflict] Dish "${name}" has inconsistent dietary_type (${entry.dietary_type} vs ${food.dietary_type})`);
+    }
+    if (entry.image_id !== food.image_id) {
+      errors.push(`[Catalog Conflict] Dish "${name}" has inconsistent image_id (${entry.image_id} vs ${food.image_id})`);
+    }
+  });
+
+  console.log(`- Unique Dishes: ${uniqueDishMap.size} (Catalog consistency verified)\n`);
 
   reportResults(errors, warnings);
 
